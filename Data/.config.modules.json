@@ -1,0 +1,8 @@
+{
+    "js-pigpio": {
+        "spec": "js-pigpio",
+        "module": "js-pigpio",
+        "builtin": false,
+        "known": false
+    }
+}
