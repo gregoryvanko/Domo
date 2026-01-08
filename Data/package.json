@@ -1,0 +1,16 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "js-pigpio": "^1.5.1",
+        "node-red-contrib-cron-plus": "~1.5.7",
+        "node-red-contrib-ds18b20": "~0.0.3",
+        "node-red-contrib-homekit-bridged": "~1.5.0",
+        "node-red-contrib-influxdb": "~0.6.1",
+        "node-red-contrib-knx-ultimate": "~1.4.15",
+        "node-red-dashboard": "~3.4.0",
+        "node-red-node-pi-gpiod": "~0.4.0"
+    }
+}
