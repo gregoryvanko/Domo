@@ -1,0 +1,23 @@
+services:
+  node-red:
+    build:
+      context: ./ConfigurationFiles
+    container_name: node-red
+    user: "0"
+    privileged: true
+    restart: unless-stopped
+    network_mode: host
+    environment:
+      - TZ=Europe/Brussels
+      - INFLUX_TOKEN=${INFLUX_TOKEN:?error}
+      - INFLUX_URL=${INFLUX_URL:?error}
+      - INFLUX_ORGA=${INFLUX_ORGA:?error}
+      - INFLUX_BUCKET=${INFLUX_BUCKET:?error}
+    ports:
+      - "1880:1880"
+    devices:
+      - /dev/gpiomem
+    volumes:
+      - ./Data:/data
+    group_add:
+      - dialout
