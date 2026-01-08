@@ -1,0 +1,13 @@
+*.backup
+**.config.*
+**.sessions.json
+**package.json
+node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# dotenv environment variable files
+.env
