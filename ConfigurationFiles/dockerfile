@@ -1,0 +1,10 @@
+FROM nodered/node-red:latest
+
+USER node-red
+
+# Add package to install
+RUN npm install node-red-dashboard
+RUN npm install node-red-contrib-cron-plus
+RUN npm install node-red-contrib-homekit-bridged
+RUN npm install node-red-contrib-influxdb
+RUN npm install node-red-contrib-knx-ultimate
