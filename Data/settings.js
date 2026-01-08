@@ -463,7 +463,7 @@ module.exports = {
      */
     functionGlobalContext: {
         // os:require('os'),
-	jsPigpio:require('js-pigpio')
+	//jsPigpio:require('js-pigpio')
     },
 
     /** The maximum number of messages nodes will buffer internally as part of their

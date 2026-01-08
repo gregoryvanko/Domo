@@ -95,9 +95,9 @@
             "174ef4c31984f564",
             "ae05948b94f0cb6d"
         ],
-        "x": 54,
+        "x": 34,
         "y": 419,
-        "w": 1152,
+        "w": 1172,
         "h": 202
     },
     {
@@ -125,9 +125,9 @@
             "dbcef9661ccc3487",
             "b9ac3b5522321a97"
         ],
-        "x": 54,
+        "x": 34,
         "y": 679,
-        "w": 1172,
+        "w": 1192,
         "h": 222
     },
     {
@@ -159,9 +159,9 @@
             "3aea62fa0aded53f",
             "048adba8284b6eea"
         ],
-        "x": 54,
+        "x": 34,
         "y": 99,
-        "w": 1192,
+        "w": 1212,
         "h": 282
     },
     {
@@ -189,9 +189,9 @@
             "a8ec35f54033ec2f",
             "d5f41c4ff506c870"
         ],
-        "x": 54,
+        "x": 34,
         "y": 1199,
-        "w": 1172,
+        "w": 1192,
         "h": 222
     },
     {
@@ -219,9 +219,9 @@
             "99a9bf378b4f7867",
             "34f308fb554e31df"
         ],
-        "x": 54,
+        "x": 34,
         "y": 1439,
-        "w": 1172,
+        "w": 1192,
         "h": 222
     },
     {
@@ -251,9 +251,9 @@
             "74d56218974e2180",
             "1bdde9c0be0aba46"
         ],
-        "x": 54,
+        "x": 34,
         "y": 1919,
-        "w": 1192,
+        "w": 1212,
         "h": 242
     },
     {
@@ -281,9 +281,9 @@
             "43266ca43ba4e258",
             "c36b6e8eaec1f2b8"
         ],
-        "x": 54,
+        "x": 34,
         "y": 2179,
-        "w": 1132,
+        "w": 1152,
         "h": 222
     },
     {
@@ -311,9 +311,9 @@
             "e0e30482efe522ce",
             "0993fdef1cdea4ae"
         ],
-        "x": 54,
+        "x": 34,
         "y": 2419,
-        "w": 1132,
+        "w": 1152,
         "h": 222
     },
     {
@@ -341,9 +341,9 @@
             "5a59be7b0b6891e4",
             "4320cc9e203f5285"
         ],
-        "x": 54,
+        "x": 34,
         "y": 2659,
-        "w": 1192,
+        "w": 1212,
         "h": 222
     },
     {
@@ -372,9 +372,9 @@
             "a9162e4218bb49c8",
             "60a73b859489f0d6"
         ],
-        "x": 54,
+        "x": 34,
         "y": 2899,
-        "w": 1132,
+        "w": 1152,
         "h": 222
     },
     {
@@ -402,9 +402,9 @@
             "9e9a80d2c31cd2a4",
             "3ae63d5e72773b8b"
         ],
-        "x": 54,
+        "x": 34,
         "y": 3139,
-        "w": 1172,
+        "w": 1192,
         "h": 222
     },
     {
@@ -432,9 +432,9 @@
             "0d60b1f664b97a2e",
             "9f844fdf09a7b26c"
         ],
-        "x": 54,
+        "x": 34,
         "y": 3379,
-        "w": 1232,
+        "w": 1252,
         "h": 222
     },
     {
@@ -462,9 +462,9 @@
             "a8eef358ccfce8ea",
             "39d1c8edd4a582a7"
         ],
-        "x": 54,
+        "x": 34,
         "y": 3619,
-        "w": 1272,
+        "w": 1292,
         "h": 222
     },
     {
@@ -493,9 +493,9 @@
             "1e56307f3b2afc0e",
             "97c57e7afedcea7f"
         ],
-        "x": 54,
+        "x": 34,
         "y": 3859,
-        "w": 1172,
+        "w": 1192,
         "h": 222
     },
     {
@@ -524,9 +524,9 @@
             "5b58826e2b76bbd0",
             "129007e661143b33"
         ],
-        "x": 54,
+        "x": 34,
         "y": 4099,
-        "w": 1172,
+        "w": 1192,
         "h": 222
     },
     {
@@ -555,9 +555,9 @@
             "63a6466bdfec1bbb",
             "a056ae72a695983d"
         ],
-        "x": 54,
+        "x": 34,
         "y": 4339,
-        "w": 1172,
+        "w": 1192,
         "h": 222
     },
     {
@@ -983,9 +983,9 @@
             "4f9adb45e9cc6706",
             "81f14e3efaab2295"
         ],
-        "x": 54,
+        "x": 34,
         "y": 4579,
-        "w": 1192,
+        "w": 1212,
         "h": 222
     },
     {
@@ -1039,9 +1039,9 @@
             "e27f53b2c6c10f40",
             "222fc6177f0ade82"
         ],
-        "x": 74,
+        "x": 54,
         "y": 39,
-        "w": 772,
+        "w": 792,
         "h": 182
     },
     {
@@ -1064,9 +1064,9 @@
             "90835f6ec8b330bc",
             "a9f7d017bdf7a3ac"
         ],
-        "x": 74,
+        "x": 54,
         "y": 259,
-        "w": 752,
+        "w": 772,
         "h": 182
     },
     {
@@ -1087,9 +1087,9 @@
             "49c0bbd89df14b5f",
             "c20700173ba6b853"
         ],
-        "x": 74,
+        "x": 54,
         "y": 1539,
-        "w": 552,
+        "w": 572,
         "h": 122
     },
     {
@@ -1116,9 +1116,9 @@
             "c118f86fbc0d500a",
             "a3747019694739fe"
         ],
-        "x": 74,
+        "x": 54,
         "y": 1339,
-        "w": 972,
+        "w": 992,
         "h": 182
     },
     {
@@ -1148,11 +1148,11 @@
             "f28abe05ecbc27f1",
             "aa62e5b361cbec0c",
             "8ded17bee9bcc1d7",
-            "071aa57f6019e7aa",
-            "0150c56a52fcce46",
             "8532906a888b76ce",
             "7a28efe4112a48a3",
-            "daec04544a361ede"
+            "daec04544a361ede",
+            "61e8dfb2304fd18f",
+            "b876f429f9b951fd"
         ],
         "x": 74,
         "y": 699,
@@ -1179,16 +1179,16 @@
             "3de0e32ce8581a01",
             "17efc8f51e563f3f",
             "8f83823ab5c03408",
-            "a977478c182424f3",
-            "23dabd37e59af9a4",
             "fc9ea0709ccc6ba4",
             "6411bd7fc8733f0a",
-            "844b40ddfd85d05e"
+            "844b40ddfd85d05e",
+            "12edfcca9a396eb2",
+            "09be191e0edfcc34"
         ],
-        "x": 74,
+        "x": 34,
         "y": 459,
-        "w": 1012,
-        "h": 242
+        "w": 1052,
+        "h": 262
     },
     {
         "id": "86657a35e61b0b78",
@@ -1219,9 +1219,9 @@
             "8372cbe23977cefb",
             "d6c192096a627e4a"
         ],
-        "x": 14,
+        "x": -6,
         "y": 19,
-        "w": 1172,
+        "w": 1192,
         "h": 262
     },
     {
@@ -1253,9 +1253,9 @@
             "d58da7774be7fafa",
             "dd839a0331097225"
         ],
-        "x": 14,
+        "x": -6,
         "y": 319,
-        "w": 1152,
+        "w": 1172,
         "h": 262
     },
     {
@@ -1287,9 +1287,9 @@
             "a92b4cf4ddfe9f16",
             "c3111355ae6983d2"
         ],
-        "x": 14,
+        "x": -6,
         "y": 619,
-        "w": 1172,
+        "w": 1192,
         "h": 262
     },
     {
@@ -1321,9 +1321,9 @@
             "44b677ecce4ab9a3",
             "0bb1fff8acb47371"
         ],
-        "x": 14,
+        "x": -6,
         "y": 919,
-        "w": 1232,
+        "w": 1252,
         "h": 262
     },
     {
@@ -1355,9 +1355,9 @@
             "6c27a4cd8308e876",
             "9ebda36793967dd2"
         ],
-        "x": 14,
+        "x": -6,
         "y": 1219,
-        "w": 1192,
+        "w": 1212,
         "h": 262
     },
     {
@@ -1389,9 +1389,9 @@
             "c612263c265a580b",
             "d20bc6173266a7e0"
         ],
-        "x": 14,
+        "x": -6,
         "y": 1519,
-        "w": 1212,
+        "w": 1232,
         "h": 262
     },
     {
@@ -1423,9 +1423,9 @@
             "63052f6605952923",
             "29d885bf8083f9f1"
         ],
-        "x": 14,
+        "x": -6,
         "y": 1819,
-        "w": 1192,
+        "w": 1212,
         "h": 262
     },
     {
@@ -1457,9 +1457,9 @@
             "c195bbf05dcd3987",
             "3bafda23fb43781d"
         ],
-        "x": 14,
+        "x": -6,
         "y": 2119,
-        "w": 1212,
+        "w": 1232,
         "h": 262
     },
     {
@@ -1474,8 +1474,8 @@
             "82531ab0c4cc58f3",
             "af27d3c6e8cdb22c",
             "e774c4fdd5ada606",
-            "0127de4f165e4a68",
-            "1ca7d64aad192489"
+            "1ca7d64aad192489",
+            "5c5496885f24aafc"
         ],
         "x": 74,
         "y": 2439,
@@ -1515,9 +1515,7 @@
             "faa8201de51ea0ab"
         ],
         "x": 34,
-        "y": 19,
-        "w": 1052,
-        "h": 522
+        "y": 19
     },
     {
         "id": "b9edbaade8008deb",
@@ -1602,9 +1600,9 @@
             "c1a7e84f2163cfbd",
             "74adb1270194e06d"
         ],
-        "x": 54,
+        "x": 34,
         "y": 919,
-        "w": 1252,
+        "w": 1272,
         "h": 262
     },
     {
@@ -1625,9 +1623,9 @@
             "b1c257d69fcf364d",
             "dd94efd85e6a87d5"
         ],
-        "x": 74,
+        "x": 54,
         "y": 1679,
-        "w": 552,
+        "w": 572,
         "h": 122
     },
     {
@@ -1648,9 +1646,9 @@
             "62d91e37a4f1e09d",
             "d6274e48bdd2773a"
         ],
-        "x": 74,
+        "x": 54,
         "y": 2099,
-        "w": 532,
+        "w": 552,
         "h": 122
     },
     {
@@ -1671,9 +1669,9 @@
             "e64a4314164d81cc",
             "967213f5b7bdb1d4"
         ],
-        "x": 74,
+        "x": 54,
         "y": 1819,
-        "w": 512,
+        "w": 532,
         "h": 122
     },
     {
@@ -1694,9 +1692,9 @@
             "ecbc1c20ca70b0b1",
             "61c9eb87eff57989"
         ],
-        "x": 74,
+        "x": 54,
         "y": 1959,
-        "w": 532,
+        "w": 552,
         "h": 122
     },
     {
@@ -1717,9 +1715,9 @@
             "e651abaa3836a568",
             "931c9eadbda7d729"
         ],
-        "x": 74,
+        "x": 54,
         "y": 2239,
-        "w": 572,
+        "w": 592,
         "h": 122
     },
     {
@@ -1803,9 +1801,7 @@
             "c8aab28ee9df8484"
         ],
         "x": 34,
-        "y": 559,
-        "w": 1052,
-        "h": 502
+        "y": 559
     },
     {
         "id": "6b677e7831d7581f",
@@ -1840,9 +1836,7 @@
             "0a7ff159a9c9100e"
         ],
         "x": 34,
-        "y": 1099,
-        "w": 1072,
-        "h": 502
+        "y": 1099
     },
     {
         "id": "e9cf66a155c05ddb",
@@ -1877,9 +1871,7 @@
             "a73cf5ca7bee4786"
         ],
         "x": 34,
-        "y": 1639,
-        "w": 1072,
-        "h": 502
+        "y": 1639
     },
     {
         "id": "3c794a36ea42a16a",
@@ -1914,9 +1906,7 @@
             "7560a44aebccf8eb"
         ],
         "x": 34,
-        "y": 2179,
-        "w": 1112,
-        "h": 502
+        "y": 2179
     },
     {
         "id": "ceeacb7745b7596b",
@@ -1951,9 +1941,7 @@
             "726376d006aeb4af"
         ],
         "x": 34,
-        "y": 2719,
-        "w": 1132,
-        "h": 502
+        "y": 2719
     },
     {
         "id": "50578ea945017c6b",
@@ -1988,9 +1976,7 @@
             "927a337f35286280"
         ],
         "x": 34,
-        "y": 3259,
-        "w": 1132,
-        "h": 502
+        "y": 3259
     },
     {
         "id": "aa5cb303ba413ecc",
@@ -2025,9 +2011,7 @@
             "dceca90f7ffaeee3"
         ],
         "x": 34,
-        "y": 3799,
-        "w": 1132,
-        "h": 502
+        "y": 3799
     },
     {
         "id": "7a7f31659949dc97",
@@ -2060,9 +2044,7 @@
             "5e3fc72cace079b6"
         ],
         "x": 34,
-        "y": 4339,
-        "w": 1072,
-        "h": 522
+        "y": 4339
     },
     {
         "id": "cf07d1c2ce732302",
@@ -2095,9 +2077,7 @@
             "57d46ce8618b3da8"
         ],
         "x": 1114,
-        "y": 4339,
-        "w": 1072,
-        "h": 522
+        "y": 4339
     },
     {
         "id": "ccfdc26584dbdffc",
@@ -2436,8 +2416,8 @@
         },
         "nodes": [
             "185fe1a436a81412",
-            "e6d7d455a038ef4a",
-            "33489192df08f6ae"
+            "33489192df08f6ae",
+            "d08f34052f28b2fb"
         ],
         "x": 14,
         "y": 2399,
@@ -2456,8 +2436,8 @@
             "f1f8ac72be232a99",
             "3f25ae71af496ab0",
             "b7e6b130d4114a3b",
-            "73749afcd73795ea",
-            "18e6cd08c523e8b9"
+            "18e6cd08c523e8b9",
+            "5789e48bc1bc040c"
         ],
         "x": 74,
         "y": 2599,
@@ -2476,8 +2456,8 @@
             "77b08262839b1797",
             "1135fc87d6fe0d04",
             "47ae2d4e3f819f03",
-            "94a31b4333ab19b0",
-            "8cfa920b438d8106"
+            "8cfa920b438d8106",
+            "d47796dc5582f01d"
         ],
         "x": 74,
         "y": 2759,
@@ -2496,8 +2476,8 @@
             "63ea1b2d1342c5de",
             "f35eff9410f39c8e",
             "ceac8a8e5a91c544",
-            "135c3343c0930f36",
-            "14fe888dd3e8a2ab"
+            "14fe888dd3e8a2ab",
+            "31636b3ff6f29a90"
         ],
         "x": 74,
         "y": 2919,
@@ -2539,15 +2519,10 @@
         "csv": "\"Group name\"\t\"Address\"\t\"Central\"\t\"Unfiltered\"\t\"Description\"\t\"DatapointType\"\t\"Security\"\n\"RESERVE\"\t\"0/0/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"GARAGE\"\t\"0/0/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"ARRIERE CUISINE\"\t\"0/0/3\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"WC RDC\"\t\"0/0/4\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"HALL ENTREE\"\t\"0/0/5\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"ESCALIER VERS +1 LED\"\t\"0/0/6\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"ESCALIER VERS +1 APPLIQUE\"\t\"0/0/7\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"BUREAU\"\t\"0/0/8\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"TABLE A MANGER SAM\"\t\"0/0/9\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"APPLIQUES LIVING\"\t\"0/0/10\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"APPLIQUES LIVING\"\t\"0/0/11\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"TABLE CUISINE\"\t\"0/0/12\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"SPOTS CUISINE\"\t\"0/0/13\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"EXT GARAGE\"\t\"0/0/14\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"EXT MAISON\"\t\"0/0/15\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"EXT TERRASSE\"\t\"0/0/16\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"SDB PARENTS\"\t\"0/0/17\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"DRESSING\"\t\"0/0/18\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"CH PARENTS PT CENTRAL\"\t\"0/0/19\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"CH PARENTS LIT GAUCHE\"\t\"0/0/20\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"CH PARENTS LIT DROITE\"\t\"0/0/21\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"CHAMBRE 2\"\t\"0/0/22\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"SALLE DE GYM\"\t\"0/0/23\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"WC ETAGE\"\t\"0/0/24\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"BUANDERIE\"\t\"0/0/25\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"SDB ENFANT\"\t\"0/0/26\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"CHAMBRE 1\"\t\"0/0/27\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"COMBLES\"\t\"0/0/28\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"PRISE SDB ENFANT\"\t\"0/0/29\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-2\"\t\"Auto\"\n\"PRISE PARENTS\"\t\"0/0/30\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-2\"\t\"Auto\"\n\"Porte Garage\"\t\"0/0/31\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"Arrosage\"\t\"0/0/32\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"PRISE SALON\"\t\"0/0/33\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"PRISE SALON TV\"\t\"0/0/34\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"RESERVE\"\t\"0/1/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"GARAGE\"\t\"0/1/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"ARRIERE CUISINE\"\t\"0/1/3\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"WC RDC\"\t\"0/1/4\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"HALL ENTREE\"\t\"0/1/5\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"ESCALIER VERS +1 LED\"\t\"0/1/6\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"ESCALIER VERS +1 APPLIQUE\"\t\"0/1/7\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"BUREAU\"\t\"0/1/8\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"TABLE A MANGER SAM\"\t\"0/1/9\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"APPLIQUES LIVING\"\t\"0/1/10\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"APPLIQUES LIVING\"\t\"0/1/11\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"TABLE CUISINE\"\t\"0/1/12\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"SPOTS CUISINE\"\t\"0/1/13\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"EXT GARAGE\"\t\"0/1/14\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"EXT MAISON\"\t\"0/1/15\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"EXT TERRASSE\"\t\"0/1/16\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"SDB PARENTS\"\t\"0/1/17\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"DRESSING\"\t\"0/1/18\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"CH PARENTS PT CENTRAL\"\t\"0/1/19\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"CH PARENTS LIT GAUCHE\"\t\"0/1/20\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"CH PARENTS LIT DROITE\"\t\"0/1/21\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"CHAMBRE 2\"\t\"0/1/22\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"SALLE DE GYM\"\t\"0/1/23\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"WC ETAGE\"\t\"0/1/24\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"BUANDERIE\"\t\"0/1/25\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"SDB ENFANT\"\t\"0/1/26\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"CHAMBRE 1\"\t\"0/1/27\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"COMBLES\"\t\"0/1/28\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"PRISE SDD\"\t\"0/1/29\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"PRISE SDB\"\t\"0/1/30\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"Porte Garage\"\t\"0/1/31\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-10\"\t\"Auto\"\n\"PRISE SALON\"\t\"0/1/33\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"PRISE SALON TV\"\t\"0/1/34\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"SALON\"\t\"0/2/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"SALLE A MANGER\"\t\"0/2/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"SALON TV\"\t\"0/2/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"HALL DE NUIT\"\t\"0/2/3\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"SALON\"\t\"0/3/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"SALLE A MANGER\"\t\"0/3/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"SALON TV\"\t\"0/3/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"HALL DE NUIT\"\t\"0/3/3\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"SALON\"\t\"0/4/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-3-7\"\t\"Auto\"\n\"SALLE A MANGER\"\t\"0/4/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-3-7\"\t\"Auto\"\n\"SALON TV\"\t\"0/4/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-3-7\"\t\"Auto\"\n\"HALL DE NUIT\"\t\"0/4/3\"\t\"\"\t\"\"\t\"\"\t\"DPST-3-7\"\t\"Auto\"\n\"SALON\"\t\"0/5/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"SALLE A MANGER\"\t\"0/5/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"SALON TV\"\t\"0/5/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"HALL DE NUIT\"\t\"0/5/4\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"SALON\"\t\"0/6/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"SALLE A MANGER\"\t\"0/6/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"SALON TV\"\t\"0/6/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"HALL DE NUIT\"\t\"0/6/3\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"HALL + ESCALIER LED\"\t\"0/7/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"HALL + ESCALIER LED + APPLIQUE ESCALIER\"\t\"0/7/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"ALL\"\t\"0/7/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"HALL DE NUIT + ESCALIER LED + APPLIQUE ESCALIER\"\t\"0/7/3\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"ALL CUISINE\"\t\"0/7/4\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-6\"\t\"Auto\"\n\"ALL SALON\"\t\"0/7/5\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"SCENE NUIT\"\t\"0/7/6\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"Salon-SAM\"\t\"0/7/7\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"Scene nuit hall \"\t\"0/7/8\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-16\"\t\"Auto\"\n\"hall+escalier led+applique escalier+1er couloir\"\t\"0/7/9\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-16\"\t\"Auto\"\n\"Welcome\"\t\"0/7/10\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"logic led lecture\"\t\"0/7/11\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"logic led tamise\"\t\"0/7/12\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"logic led repas\"\t\"0/7/13\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"logic led on\"\t\"0/7/14\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"All OFF GARAGE\"\t\"0/7/15\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"ALL OFF + PARTIEL\"\t\"0/7/16\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"Detyect\"\t\"0/7/17\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"LIEN DETECTEUR HALL ENTREE\"\t\"0/7/18\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"BOOST VMC + RADIATEUR SDB PARENTS\"\t\"0/7/19\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"BOOST VMC + RADIATEUR ENFANTS\"\t\"0/7/20\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"STATUS\"\t\"1/0/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"STATUS\"\t\"1/1/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-4\"\t\"Auto\"\n\"JOUR/NUIT\"\t\"1/2/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"date\"\t\"1/3/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-11-1\"\t\"Auto\"\n\"time\"\t\"1/3/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-10-1\"\t\"Auto\"\n\"RECEPTION SCENES\"\t\"2/0/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-17-1\"\t\"Auto\"\n\"CHAMBRE PARENTS\"\t\"3/0/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"CHAMBRE 2\"\t\"3/0/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"CHAMBRE 3\"\t\"3/0/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"SALLE DE GYM\"\t\"3/0/3\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"Cuisine\"\t\"3/0/4\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-8\"\t\"Auto\"\n\"Salon porte\"\t\"3/0/5\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"Salon coin\"\t\"3/0/6\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"salon TV\"\t\"3/0/7\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"Bureau\"\t\"3/0/8\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"FACADE CH PARENTS\"\t\"3/0/9\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"JARDIN CH PARENTS\"\t\"3/0/10\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"EVIER CUISINE\"\t\"3/0/11\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"CUISINE 1\"\t\"3/0/12\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-8\"\t\"Auto\"\n\"CUISINE 2\"\t\"3/0/13\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-8\"\t\"Auto\"\n\"SALON COIN 1\"\t\"3/0/14\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-8\"\t\"Auto\"\n\"SALON COIN 2\"\t\"3/0/15\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-8\"\t\"Auto\"\n\"SALON COIN 3\"\t\"3/0/16\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-8\"\t\"Auto\"\n\"BUREAU 1\"\t\"3/0/17\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-8\"\t\"Auto\"\n\"BUREAU 2\"\t\"3/0/18\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-8\"\t\"Auto\"\n\"CHAMBRE ALEXIS GRAND\"\t\"3/0/19\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-8\"\t\"Auto\"\n\"CHAMBRE ALEXIS PETIT\"\t\"3/0/20\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-8\"\t\"Auto\"\n\"CHAMBRE PARENTS GRAND\"\t\"3/0/21\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-8\"\t\"Auto\"\n\"CHAMBRE PARENTS PETIT\"\t\"3/0/22\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-8\"\t\"Auto\"\n\"CHAMBRE PARENTS\"\t\"3/1/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"CHAMBRE 2\"\t\"3/1/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"CHAMBRE 3\"\t\"3/1/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"SALLE DE GYM\"\t\"3/1/3\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"Cuisine\"\t\"3/1/4\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-8\"\t\"Auto\"\n\"Salon porte\"\t\"3/1/5\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-8\"\t\"Auto\"\n\"Salon coin\"\t\"3/1/6\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-7\"\t\"Auto\"\n\"salont TV\"\t\"3/1/7\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-7\"\t\"Auto\"\n\"salon porte+ salon coin\"\t\"3/1/8\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-17\"\t\"Auto\"\n\"salon porte+salon coin +cuisine+salon TV\"\t\"3/1/9\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"Bureau\"\t\"3/1/10\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"FACADE CH PARENTS\"\t\"3/1/11\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-7\"\t\"Auto\"\n\"JARDIN CH PARENTS\"\t\"3/1/12\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-7\"\t\"Auto\"\n\"EVIER CUISINE\"\t\"3/1/13\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-7\"\t\"Auto\"\n\"CUISINE 1\"\t\"3/1/14\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-3\"\t\"Auto\"\n\"CUISINE 2\"\t\"3/1/15\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-17\"\t\"Auto\"\n\"SALON COIN 1\"\t\"3/1/16\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-17\"\t\"Auto\"\n\"SALON COIN 2\"\t\"3/1/17\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-17\"\t\"Auto\"\n\"SALON COIN 3\"\t\"3/1/18\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-17\"\t\"Auto\"\n\"BUREAU 1\"\t\"3/1/19\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-17\"\t\"Auto\"\n\"BUREAU 2\"\t\"3/1/20\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-17\"\t\"Auto\"\n\"CHAMBRE ALEXIS GRAND\"\t\"3/1/21\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-17\"\t\"Auto\"\n\"CHAMBRE ALEXIS PETIT\"\t\"3/1/22\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-17\"\t\"Auto\"\n\"CHAMBRE PARENTS GRAND\"\t\"3/1/23\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-17\"\t\"Auto\"\n\"CHAMBRE PARENTS PETIT\"\t\"3/1/24\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-17\"\t\"Auto\"\n\"CHAMBRE PARENTS\"\t\"3/2/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"CHAMBRE 2\"\t\"3/2/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"CHAMBRE 3\"\t\"3/2/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"SALLE DE GYM\"\t\"3/2/3\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"Cuisine\"\t\"3/2/4\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"Salon porte\"\t\"3/2/5\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"Salon coin\"\t\"3/2/6\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"salon TV\"\t\"3/2/7\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"Bureau\"\t\"3/2/8\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"FACADE CH PARENTS\"\t\"3/2/9\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"JARDIN CH PARENTS\"\t\"3/2/10\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"CUISINE 1\"\t\"3/2/11\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"CUISINE 2\"\t\"3/2/12\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"SALON COIN 1\"\t\"3/2/13\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"SALON COIN 2\"\t\"3/2/14\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"SALON COIN 3\"\t\"3/2/15\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"BUREAU 1\"\t\"3/2/16\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"BUREAU 2\"\t\"3/2/17\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"CHAMBRE ALEXIS GRAND\"\t\"3/2/18\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"CHAMBRE ALEXIS PETIT\"\t\"3/2/19\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"CHAMBRE PARENTS GRAND\"\t\"3/2/20\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"CHAMBRE PARENTS PETIT\"\t\"3/2/21\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"CHAMBRE PARENTS\"\t\"3/3/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"CHAMBRE 2\"\t\"3/3/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"CHAMBRE 3\"\t\"3/3/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"SALLE DE GYM\"\t\"3/3/3\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"Cuisine\"\t\"3/3/4\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"Salon porte\"\t\"3/3/5\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"Salon coin\"\t\"3/3/6\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"salon TV\"\t\"3/3/7\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"Bureau\"\t\"3/3/8\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"FACADE CH PARENTS\"\t\"3/3/9\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"JARDIN CH PARENTS\"\t\"3/3/10\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"CUISINE 1\"\t\"3/3/11\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"CUISINE 2\"\t\"3/3/12\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"SALON COIN 1\"\t\"3/3/13\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"SALON COIN 2\"\t\"3/3/14\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"SALON COIN 3\"\t\"3/3/15\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"BUREAU 1\"\t\"3/3/16\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"BUREAU 2\"\t\"3/3/17\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"CHAMBRE ALEXIS GRAND\"\t\"3/3/18\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"CHAMBRE ALEXIS PETIT\"\t\"3/3/19\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"CHAMBRE PARENTS GRAND\"\t\"3/3/20\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"CHAMBRE PARENTS PETIT\"\t\"3/3/21\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"SALON PORTE + CUISINE SANS EVIER\"\t\"3/4/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"salon porte+salon coin +cuisine+salon TV\"\t\"3/4/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"SALON PORTE + CUISINE SANS EVIER STOP\"\t\"3/4/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-7\"\t\"Auto\"\n\"Vitesse\"\t\"4/0/0\"\t\"\"\t\"\"\t\"\"\t\"DPT-5-1\"\t\"Auto\"\n\"Vitesse Status\"\t\"4/0/1\"\t\"\"\t\"\"\t\"\"\t\"DPT-5-1\"\t\"Auto\"\n\"AUTO ON/OFF\"\t\"4/0/2\"\t\"\"\t\"\"\t\"\"\t\"DPT-1-1\"\t\"Auto\"\n\"AUTO ON/OFF STATUS\"\t\"4/0/3\"\t\"\"\t\"\"\t\"\"\t\"DPT-1-1\"\t\"Auto\"\n\"PROFILE T∞\"\t\"4/0/4\"\t\"\"\t\"\"\t\"\"\t\"DPT-5-1\"\t\"Auto\"\n\"PROFILE T∞ STATUS\"\t\"4/0/5\"\t\"\"\t\"\"\t\"\"\t\"DPT-5-1\"\t\"Auto\"\n\"BOOST\"\t\"4/0/6\"\t\"\"\t\"\"\t\"\"\t\"DPT-1-1\"\t\"Auto\"\n\"BOOST STATUS\"\t\"4/0/7\"\t\"\"\t\"\"\t\"\"\t\"DPT-1-1\"\t\"Auto\"\n\"T∞ IN\"\t\"4/0/8\"\t\"\"\t\"\"\t\"\"\t\"DPT-9-1\"\t\"Auto\"\n\"T∞ OUT\"\t\"4/0/9\"\t\"\"\t\"\"\t\"\"\t\"DPT-9-1\"\t\"Auto\"\n\"ETAT FILTRES\"\t\"4/0/10\"\t\"\"\t\"\"\t\"\"\t\"DPT-1-1\"\t\"Auto\"\n\"ouverture globale froid\"\t\"5/0/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-3\"\t\"Auto\"\n\"Living\"\t\"5/1/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"Salon TV\"\t\"5/1/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"Bureau\"\t\"5/1/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"Chambre 1(3 rÈelle)\"\t\"5/1/3\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"Chambre 2\"\t\"5/1/4\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"Chambre 3 parent\"\t\"5/1/5\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"SdB Parents\"\t\"5/1/6\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"SdB Enfants\"\t\"5/1/7\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"Salle de Gym\"\t\"5/1/8\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"Living\"\t\"5/2/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"Salon TV\"\t\"5/2/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"Bureau\"\t\"5/2/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"Chambre 1(3 rÈelle)\"\t\"5/2/3\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"Chambre 2\"\t\"5/2/4\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"Chambre 3 parent\"\t\"5/2/5\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"SdB Parents\"\t\"5/2/6\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"SdB Enfants\"\t\"5/2/7\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"Salle de Gym\"\t\"5/2/8\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"Living\"\t\"5/3/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"Salon TV\"\t\"5/3/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"Bureau\"\t\"5/3/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"Chambre 1(3 rÈelle)\"\t\"5/3/3\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"Chambre 2\"\t\"5/3/4\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"Chambre 3 parent\"\t\"5/3/5\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"SdB Parents\"\t\"5/3/6\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"SdB Enfants\"\t\"5/3/7\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"Salle de Gym\"\t\"5/3/8\"\t\"\"\t\"\"\t\"\"\t\"DPST-9-1\"\t\"Auto\"\n\"Living\"\t\"5/4/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"Salon TV\"\t\"5/4/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"Bureau\"\t\"5/4/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"Chambre 1(3 rÈelle)\"\t\"5/4/3\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"Chambre 2\"\t\"5/4/4\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"Chambre 3 parent\"\t\"5/4/5\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"SdB Parents\"\t\"5/4/6\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"SdB Enfants\"\t\"5/4/7\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"Salle de Gym\"\t\"5/4/8\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"Living\"\t\"5/5/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"Salon TV\"\t\"5/5/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"Bureau\"\t\"5/5/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"Chambre 1(3 rÈelle)\"\t\"5/5/3\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"Chambre 2\"\t\"5/5/4\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"Chambre 3 parent\"\t\"5/5/5\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"SdB Parents\"\t\"5/5/6\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"SdB Enfants\"\t\"5/5/7\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"Salle de Gym\"\t\"5/5/8\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"Living\"\t\"5/6/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"Salon TV\"\t\"5/6/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"Bureau\"\t\"5/6/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"Chambre 1(3 rÈelle)\"\t\"5/6/3\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"Chambre 2\"\t\"5/6/4\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"Chambre 3 parent\"\t\"5/6/5\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"SdB Parents\"\t\"5/6/6\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"SdB Enfants\"\t\"5/6/7\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"Salle de Gym\"\t\"5/6/8\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"Valeur mesurÈe citerne en %\"\t\"6/0/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-5-1\"\t\"Auto\"\n\"ELECTRICITE\"\t\"6/1/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-13-1\"\t\"Auto\"\n\"EAU DE VILLE\"\t\"6/1/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-13-1\"\t\"Auto\"\n\"EAU CITERNE\"\t\"6/1/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-13-1\"\t\"Auto\"\n\"PUISSANCE\"\t\"6/1/3\"\t\"\"\t\"\"\t\"\"\t\"DPST-14-56\"\t\"Auto\"\n\"ALL\"\t\"7/0/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-20-102\"\t\"Auto\"\n\"Living\"\t\"7/0/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-20-102\"\t\"Auto\"\n\"Salon TV\"\t\"7/0/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-20-102\"\t\"Auto\"\n\"Bureau\"\t\"7/0/3\"\t\"\"\t\"\"\t\"\"\t\"DPST-20-102\"\t\"Auto\"\n\"Chambre 1(3 rÈelle)\"\t\"7/0/4\"\t\"\"\t\"\"\t\"\"\t\"DPST-20-102\"\t\"Auto\"\n\"Chambre 2\"\t\"7/0/5\"\t\"\"\t\"\"\t\"\"\t\"DPST-20-102\"\t\"Auto\"\n\"Chambre 3 parent\"\t\"7/0/6\"\t\"\"\t\"\"\t\"\"\t\"DPST-20-102\"\t\"Auto\"\n\"SdB Parents\"\t\"7/0/7\"\t\"\"\t\"\"\t\"\"\t\"DPST-20-102\"\t\"Auto\"\n\"SdB Enfants\"\t\"7/0/8\"\t\"\"\t\"\"\t\"\"\t\"DPST-20-102\"\t\"Auto\"\n\"Salle de Gym\"\t\"7/0/9\"\t\"\"\t\"\"\t\"\"\t\"DPST-20-102\"\t\"Auto\"\n\"Living\"\t\"7/1/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-20-102\"\t\"Auto\"\n\"Salon TV\"\t\"7/1/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-20-102\"\t\"Auto\"\n\"Bureau\"\t\"7/1/3\"\t\"\"\t\"\"\t\"\"\t\"DPST-20-102\"\t\"Auto\"\n\"Chambre 1(3 rÈelle)\"\t\"7/1/4\"\t\"\"\t\"\"\t\"\"\t\"DPST-20-102\"\t\"Auto\"\n\"Chambre 2\"\t\"7/1/5\"\t\"\"\t\"\"\t\"\"\t\"DPST-20-102\"\t\"Auto\"\n\"Chambre 3 parent\"\t\"7/1/6\"\t\"\"\t\"\"\t\"\"\t\"DPST-20-102\"\t\"Auto\"\n\"SdB Parents\"\t\"7/1/7\"\t\"\"\t\"\"\t\"\"\t\"DPST-20-102\"\t\"Auto\"\n\"SdB Enfants\"\t\"7/1/8\"\t\"\"\t\"\"\t\"\"\t\"DPST-20-102\"\t\"Auto\"\n\"Salle de Gym\"\t\"7/1/9\"\t\"\"\t\"\"\t\"\"\t\"DPST-20-102\"\t\"Auto\"\n\"ALL\"\t\"7/2/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"ALL STATUS\"\t\"7/2/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-100\"\t\"Auto\"\n\"CONTROLE CHAUDIERE REFROIDISSEMENT\"\t\"7/2/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-2\"\t\"Auto\"\n\"RESULTAT SALON\"\t\"7/3/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-2\"\t\"Auto\"\n\"RESULTAT BUREAU\"\t\"7/3/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-2\"\t\"Auto\"\n\"RESULTAT LIVING\"\t\"7/3/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-2\"\t\"Auto\"\n\"RESULTAT CIRCULATEUR BAS\"\t\"7/3/3\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-2\"\t\"Auto\"\n\"RESULTAT CH 1\"\t\"7/3/4\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-2\"\t\"Auto\"\n\"RESULTAT CH 2\"\t\"7/3/5\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-2\"\t\"Auto\"\n\"RESULTAT CH 3\"\t\"7/3/6\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-2\"\t\"Auto\"\n\"RESULTAT SDB\"\t\"7/3/7\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-2\"\t\"Auto\"\n\"RESULTAT FITNESS\"\t\"7/3/8\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-2\"\t\"Auto\"\n\"RESULTAT CIRCULATEUR HAUT\"\t\"7/3/9\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-2\"\t\"Auto\"\n\"RESULTAT FONCTION OU POUR LE HAUT\"\t\"7/3/10\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-2\"\t\"Auto\"\n\"RESULTAT FONCTION OU POUR LE BAS\"\t\"7/3/11\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-2\"\t\"Auto\"\n\"GARAGE\"\t\"8/0/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"ALARME\"\t\"8/0/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"LIVING\"\t\"8/0/2\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"ARME PARTIEL\"\t\"8/0/3\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"ARME ABSENT\"\t\"8/0/4\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n\"ARMEMENT ABSENT\"\t\"8/1/0\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-10\"\t\"Auto\"\n\"ARMEMENT PARTIEL\"\t\"8/1/1\"\t\"\"\t\"\"\t\"\"\t\"DPST-1-1\"\t\"Auto\"\n",
         "KNXEthInterface": "Auto",
         "KNXEthInterfaceManuallyInput": "",
-        "statusDisplayLastUpdate": true,
-        "statusDisplayDeviceNameWhenALL": true,
-        "statusDisplayDataPoint": false,
         "stopETSImportIfNoDatapoint": "skip",
         "loglevel": "error",
         "name": "KNX Gateway",
-        "localEchoInTunneling": true,
         "delaybetweentelegrams": "50",
-        "delaybetweentelegramsfurtherdelayREAD": "1",
         "ignoreTelegramsWithRepeatedFlag": false,
         "autoReconnect": true
     },
@@ -2889,7 +2864,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Cuisine Table",
         "outputtype": "write",
         "outputRBE": false,
@@ -2898,6 +2872,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1110,
         "y": 520,
         "wires": [
@@ -2919,7 +2894,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Status Cuisine Table",
         "outputtype": "write",
         "outputRBE": true,
@@ -2928,6 +2902,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 190,
         "y": 520,
         "wires": [
@@ -2962,9 +2937,7 @@
         "z": "b10f3718da39ed6e",
         "g": "5177dcb4cb890fc0",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 785,
         "y": 580,
         "wires": [
@@ -3092,7 +3065,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Cuisine Spots",
         "outputtype": "write",
         "outputRBE": false,
@@ -3101,6 +3073,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1120,
         "y": 800,
         "wires": [
@@ -3122,7 +3095,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Status Cuisine Spots",
         "outputtype": "write",
         "outputRBE": true,
@@ -3131,6 +3103,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 190,
         "y": 800,
         "wires": [
@@ -3165,9 +3138,7 @@
         "z": "b10f3718da39ed6e",
         "g": "7e2293898bfb0b25",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 785,
         "y": 860,
         "wires": [
@@ -3202,7 +3173,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Status SAM Spots",
         "outputtype": "write",
         "outputRBE": true,
@@ -3211,6 +3181,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 190,
         "y": 1080,
         "wires": [
@@ -3234,7 +3205,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Status Brightness SAM Spots",
         "outputtype": "write",
         "outputRBE": true,
@@ -3243,6 +3213,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 220,
         "y": 1140,
         "wires": [
@@ -3266,7 +3237,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SAM Spots",
         "outputtype": "write",
         "outputRBE": false,
@@ -3275,6 +3245,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1150,
         "y": 1040,
         "wires": [
@@ -3296,7 +3267,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Brightness SAM Spots",
         "outputtype": "write",
         "outputRBE": false,
@@ -3305,6 +3275,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1180,
         "y": 1140,
         "wires": [
@@ -3502,7 +3473,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Bureau Spots",
         "outputtype": "write",
         "outputRBE": false,
@@ -3511,6 +3481,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1140,
         "y": 280,
         "wires": [
@@ -3584,7 +3555,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Status Bureau Spots",
         "outputtype": "write",
         "outputRBE": true,
@@ -3593,6 +3563,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 190,
         "y": 280,
         "wires": [
@@ -3627,9 +3598,7 @@
         "z": "b10f3718da39ed6e",
         "g": "8d2b959eb3b733b5",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 805,
         "y": 340,
         "wires": [
@@ -3757,7 +3726,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SAM Table",
         "outputtype": "write",
         "outputRBE": true,
@@ -3766,6 +3734,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1120,
         "y": 1320,
         "wires": [
@@ -3787,7 +3756,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Status SAM Table",
         "outputtype": "write",
         "outputRBE": true,
@@ -3796,6 +3764,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 180,
         "y": 1320,
         "wires": [
@@ -3830,9 +3799,7 @@
         "z": "b10f3718da39ed6e",
         "g": "f9464a4841b523ad",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 785,
         "y": 1380,
         "wires": [
@@ -3960,7 +3927,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SAM Applique",
         "outputtype": "write",
         "outputRBE": false,
@@ -3969,6 +3935,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1120,
         "y": 1560,
         "wires": [
@@ -3990,7 +3957,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Status SAM Applique",
         "outputtype": "write",
         "outputRBE": true,
@@ -3999,6 +3965,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 200,
         "y": 1560,
         "wires": [
@@ -4033,9 +4000,7 @@
         "z": "b10f3718da39ed6e",
         "g": "1081cd76a9d7095b",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 785,
         "y": 1620,
         "wires": [
@@ -4166,7 +4131,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALON",
         "outputtype": "write",
         "outputRBE": true,
@@ -4175,6 +4139,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 150,
         "y": 2060,
         "wires": [
@@ -4198,7 +4163,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALON",
         "outputtype": "write",
         "outputRBE": true,
@@ -4207,6 +4171,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 150,
         "y": 2120,
         "wires": [
@@ -4230,7 +4195,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SAM Spots",
         "outputtype": "write",
         "outputRBE": false,
@@ -4239,6 +4203,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1150,
         "y": 2020,
         "wires": [
@@ -4260,7 +4225,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALON",
         "outputtype": "write",
         "outputRBE": false,
@@ -4269,6 +4233,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1140,
         "y": 2120,
         "wires": [
@@ -4414,7 +4379,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "RESERVE",
         "outputtype": "write",
         "outputRBE": false,
@@ -4423,6 +4387,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1100,
         "y": 2300,
         "wires": [
@@ -4444,7 +4409,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "RESERVE",
         "outputtype": "write",
         "outputRBE": true,
@@ -4453,6 +4417,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 160,
         "y": 2300,
         "wires": [
@@ -4487,9 +4452,7 @@
         "z": "b10f3718da39ed6e",
         "g": "f92673c39ec63394",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 785,
         "y": 2360,
         "wires": [
@@ -4617,7 +4580,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "GARAGE",
         "outputtype": "write",
         "outputRBE": false,
@@ -4626,6 +4588,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1100,
         "y": 2540,
         "wires": [
@@ -4647,7 +4610,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "GARAGE",
         "outputtype": "write",
         "outputRBE": true,
@@ -4656,6 +4618,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 160,
         "y": 2540,
         "wires": [
@@ -4690,9 +4653,7 @@
         "z": "b10f3718da39ed6e",
         "g": "a32acf5f1ff293e2",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 785,
         "y": 2600,
         "wires": [
@@ -4820,7 +4781,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "ARRIERE CUISINE",
         "outputtype": "write",
         "outputRBE": false,
@@ -4829,6 +4789,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1130,
         "y": 2780,
         "wires": [
@@ -4850,7 +4811,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "ARRIERE CUISINE",
         "outputtype": "write",
         "outputRBE": true,
@@ -4859,6 +4819,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 190,
         "y": 2780,
         "wires": [
@@ -4893,9 +4854,7 @@
         "z": "b10f3718da39ed6e",
         "g": "3d773f387d258652",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 785,
         "y": 2840,
         "wires": [
@@ -5023,7 +4982,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "WC RDC",
         "outputtype": "write",
         "outputRBE": false,
@@ -5032,6 +4990,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1100,
         "y": 3020,
         "wires": [
@@ -5053,7 +5012,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "WC RDC",
         "outputtype": "write",
         "outputRBE": true,
@@ -5062,6 +5020,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 160,
         "y": 3020,
         "wires": [
@@ -5097,9 +5056,7 @@
         "z": "b10f3718da39ed6e",
         "g": "078c7d8a78ffee86",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 785,
         "y": 3080,
         "wires": [
@@ -5227,7 +5184,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "HALL ENTREE",
         "outputtype": "write",
         "outputRBE": false,
@@ -5236,6 +5192,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1120,
         "y": 3260,
         "wires": [
@@ -5257,7 +5214,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "HALL ENTREE",
         "outputtype": "write",
         "outputRBE": true,
@@ -5266,6 +5222,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 170,
         "y": 3260,
         "wires": [
@@ -5300,9 +5257,7 @@
         "z": "b10f3718da39ed6e",
         "g": "115f0270bcee9dbd",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 785,
         "y": 3320,
         "wires": [
@@ -5430,7 +5385,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "ESCALIER VERS +1 LED",
         "outputtype": "write",
         "outputRBE": false,
@@ -5439,6 +5393,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1150,
         "y": 3500,
         "wires": [
@@ -5460,7 +5415,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "ESCALIER VERS +1 LED",
         "outputtype": "write",
         "outputRBE": true,
@@ -5469,6 +5423,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 210,
         "y": 3500,
         "wires": [
@@ -5503,9 +5458,7 @@
         "z": "b10f3718da39ed6e",
         "g": "528bddc6be906d6d",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 785,
         "y": 3560,
         "wires": [
@@ -5633,7 +5586,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "ESCALIER VERS +1 APPLIQUE",
         "outputtype": "write",
         "outputRBE": false,
@@ -5642,6 +5594,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1170,
         "y": 3740,
         "wires": [
@@ -5663,7 +5616,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "ESCALIER VERS +1 APPLIQUE",
         "outputtype": "write",
         "outputRBE": true,
@@ -5672,6 +5624,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 230,
         "y": 3740,
         "wires": [
@@ -5706,9 +5659,7 @@
         "z": "b10f3718da39ed6e",
         "g": "cd38302406322403",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 785,
         "y": 3800,
         "wires": [
@@ -5836,7 +5787,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "EXT GARAGE",
         "outputtype": "write",
         "outputRBE": false,
@@ -5845,6 +5795,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1120,
         "y": 3980,
         "wires": [
@@ -5866,7 +5817,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "EXT GARAGE",
         "outputtype": "write",
         "outputRBE": true,
@@ -5875,6 +5825,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 170,
         "y": 3980,
         "wires": [
@@ -5910,9 +5861,7 @@
         "z": "b10f3718da39ed6e",
         "g": "6aa4a99b9dde15b3",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 785,
         "y": 4040,
         "wires": [
@@ -6040,7 +5989,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "EXT MAISON",
         "outputtype": "write",
         "outputRBE": false,
@@ -6049,6 +5997,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1120,
         "y": 4220,
         "wires": [
@@ -6070,7 +6019,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "EXT MAISON",
         "outputtype": "write",
         "outputRBE": true,
@@ -6079,6 +6027,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 170,
         "y": 4220,
         "wires": [
@@ -6114,9 +6063,7 @@
         "z": "b10f3718da39ed6e",
         "g": "2ba4f8811c303e33",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 785,
         "y": 4280,
         "wires": [
@@ -6244,7 +6191,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "EXT TERRASSE",
         "outputtype": "write",
         "outputRBE": false,
@@ -6253,6 +6199,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1120,
         "y": 4460,
         "wires": [
@@ -6274,7 +6221,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "EXT TERRASSE",
         "outputtype": "write",
         "outputRBE": true,
@@ -6283,6 +6229,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 180,
         "y": 4460,
         "wires": [
@@ -6318,9 +6265,7 @@
         "z": "b10f3718da39ed6e",
         "g": "ba5aed57fceeb2b3",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 785,
         "y": 4520,
         "wires": [
@@ -6451,7 +6396,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALON TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -6460,6 +6404,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 160,
         "y": 4700,
         "wires": [
@@ -6483,7 +6428,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALON TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -6492,6 +6436,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 160,
         "y": 4760,
         "wires": [
@@ -6515,7 +6460,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALON TV",
         "outputtype": "write",
         "outputRBE": false,
@@ -6524,6 +6468,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1150,
         "y": 4660,
         "wires": [
@@ -6545,7 +6490,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALON TV",
         "outputtype": "write",
         "outputRBE": false,
@@ -6554,6 +6498,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1150,
         "y": 4760,
         "wires": [
@@ -6632,7 +6577,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "BUREAU",
         "outputtype": "read",
         "outputRBE": false,
@@ -6641,6 +6585,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 320,
         "y": 340,
         "wires": [
@@ -6690,7 +6635,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "TABLE CUISINE",
         "outputtype": "read",
         "outputRBE": false,
@@ -6699,6 +6643,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 340,
         "y": 580,
         "wires": [
@@ -6748,7 +6693,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SPOTS CUISINE",
         "outputtype": "read",
         "outputRBE": false,
@@ -6757,6 +6701,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 350,
         "y": 860,
         "wires": [
@@ -6806,7 +6751,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "TABLE A MANGER SAM",
         "outputtype": "read",
         "outputRBE": false,
@@ -6815,6 +6759,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 370,
         "y": 1380,
         "wires": [
@@ -6864,7 +6809,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "APPLIQUES LIVING",
         "outputtype": "read",
         "outputRBE": false,
@@ -6873,6 +6817,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 360,
         "y": 1620,
         "wires": [
@@ -6922,7 +6867,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "RESERVE",
         "outputtype": "read",
         "outputRBE": false,
@@ -6931,6 +6875,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 340,
         "y": 2360,
         "wires": [
@@ -6980,7 +6925,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "GARAGE",
         "outputtype": "read",
         "outputRBE": false,
@@ -6989,6 +6933,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 320,
         "y": 2600,
         "wires": [
@@ -7038,7 +6983,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "ARRIERE CUISINE",
         "outputtype": "read",
         "outputRBE": false,
@@ -7047,6 +6991,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 350,
         "y": 2840,
         "wires": [
@@ -7096,7 +7041,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "WC RDC",
         "outputtype": "read",
         "outputRBE": false,
@@ -7105,6 +7049,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 320,
         "y": 3080,
         "wires": [
@@ -7154,7 +7099,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "HALL ENTREE",
         "outputtype": "read",
         "outputRBE": false,
@@ -7163,6 +7107,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 340,
         "y": 3320,
         "wires": [
@@ -7212,7 +7157,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "ESCALIER VERS +1 LED",
         "outputtype": "read",
         "outputRBE": false,
@@ -7221,6 +7165,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 370,
         "y": 3560,
         "wires": [
@@ -7270,7 +7215,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "ESCALIER VERS +1 APPLIQUE",
         "outputtype": "read",
         "outputRBE": false,
@@ -7279,6 +7223,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 390,
         "y": 3800,
         "wires": [
@@ -7328,7 +7273,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "EXT GARAGE",
         "outputtype": "read",
         "outputRBE": false,
@@ -7337,6 +7281,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 340,
         "y": 4040,
         "wires": [
@@ -7386,7 +7331,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "EXT MAISON",
         "outputtype": "read",
         "outputRBE": false,
@@ -7395,6 +7339,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 340,
         "y": 4280,
         "wires": [
@@ -7444,7 +7389,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "EXT TERRASSE",
         "outputtype": "read",
         "outputRBE": false,
@@ -7453,6 +7397,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 340,
         "y": 4520,
         "wires": [
@@ -7502,7 +7447,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALON",
         "outputtype": "read",
         "outputRBE": false,
@@ -7511,6 +7455,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 320,
         "y": 2000,
         "wires": [
@@ -7580,7 +7525,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALLE A MANGER",
         "outputtype": "read",
         "outputRBE": false,
@@ -7589,6 +7533,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 350,
         "y": 1020,
         "wires": [
@@ -7658,7 +7603,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALON TV",
         "outputtype": "read",
         "outputRBE": false,
@@ -7667,6 +7611,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 330,
         "y": 4660,
         "wires": [
@@ -7875,7 +7820,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SDB PARENTS",
         "outputtype": "write",
         "outputRBE": false,
@@ -7884,6 +7828,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1080,
         "y": 140,
         "wires": [
@@ -7905,7 +7850,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SDB PARENTS",
         "outputtype": "write",
         "outputRBE": true,
@@ -7914,6 +7858,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 140,
         "y": 140,
         "wires": [
@@ -7948,9 +7893,7 @@
         "z": "5e3b463f46f8667d",
         "g": "47a812b81dfad3cb",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 745,
         "y": 200,
         "wires": [
@@ -8078,7 +8021,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "DRESSING",
         "outputtype": "write",
         "outputRBE": false,
@@ -8087,6 +8029,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1070,
         "y": 360,
         "wires": [
@@ -8108,7 +8051,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "DRESSING",
         "outputtype": "write",
         "outputRBE": true,
@@ -8117,6 +8059,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 120,
         "y": 360,
         "wires": [
@@ -8152,9 +8095,7 @@
         "z": "5e3b463f46f8667d",
         "g": "71ada8800f2cd4f1",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 745,
         "y": 420,
         "wires": [
@@ -8282,7 +8223,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CH PARENTS PT CENTRAL",
         "outputtype": "write",
         "outputRBE": false,
@@ -8291,6 +8231,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1120,
         "y": 580,
         "wires": [
@@ -8312,7 +8253,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CH PARENTS PT CENTRAL",
         "outputtype": "write",
         "outputRBE": true,
@@ -8321,6 +8261,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 180,
         "y": 580,
         "wires": [
@@ -8355,9 +8296,7 @@
         "z": "5e3b463f46f8667d",
         "g": "4f6f42b4aa1cce04",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 745,
         "y": 640,
         "wires": [
@@ -8485,7 +8424,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CH PARENTS LIT GAUCHE",
         "outputtype": "write",
         "outputRBE": false,
@@ -8494,6 +8432,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1120,
         "y": 800,
         "wires": [
@@ -8515,7 +8454,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CH PARENTS LIT GAUCHE",
         "outputtype": "write",
         "outputRBE": true,
@@ -8524,6 +8462,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 170,
         "y": 800,
         "wires": [
@@ -8558,9 +8497,7 @@
         "z": "5e3b463f46f8667d",
         "g": "bacdeffca3e36b61",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 745,
         "y": 860,
         "wires": [
@@ -8688,7 +8625,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CH PARENTS LIT DROITE",
         "outputtype": "write",
         "outputRBE": false,
@@ -8697,6 +8633,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1120,
         "y": 1020,
         "wires": [
@@ -8718,7 +8655,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CH PARENTS LIT DROITE",
         "outputtype": "write",
         "outputRBE": true,
@@ -8727,6 +8663,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 170,
         "y": 1020,
         "wires": [
@@ -8761,9 +8698,7 @@
         "z": "5e3b463f46f8667d",
         "g": "a5dabf87e90bc714",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 745,
         "y": 1080,
         "wires": [
@@ -8891,7 +8826,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE 2",
         "outputtype": "write",
         "outputRBE": false,
@@ -8900,6 +8834,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1070,
         "y": 1260,
         "wires": [
@@ -8921,7 +8856,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE 2",
         "outputtype": "write",
         "outputRBE": true,
@@ -8930,6 +8864,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 130,
         "y": 1260,
         "wires": [
@@ -8965,9 +8900,7 @@
         "z": "5e3b463f46f8667d",
         "g": "c31a081291e4fe3d",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 745,
         "y": 1320,
         "wires": [
@@ -9095,7 +9028,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALLE DE GYM",
         "outputtype": "write",
         "outputRBE": false,
@@ -9104,6 +9036,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1080,
         "y": 1500,
         "wires": [
@@ -9125,7 +9058,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALLE DE GYM",
         "outputtype": "write",
         "outputRBE": true,
@@ -9134,6 +9066,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 140,
         "y": 1500,
         "wires": [
@@ -9168,9 +9101,7 @@
         "z": "5e3b463f46f8667d",
         "g": "df8da244c8d58ffb",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 745,
         "y": 1560,
         "wires": [
@@ -9298,7 +9229,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "WC ETAGE",
         "outputtype": "write",
         "outputRBE": false,
@@ -9307,6 +9237,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1070,
         "y": 1740,
         "wires": [
@@ -9328,7 +9259,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "WC ETAGE",
         "outputtype": "write",
         "outputRBE": true,
@@ -9337,6 +9267,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 120,
         "y": 1740,
         "wires": [
@@ -9372,9 +9303,7 @@
         "z": "5e3b463f46f8667d",
         "g": "b89159848dd686d0",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 745,
         "y": 1800,
         "wires": [
@@ -9502,7 +9431,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "BUANDERIE",
         "outputtype": "write",
         "outputRBE": false,
@@ -9511,6 +9439,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1070,
         "y": 1960,
         "wires": [
@@ -9532,7 +9461,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "BUANDERIE",
         "outputtype": "write",
         "outputRBE": true,
@@ -9541,6 +9469,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 130,
         "y": 1960,
         "wires": [
@@ -9575,9 +9504,7 @@
         "z": "5e3b463f46f8667d",
         "g": "44f71e88a1c161ed",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 745,
         "y": 2020,
         "wires": [
@@ -9705,7 +9632,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SDB ENFANT",
         "outputtype": "write",
         "outputRBE": false,
@@ -9714,6 +9640,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1080,
         "y": 2180,
         "wires": [
@@ -9735,7 +9662,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SDB ENFANT",
         "outputtype": "write",
         "outputRBE": true,
@@ -9744,6 +9670,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 130,
         "y": 2180,
         "wires": [
@@ -9778,9 +9705,7 @@
         "z": "5e3b463f46f8667d",
         "g": "0e5485cb52be7b1d",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 745,
         "y": 2240,
         "wires": [
@@ -9908,7 +9833,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE 1",
         "outputtype": "write",
         "outputRBE": false,
@@ -9917,6 +9841,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1070,
         "y": 2400,
         "wires": [
@@ -9938,7 +9863,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE 1",
         "outputtype": "write",
         "outputRBE": true,
@@ -9947,6 +9871,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 130,
         "y": 2400,
         "wires": [
@@ -9982,9 +9907,7 @@
         "z": "5e3b463f46f8667d",
         "g": "65485c8c76dc6672",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 745,
         "y": 2460,
         "wires": [
@@ -10112,7 +10035,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "COMBLES",
         "outputtype": "write",
         "outputRBE": false,
@@ -10121,6 +10043,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1070,
         "y": 2620,
         "wires": [
@@ -10142,7 +10065,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "COMBLES",
         "outputtype": "write",
         "outputRBE": true,
@@ -10151,6 +10073,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 120,
         "y": 2620,
         "wires": [
@@ -10185,9 +10108,7 @@
         "z": "5e3b463f46f8667d",
         "g": "494736d005bfb177",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 745,
         "y": 2680,
         "wires": [
@@ -10318,7 +10239,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "HALL DE NUIT",
         "outputtype": "write",
         "outputRBE": true,
@@ -10327,6 +10247,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 130,
         "y": 2880,
         "wires": [
@@ -10350,7 +10271,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "HALL DE NUIT",
         "outputtype": "write",
         "outputRBE": true,
@@ -10359,6 +10279,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 130,
         "y": 2940,
         "wires": [
@@ -10383,7 +10304,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "HALL DE NUIT",
         "outputtype": "write",
         "outputRBE": true,
@@ -10392,6 +10312,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1130,
         "y": 2840,
         "wires": [
@@ -10413,7 +10334,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "HALL DE NUIT",
         "outputtype": "write",
         "outputRBE": false,
@@ -10422,6 +10342,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1120,
         "y": 2940,
         "wires": [
@@ -10500,7 +10421,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SDB PARENTS",
         "outputtype": "read",
         "outputRBE": false,
@@ -10509,6 +10429,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 300,
         "y": 200,
         "wires": [
@@ -10558,7 +10479,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "DRESSING",
         "outputtype": "read",
         "outputRBE": false,
@@ -10567,6 +10487,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 290,
         "y": 420,
         "wires": [
@@ -10616,7 +10537,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CH PARENTS PT CENTRAL",
         "outputtype": "read",
         "outputRBE": false,
@@ -10625,6 +10545,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 340,
         "y": 640,
         "wires": [
@@ -10674,7 +10595,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CH PARENTS LIT GAUCHE",
         "outputtype": "read",
         "outputRBE": false,
@@ -10683,6 +10603,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 340,
         "y": 860,
         "wires": [
@@ -10732,7 +10653,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CH PARENTS LIT DROITE",
         "outputtype": "read",
         "outputRBE": false,
@@ -10741,6 +10661,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 340,
         "y": 1080,
         "wires": [
@@ -10790,7 +10711,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE 2",
         "outputtype": "read",
         "outputRBE": false,
@@ -10799,6 +10719,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 290,
         "y": 1320,
         "wires": [
@@ -10848,7 +10769,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALLE DE GYM",
         "outputtype": "read",
         "outputRBE": false,
@@ -10857,6 +10777,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 300,
         "y": 1560,
         "wires": [
@@ -10906,7 +10827,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "WC ETAGE",
         "outputtype": "read",
         "outputRBE": false,
@@ -10915,6 +10835,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 290,
         "y": 1800,
         "wires": [
@@ -10964,7 +10885,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "BUANDERIE",
         "outputtype": "read",
         "outputRBE": false,
@@ -10973,6 +10893,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 290,
         "y": 2020,
         "wires": [
@@ -11022,7 +10943,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SDB ENFANT",
         "outputtype": "read",
         "outputRBE": false,
@@ -11031,6 +10951,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 300,
         "y": 2240,
         "wires": [
@@ -11080,7 +11001,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE 1",
         "outputtype": "read",
         "outputRBE": false,
@@ -11089,6 +11009,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 290,
         "y": 2460,
         "wires": [
@@ -11138,7 +11059,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "COMBLES",
         "outputtype": "read",
         "outputRBE": false,
@@ -11147,6 +11067,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 290,
         "y": 2680,
         "wires": [
@@ -11196,7 +11117,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "HALL DE NUIT",
         "outputtype": "read",
         "outputRBE": false,
@@ -11205,6 +11125,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 300,
         "y": 2820,
         "wires": [
@@ -11389,7 +11310,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "salon TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -11398,6 +11318,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 140,
         "y": 100,
         "wires": [
@@ -11447,7 +11368,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "salon TV",
         "outputtype": "read",
         "outputRBE": true,
@@ -11456,6 +11376,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 360,
         "y": 500,
         "wires": [
@@ -11479,7 +11400,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "salon TV",
         "outputtype": "write",
         "outputRBE": false,
@@ -11488,6 +11408,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1000,
         "y": 300,
         "wires": [
@@ -11509,7 +11430,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "salon TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -11518,6 +11438,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 140,
         "y": 280,
         "wires": [
@@ -11541,7 +11462,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "salon TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -11550,6 +11470,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 140,
         "y": 440,
         "wires": [
@@ -11663,7 +11584,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "salon porte+salon coin +cuisine+salon TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -11672,6 +11592,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 240,
         "y": 220,
         "wires": [
@@ -11757,7 +11678,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Cuisine",
         "outputtype": "write",
         "outputRBE": true,
@@ -11766,6 +11686,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 130,
         "y": 640,
         "wires": [
@@ -11815,7 +11736,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Cuisine",
         "outputtype": "read",
         "outputRBE": true,
@@ -11824,6 +11744,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 350,
         "y": 1020,
         "wires": [
@@ -11847,7 +11768,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Cuisine",
         "outputtype": "write",
         "outputRBE": false,
@@ -11856,6 +11776,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1000,
         "y": 840,
         "wires": [
@@ -11877,7 +11798,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "EVIER CUISINE",
         "outputtype": "write",
         "outputRBE": true,
@@ -11886,6 +11806,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 160,
         "y": 800,
         "wires": [
@@ -11909,7 +11830,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "EVIER CUISINE",
         "outputtype": "write",
         "outputRBE": true,
@@ -11918,6 +11838,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 160,
         "y": 960,
         "wires": [
@@ -12031,7 +11952,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "salon porte+salon coin +cuisine+salon TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -12040,6 +11960,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 240,
         "y": 740,
         "wires": [
@@ -12125,7 +12046,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CUISINE 1",
         "outputtype": "write",
         "outputRBE": true,
@@ -12134,6 +12054,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 140,
         "y": 1180,
         "wires": [
@@ -12183,7 +12104,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CUISINE 1",
         "outputtype": "read",
         "outputRBE": true,
@@ -12192,6 +12112,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 360,
         "y": 1560,
         "wires": [
@@ -12215,7 +12136,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CUISINE 1",
         "outputtype": "write",
         "outputRBE": false,
@@ -12224,6 +12144,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1010,
         "y": 1400,
         "wires": [
@@ -12245,7 +12166,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALON PORTE + CUISINE SANS EVIER",
         "outputtype": "write",
         "outputRBE": true,
@@ -12254,6 +12174,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 230,
         "y": 1340,
         "wires": [
@@ -12277,7 +12198,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALON PORTE + CUISINE SANS EVIER STOP",
         "outputtype": "write",
         "outputRBE": true,
@@ -12286,6 +12206,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 250,
         "y": 1500,
         "wires": [
@@ -12399,7 +12320,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "salon porte+salon coin +cuisine+salon TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -12408,6 +12328,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 240,
         "y": 1280,
         "wires": [
@@ -12493,7 +12414,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CUISINE 2",
         "outputtype": "write",
         "outputRBE": true,
@@ -12502,6 +12422,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 140,
         "y": 1720,
         "wires": [
@@ -12551,7 +12472,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CUISINE 2",
         "outputtype": "read",
         "outputRBE": true,
@@ -12560,6 +12480,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 360,
         "y": 2100,
         "wires": [
@@ -12583,7 +12504,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CUISINE 2",
         "outputtype": "write",
         "outputRBE": false,
@@ -12592,6 +12512,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1010,
         "y": 1940,
         "wires": [
@@ -12613,7 +12534,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALON PORTE + CUISINE SANS EVIER",
         "outputtype": "write",
         "outputRBE": true,
@@ -12622,6 +12542,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 230,
         "y": 1880,
         "wires": [
@@ -12645,7 +12566,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALON PORTE + CUISINE SANS EVIER STOP",
         "outputtype": "write",
         "outputRBE": true,
@@ -12654,6 +12574,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 250,
         "y": 2040,
         "wires": [
@@ -12767,7 +12688,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "salon porte+salon coin +cuisine+salon TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -12776,6 +12696,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 240,
         "y": 1820,
         "wires": [
@@ -12881,7 +12802,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Salon porte",
         "outputtype": "write",
         "outputRBE": true,
@@ -12890,6 +12810,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 140,
         "y": 2260,
         "wires": [
@@ -12939,7 +12860,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Salon porte",
         "outputtype": "read",
         "outputRBE": true,
@@ -12948,6 +12868,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 360,
         "y": 2640,
         "wires": [
@@ -12991,7 +12912,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Salon porte",
         "outputtype": "write",
         "outputRBE": false,
@@ -13000,6 +12920,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1050,
         "y": 2480,
         "wires": [
@@ -13021,7 +12942,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALON PORTE + CUISINE SANS EVIER",
         "outputtype": "write",
         "outputRBE": true,
@@ -13030,6 +12950,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 230,
         "y": 2420,
         "wires": [
@@ -13053,7 +12974,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALON PORTE + CUISINE SANS EVIER STOP",
         "outputtype": "write",
         "outputRBE": true,
@@ -13062,6 +12982,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 250,
         "y": 2580,
         "wires": [
@@ -13175,7 +13096,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "salon porte+salon coin +cuisine+salon TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -13184,6 +13104,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 240,
         "y": 2360,
         "wires": [
@@ -13218,7 +13139,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "salon porte+salon coin +cuisine+salon TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -13227,6 +13147,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 240,
         "y": 2520,
         "wires": [
@@ -13250,7 +13171,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "salon porte+salon coin +cuisine+salon TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -13259,6 +13179,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 240,
         "y": 380,
         "wires": [
@@ -13282,7 +13203,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "salon porte+salon coin +cuisine+salon TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -13291,6 +13211,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 240,
         "y": 1980,
         "wires": [
@@ -13314,7 +13235,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "salon porte+salon coin +cuisine+salon TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -13323,6 +13243,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 240,
         "y": 1440,
         "wires": [
@@ -13346,7 +13267,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "salon porte+salon coin +cuisine+salon TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -13355,6 +13275,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 240,
         "y": 900,
         "wires": [
@@ -13429,7 +13350,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALON COIN 1",
         "outputtype": "write",
         "outputRBE": true,
@@ -13438,6 +13358,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 160,
         "y": 2800,
         "wires": [
@@ -13487,7 +13408,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALON COIN 1",
         "outputtype": "read",
         "outputRBE": true,
@@ -13496,6 +13416,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 360,
         "y": 3180,
         "wires": [
@@ -13519,7 +13440,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALON COIN 1",
         "outputtype": "write",
         "outputRBE": false,
@@ -13528,6 +13448,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1060,
         "y": 3020,
         "wires": [
@@ -13549,7 +13470,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Salon coin",
         "outputtype": "write",
         "outputRBE": true,
@@ -13558,6 +13478,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 140,
         "y": 2960,
         "wires": [
@@ -13581,7 +13502,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Salon coin",
         "outputtype": "write",
         "outputRBE": true,
@@ -13590,6 +13510,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 140,
         "y": 3120,
         "wires": [
@@ -13703,7 +13624,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "salon porte+salon coin +cuisine+salon TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -13712,6 +13632,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 240,
         "y": 2900,
         "wires": [
@@ -13746,7 +13667,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "salon porte+salon coin +cuisine+salon TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -13755,6 +13675,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 240,
         "y": 3060,
         "wires": [
@@ -13829,7 +13750,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Salon coin",
         "outputtype": "write",
         "outputRBE": true,
@@ -13838,6 +13758,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 140,
         "y": 3340,
         "wires": [
@@ -13887,7 +13808,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Salon coin",
         "outputtype": "read",
         "outputRBE": true,
@@ -13896,6 +13816,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 340,
         "y": 3720,
         "wires": [
@@ -13919,7 +13840,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALON COIN 2",
         "outputtype": "write",
         "outputRBE": false,
@@ -13928,6 +13848,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1060,
         "y": 3560,
         "wires": [
@@ -13949,7 +13870,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Salon coin",
         "outputtype": "write",
         "outputRBE": true,
@@ -13958,6 +13878,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 140,
         "y": 3500,
         "wires": [
@@ -13981,7 +13902,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Salon coin",
         "outputtype": "write",
         "outputRBE": true,
@@ -13990,6 +13910,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 140,
         "y": 3660,
         "wires": [
@@ -14103,7 +14024,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "salon porte+salon coin +cuisine+salon TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -14112,6 +14032,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 240,
         "y": 3440,
         "wires": [
@@ -14146,7 +14067,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "salon porte+salon coin +cuisine+salon TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -14155,6 +14075,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 240,
         "y": 3600,
         "wires": [
@@ -14229,7 +14150,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALON COIN 3",
         "outputtype": "write",
         "outputRBE": true,
@@ -14238,6 +14158,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 160,
         "y": 3880,
         "wires": [
@@ -14287,7 +14208,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALON COIN 3",
         "outputtype": "read",
         "outputRBE": true,
@@ -14296,6 +14216,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 360,
         "y": 4260,
         "wires": [
@@ -14319,7 +14240,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALON COIN 2",
         "outputtype": "write",
         "outputRBE": false,
@@ -14328,6 +14248,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1060,
         "y": 4100,
         "wires": [
@@ -14349,7 +14270,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Salon coin",
         "outputtype": "write",
         "outputRBE": true,
@@ -14358,6 +14278,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 140,
         "y": 4040,
         "wires": [
@@ -14381,7 +14302,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Salon coin",
         "outputtype": "write",
         "outputRBE": true,
@@ -14390,6 +14310,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 140,
         "y": 4200,
         "wires": [
@@ -14503,7 +14424,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "salon porte+salon coin +cuisine+salon TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -14512,6 +14432,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 240,
         "y": 3980,
         "wires": [
@@ -14546,7 +14467,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "salon porte+salon coin +cuisine+salon TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -14555,6 +14475,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 240,
         "y": 4140,
         "wires": [
@@ -14649,7 +14570,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "BUREAU 1",
         "outputtype": "write",
         "outputRBE": true,
@@ -14658,6 +14578,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 140,
         "y": 4420,
         "wires": [
@@ -14707,7 +14628,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "BUREAU 1",
         "outputtype": "read",
         "outputRBE": true,
@@ -14716,6 +14636,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 360,
         "y": 4820,
         "wires": [
@@ -14759,7 +14680,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "BUREAU 1",
         "outputtype": "write",
         "outputRBE": false,
@@ -14768,6 +14688,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1010,
         "y": 4620,
         "wires": [
@@ -14789,7 +14710,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Bureau",
         "outputtype": "write",
         "outputRBE": true,
@@ -14798,6 +14718,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 130,
         "y": 4600,
         "wires": [
@@ -14821,7 +14742,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Bureau",
         "outputtype": "write",
         "outputRBE": true,
@@ -14830,6 +14750,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 130,
         "y": 4760,
         "wires": [
@@ -15025,7 +14946,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "BUREAU 2",
         "outputtype": "write",
         "outputRBE": true,
@@ -15034,6 +14954,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1220,
         "y": 4420,
         "wires": [
@@ -15083,7 +15004,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "BUREAU 2",
         "outputtype": "read",
         "outputRBE": true,
@@ -15092,6 +15012,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1440,
         "y": 4820,
         "wires": [
@@ -15135,7 +15056,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "BUREAU 2",
         "outputtype": "write",
         "outputRBE": false,
@@ -15144,6 +15064,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 2090,
         "y": 4620,
         "wires": [
@@ -15165,7 +15086,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Bureau",
         "outputtype": "write",
         "outputRBE": true,
@@ -15174,6 +15094,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1210,
         "y": 4600,
         "wires": [
@@ -15197,7 +15118,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Bureau",
         "outputtype": "write",
         "outputRBE": true,
@@ -15206,6 +15126,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1210,
         "y": 4760,
         "wires": [
@@ -15650,7 +15571,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "PRISE PARENTS",
         "outputtype": "write",
         "outputRBE": false,
@@ -15659,6 +15579,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1110,
         "y": 140,
         "wires": [
@@ -15680,7 +15601,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "PRISE SDB",
         "outputtype": "write",
         "outputRBE": true,
@@ -15689,6 +15609,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 140,
         "y": 140,
         "wires": [
@@ -15723,9 +15644,7 @@
         "z": "cc9aa38ec185bfa5",
         "g": "c317f3a2b5a54ca4",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 765,
         "y": 200,
         "wires": [
@@ -15800,7 +15719,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "PRISE SDB ENFANT",
         "outputtype": "write",
         "outputRBE": false,
@@ -15809,6 +15727,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1120,
         "y": 380,
         "wires": [
@@ -15830,7 +15749,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "PRISE SDD",
         "outputtype": "write",
         "outputRBE": true,
@@ -15839,6 +15757,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 140,
         "y": 380,
         "wires": [
@@ -15873,9 +15792,7 @@
         "z": "cc9aa38ec185bfa5",
         "g": "b7e1659eb76513ba",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 765,
         "y": 440,
         "wires": [
@@ -16056,7 +15973,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "PRISE SALON TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -16065,6 +15981,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 160,
         "y": 620,
         "wires": [
@@ -16099,9 +16016,7 @@
         "z": "cc9aa38ec185bfa5",
         "g": "b9edbaade8008deb",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 765,
         "y": 680,
         "wires": [
@@ -16229,7 +16144,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "PRISE SALON",
         "outputtype": "write",
         "outputRBE": true,
@@ -16238,6 +16152,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 150,
         "y": 860,
         "wires": [
@@ -16272,9 +16187,7 @@
         "z": "cc9aa38ec185bfa5",
         "g": "21c6fb0324cf8c8b",
         "name": "BusCom",
-        "links": [
-            "eba3742a45ad3da2"
-        ],
+        "links": [],
         "x": 765,
         "y": 920,
         "wires": [
@@ -16388,7 +16301,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "PRISE SDB",
         "outputtype": "read",
         "outputRBE": false,
@@ -16397,6 +16309,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 310,
         "y": 200,
         "wires": [
@@ -16446,7 +16359,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "PRISE SALON TV",
         "outputtype": "read",
         "outputRBE": false,
@@ -16455,6 +16367,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 330,
         "y": 680,
         "wires": [
@@ -16504,7 +16417,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "PRISE SDD",
         "outputtype": "read",
         "outputRBE": false,
@@ -16513,6 +16425,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 330,
         "y": 440,
         "wires": [
@@ -16562,7 +16475,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "PRISE SALON",
         "outputtype": "read",
         "outputRBE": false,
@@ -16571,6 +16483,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 320,
         "y": 920,
         "wires": [
@@ -16594,7 +16507,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "PRISE SALON TV",
         "outputtype": "write",
         "outputRBE": false,
@@ -16603,6 +16515,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1110,
         "y": 620,
         "wires": [
@@ -16624,7 +16537,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "PRISE SALON",
         "outputtype": "write",
         "outputRBE": false,
@@ -16633,6 +16545,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1080,
         "y": 860,
         "wires": [
@@ -16705,7 +16618,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALLE DE GYM",
         "outputtype": "write",
         "outputRBE": true,
@@ -16714,6 +16626,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 140,
         "y": 120,
         "wires": [
@@ -16763,7 +16676,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALLE DE GYM",
         "outputtype": "read",
         "outputRBE": true,
@@ -16772,6 +16684,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 380,
         "y": 500,
         "wires": [
@@ -16795,7 +16708,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALLE DE GYM",
         "outputtype": "write",
         "outputRBE": false,
@@ -16804,6 +16716,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1020,
         "y": 320,
         "wires": [
@@ -16825,7 +16738,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALLE DE GYM",
         "outputtype": "write",
         "outputRBE": true,
@@ -16834,6 +16746,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 140,
         "y": 220,
         "wires": [
@@ -16857,7 +16770,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SALLE DE GYM",
         "outputtype": "write",
         "outputRBE": true,
@@ -16866,6 +16778,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 140,
         "y": 380,
         "wires": [
@@ -16988,7 +16901,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE ALEXIS GRAND",
         "outputtype": "write",
         "outputRBE": true,
@@ -16997,6 +16909,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 180,
         "y": 640,
         "wires": [
@@ -17046,7 +16959,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE ALEXIS GRAND",
         "outputtype": "read",
         "outputRBE": true,
@@ -17055,6 +16967,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 380,
         "y": 1020,
         "wires": [
@@ -17078,7 +16991,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE ALEXIS GRAND",
         "outputtype": "write",
         "outputRBE": false,
@@ -17087,6 +16999,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1080,
         "y": 840,
         "wires": [
@@ -17108,7 +17021,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE 2",
         "outputtype": "write",
         "outputRBE": true,
@@ -17117,6 +17029,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 130,
         "y": 740,
         "wires": [
@@ -17140,7 +17053,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE 2",
         "outputtype": "write",
         "outputRBE": true,
@@ -17149,6 +17061,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 130,
         "y": 900,
         "wires": [
@@ -17271,7 +17184,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE ALEXIS PETIT",
         "outputtype": "write",
         "outputRBE": true,
@@ -17280,6 +17192,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 170,
         "y": 1180,
         "wires": [
@@ -17329,7 +17242,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE ALEXIS PETIT",
         "outputtype": "read",
         "outputRBE": true,
@@ -17338,6 +17250,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 370,
         "y": 1560,
         "wires": [
@@ -17361,7 +17274,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE ALEXIS PETIT",
         "outputtype": "write",
         "outputRBE": false,
@@ -17370,6 +17282,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1070,
         "y": 1380,
         "wires": [
@@ -17391,7 +17304,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE 2",
         "outputtype": "write",
         "outputRBE": true,
@@ -17400,6 +17312,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 130,
         "y": 1280,
         "wires": [
@@ -17423,7 +17336,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE 2",
         "outputtype": "write",
         "outputRBE": true,
@@ -17432,6 +17344,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 130,
         "y": 1440,
         "wires": [
@@ -17554,7 +17467,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE 3",
         "outputtype": "write",
         "outputRBE": true,
@@ -17563,6 +17475,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 130,
         "y": 1720,
         "wires": [
@@ -17612,7 +17525,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE 3",
         "outputtype": "read",
         "outputRBE": true,
@@ -17621,6 +17533,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 330,
         "y": 2100,
         "wires": [
@@ -17644,7 +17557,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE 3",
         "outputtype": "write",
         "outputRBE": false,
@@ -17653,6 +17565,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1030,
         "y": 1920,
         "wires": [
@@ -17674,7 +17587,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE 3",
         "outputtype": "write",
         "outputRBE": true,
@@ -17683,6 +17595,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 130,
         "y": 1820,
         "wires": [
@@ -17706,7 +17619,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE 3",
         "outputtype": "write",
         "outputRBE": true,
@@ -17715,6 +17627,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 130,
         "y": 1980,
         "wires": [
@@ -17890,7 +17803,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "JARDIN CH PARENTS",
         "outputtype": "write",
         "outputRBE": true,
@@ -17899,6 +17811,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 160,
         "y": 2260,
         "wires": [
@@ -17948,7 +17861,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "JARDIN CH PARENTS",
         "outputtype": "read",
         "outputRBE": true,
@@ -17957,6 +17869,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 360,
         "y": 2640,
         "wires": [
@@ -17980,7 +17893,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "JARDIN CH PARENTS",
         "outputtype": "write",
         "outputRBE": false,
@@ -17989,6 +17901,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1060,
         "y": 2460,
         "wires": [
@@ -18010,7 +17923,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE PARENTS",
         "outputtype": "write",
         "outputRBE": true,
@@ -18019,6 +17931,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 160,
         "y": 2360,
         "wires": [
@@ -18042,7 +17955,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE PARENTS",
         "outputtype": "write",
         "outputRBE": true,
@@ -18051,6 +17963,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 160,
         "y": 2520,
         "wires": [
@@ -18226,7 +18139,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "FACADE CH PARENTS",
         "outputtype": "write",
         "outputRBE": true,
@@ -18235,6 +18147,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 160,
         "y": 2800,
         "wires": [
@@ -18284,7 +18197,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "FACADE CH PARENTS",
         "outputtype": "read",
         "outputRBE": true,
@@ -18293,6 +18205,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 360,
         "y": 3180,
         "wires": [
@@ -18316,7 +18229,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "FACADE CH PARENTS",
         "outputtype": "write",
         "outputRBE": false,
@@ -18325,6 +18237,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1070,
         "y": 3000,
         "wires": [
@@ -18346,7 +18259,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE PARENTS",
         "outputtype": "write",
         "outputRBE": true,
@@ -18355,6 +18267,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 160,
         "y": 2900,
         "wires": [
@@ -18378,7 +18291,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "CHAMBRE PARENTS",
         "outputtype": "write",
         "outputRBE": true,
@@ -18387,6 +18299,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 160,
         "y": 3060,
         "wires": [
@@ -18511,7 +18424,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "FACADE CH PARENTS",
         "outputtype": "write",
         "outputRBE": true,
@@ -18520,6 +18432,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 160,
         "y": 3120,
         "wires": [
@@ -18543,7 +18456,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "JARDIN CH PARENTS",
         "outputtype": "write",
         "outputRBE": true,
@@ -18552,6 +18464,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 160,
         "y": 2580,
         "wires": [
@@ -18575,7 +18488,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "JARDIN CH PARENTS",
         "outputtype": "write",
         "outputRBE": true,
@@ -18584,6 +18496,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 160,
         "y": 2420,
         "wires": [
@@ -18607,7 +18520,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "FACADE CH PARENTS",
         "outputtype": "write",
         "outputRBE": true,
@@ -18616,6 +18528,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 160,
         "y": 2960,
         "wires": [
@@ -19038,7 +18951,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Bureau",
         "outputtype": "write",
         "outputRBE": true,
@@ -19047,6 +18959,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 110,
         "y": 120,
         "wires": [
@@ -19071,7 +18984,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Bureau",
         "outputtype": "write",
         "outputRBE": false,
@@ -19080,6 +18992,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1100,
         "y": 120,
         "wires": [
@@ -19101,7 +19014,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Bureau",
         "outputtype": "write",
         "outputRBE": true,
@@ -19110,6 +19022,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 110,
         "y": 240,
         "wires": [
@@ -19253,7 +19166,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Living",
         "outputtype": "write",
         "outputRBE": true,
@@ -19262,6 +19174,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 110,
         "y": 420,
         "wires": [
@@ -19286,7 +19199,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Living",
         "outputtype": "write",
         "outputRBE": false,
@@ -19295,6 +19207,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1090,
         "y": 420,
         "wires": [
@@ -19316,7 +19229,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Living",
         "outputtype": "write",
         "outputRBE": true,
@@ -19325,6 +19237,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 110,
         "y": 540,
         "wires": [
@@ -19508,7 +19421,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Salon TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -19517,6 +19429,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 120,
         "y": 720,
         "wires": [
@@ -19541,7 +19454,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Bureau",
         "outputtype": "write",
         "outputRBE": false,
@@ -19550,6 +19462,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1100,
         "y": 720,
         "wires": [
@@ -19571,7 +19484,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Salon TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -19580,6 +19492,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 120,
         "y": 840,
         "wires": [
@@ -19743,7 +19656,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Chambre 1[3 reelle]",
         "outputtype": "write",
         "outputRBE": true,
@@ -19752,6 +19664,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 150,
         "y": 1080,
         "wires": [
@@ -19776,7 +19689,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Chambre 1[3 reelle]",
         "outputtype": "write",
         "outputRBE": false,
@@ -19785,6 +19697,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1130,
         "y": 1020,
         "wires": [
@@ -19806,7 +19719,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Chambre 1[3 reelle]",
         "outputtype": "write",
         "outputRBE": true,
@@ -19815,6 +19727,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 150,
         "y": 1140,
         "wires": [
@@ -19978,7 +19891,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Chambre 2",
         "outputtype": "write",
         "outputRBE": true,
@@ -19987,6 +19899,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 120,
         "y": 1320,
         "wires": [
@@ -20011,7 +19924,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Chambre 2",
         "outputtype": "write",
         "outputRBE": false,
@@ -20020,6 +19932,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1110,
         "y": 1320,
         "wires": [
@@ -20041,7 +19954,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Chambre 2",
         "outputtype": "write",
         "outputRBE": true,
@@ -20050,6 +19962,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 120,
         "y": 1440,
         "wires": [
@@ -20213,7 +20126,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Chambre 3 parent",
         "outputtype": "write",
         "outputRBE": true,
@@ -20222,6 +20134,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 150,
         "y": 1680,
         "wires": [
@@ -20246,7 +20159,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Chambre 3 parent",
         "outputtype": "write",
         "outputRBE": false,
@@ -20255,6 +20167,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1110,
         "y": 1620,
         "wires": [
@@ -20276,7 +20189,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Chambre 3 parent",
         "outputtype": "write",
         "outputRBE": true,
@@ -20285,6 +20197,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 150,
         "y": 1740,
         "wires": [
@@ -20448,7 +20361,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SdB Parents",
         "outputtype": "write",
         "outputRBE": true,
@@ -20457,6 +20369,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 130,
         "y": 1980,
         "wires": [
@@ -20481,7 +20394,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SdB Parents",
         "outputtype": "write",
         "outputRBE": false,
@@ -20490,6 +20402,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1110,
         "y": 1920,
         "wires": [
@@ -20511,7 +20424,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SdB Parents",
         "outputtype": "write",
         "outputRBE": true,
@@ -20520,6 +20432,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 130,
         "y": 2040,
         "wires": [
@@ -20683,7 +20596,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Salle de Gym",
         "outputtype": "write",
         "outputRBE": true,
@@ -20692,6 +20604,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 130,
         "y": 2280,
         "wires": [
@@ -20716,7 +20629,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Salle de Gym",
         "outputtype": "write",
         "outputRBE": false,
@@ -20725,6 +20637,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1120,
         "y": 2220,
         "wires": [
@@ -20746,7 +20659,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Salle de Gym",
         "outputtype": "write",
         "outputRBE": true,
@@ -20755,6 +20667,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 130,
         "y": 2340,
         "wires": [
@@ -20944,7 +20857,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Bureau",
         "outputtype": "read",
         "outputRBE": false,
@@ -20953,6 +20865,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 420,
         "y": 60,
         "wires": [
@@ -21022,7 +20935,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Living",
         "outputtype": "read",
         "outputRBE": false,
@@ -21031,6 +20943,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 410,
         "y": 360,
         "wires": [
@@ -21100,7 +21013,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Salon TV",
         "outputtype": "read",
         "outputRBE": false,
@@ -21109,6 +21021,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 440,
         "y": 660,
         "wires": [
@@ -21178,7 +21091,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Chambre 1[3 reelle]",
         "outputtype": "read",
         "outputRBE": false,
@@ -21187,6 +21099,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 490,
         "y": 960,
         "wires": [
@@ -21256,7 +21169,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Chambre 2",
         "outputtype": "read",
         "outputRBE": false,
@@ -21265,6 +21177,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 450,
         "y": 1260,
         "wires": [
@@ -21334,7 +21247,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Chambre 3 parent",
         "outputtype": "read",
         "outputRBE": false,
@@ -21343,6 +21255,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 490,
         "y": 1560,
         "wires": [
@@ -21412,7 +21325,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SdB Parents",
         "outputtype": "read",
         "outputRBE": false,
@@ -21421,6 +21333,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 450,
         "y": 1860,
         "wires": [
@@ -21490,7 +21403,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Salle de Gym",
         "outputtype": "read",
         "outputRBE": false,
@@ -21499,6 +21411,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 460,
         "y": 2160,
         "wires": [
@@ -21542,7 +21455,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Bureau",
         "outputtype": "write",
         "outputRBE": true,
@@ -21551,6 +21463,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 690,
         "y": 240,
         "wires": [
@@ -21592,7 +21505,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Living",
         "outputtype": "write",
         "outputRBE": true,
@@ -21601,6 +21513,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 690,
         "y": 480,
         "wires": [
@@ -21642,7 +21555,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Salon TV",
         "outputtype": "write",
         "outputRBE": true,
@@ -21651,6 +21563,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 700,
         "y": 780,
         "wires": [
@@ -21692,7 +21605,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Chambre 1[3 reelle]",
         "outputtype": "write",
         "outputRBE": true,
@@ -21701,6 +21613,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 730,
         "y": 1080,
         "wires": [
@@ -21742,7 +21655,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Chambre 2",
         "outputtype": "write",
         "outputRBE": true,
@@ -21751,6 +21663,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 700,
         "y": 1380,
         "wires": [
@@ -21792,7 +21705,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Chambre 3 parent",
         "outputtype": "write",
         "outputRBE": true,
@@ -21801,6 +21713,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 770,
         "y": 1680,
         "wires": [
@@ -21842,7 +21755,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "SdB Parents",
         "outputtype": "write",
         "outputRBE": true,
@@ -21851,6 +21763,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 730,
         "y": 1980,
         "wires": [
@@ -21892,7 +21805,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Salle de Gym",
         "outputtype": "write",
         "outputRBE": true,
@@ -21901,6 +21813,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 750,
         "y": 2280,
         "wires": [
@@ -22083,22 +21996,6 @@
         "wires": []
     },
     {
-        "id": "e6d7d455a038ef4a",
-        "type": "ds18b20",
-        "z": "54acd5f6d6fa0efe",
-        "g": "f89ba36d8c1adb98",
-        "name": "Sonde Ballon eau",
-        "sensorid": "28-b15c421f64ff",
-        "timer": "10",
-        "x": 120,
-        "y": 2500,
-        "wires": [
-            [
-                "33489192df08f6ae"
-            ]
-        ]
-    },
-    {
         "id": "33489192df08f6ae",
         "type": "function",
         "z": "54acd5f6d6fa0efe",
@@ -22115,6 +22012,17 @@
         "wires": [
             []
         ]
+    },
+    {
+        "id": "d08f34052f28b2fb",
+        "type": "comment",
+        "z": "54acd5f6d6fa0efe",
+        "g": "f89ba36d8c1adb98",
+        "name": "Temp ballon",
+        "info": "Temperature du ballon en output",
+        "x": 150,
+        "y": 2500,
+        "wires": []
     },
     {
         "id": "5ce62a8b72327071",
@@ -22184,7 +22092,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "ARMEMENT ABSENT",
         "outputtype": "write",
         "outputRBE": false,
@@ -22193,6 +22100,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1140,
         "y": 860,
         "wires": [
@@ -22214,7 +22122,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "ARMEMENT PARTIEL",
         "outputtype": "write",
         "outputRBE": false,
@@ -22223,6 +22130,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 1140,
         "y": 940,
         "wires": [
@@ -22244,7 +22152,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Porte Garage",
         "outputtype": "write",
         "outputRBE": false,
@@ -22253,6 +22160,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 990,
         "y": 580,
         "wires": [
@@ -22469,7 +22377,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "ALARME",
         "outputtype": "write",
         "outputRBE": true,
@@ -22478,6 +22385,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 200,
         "y": 1060,
         "wires": [
@@ -22561,7 +22469,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "STATUS",
         "outputtype": "write",
         "outputRBE": true,
@@ -22570,6 +22477,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 170,
         "y": 120,
         "wires": [
@@ -22691,7 +22599,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "STATUS",
         "outputtype": "write",
         "outputRBE": true,
@@ -22700,6 +22607,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 170,
         "y": 340,
         "wires": [
@@ -22814,7 +22722,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "JOUR/NUIT",
         "outputtype": "write",
         "outputRBE": true,
@@ -22823,6 +22730,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 190,
         "y": 1620,
         "wires": [
@@ -22857,7 +22765,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Vitesse Status",
         "outputtype": "write",
         "outputRBE": true,
@@ -22866,6 +22773,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 190,
         "y": 1480,
         "wires": [
@@ -22962,7 +22870,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Vitesse",
         "outputtype": "write",
         "outputRBE": true,
@@ -22971,6 +22878,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 950,
         "y": 1480,
         "wires": [
@@ -23023,7 +22931,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Valeur mesuree citerne en %",
         "outputtype": "write",
         "outputRBE": true,
@@ -23032,6 +22939,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 240,
         "y": 1760,
         "wires": [
@@ -23055,7 +22963,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "ELECTRICITE",
         "outputtype": "write",
         "outputRBE": true,
@@ -23064,6 +22971,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 190,
         "y": 2180,
         "wires": [
@@ -23087,7 +22995,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "EAU DE VILLE",
         "outputtype": "write",
         "outputRBE": true,
@@ -23096,6 +23003,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 190,
         "y": 1900,
         "wires": [
@@ -23119,7 +23027,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "EAU CITERNE",
         "outputtype": "write",
         "outputRBE": true,
@@ -23128,6 +23035,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 190,
         "y": 2040,
         "wires": [
@@ -23151,7 +23059,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "PUISSANCE",
         "outputtype": "write",
         "outputRBE": true,
@@ -23160,6 +23067,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 190,
         "y": 2320,
         "wires": [
@@ -23319,7 +23227,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 340,
+        "x": 380,
         "y": 2540,
         "wires": [
             [
@@ -23337,110 +23245,6 @@
         "x": 170,
         "y": 2480,
         "wires": []
-    },
-    {
-        "id": "0127de4f165e4a68",
-        "type": "pi-gpiod in",
-        "z": "9a03a89a80288e0b",
-        "g": "60688dfc55b512e8",
-        "name": "Porte entree 35",
-        "host": "localhost",
-        "port": 8888,
-        "pin": "19",
-        "intype": "PUD_UP",
-        "debounce": "1000",
-        "read": true,
-        "x": 180,
-        "y": 2540,
-        "wires": [
-            [
-                "af27d3c6e8cdb22c",
-                "1ca7d64aad192489"
-            ]
-        ]
-    },
-    {
-        "id": "a977478c182424f3",
-        "type": "pi-gpiod in",
-        "z": "9a03a89a80288e0b",
-        "g": "3d58b23d95ff0a11",
-        "name": "Porte garage fermée 31",
-        "host": "localhost",
-        "port": 8888,
-        "pin": "6",
-        "intype": "PUD_UP",
-        "debounce": "1000",
-        "read": false,
-        "x": 200,
-        "y": 640,
-        "wires": [
-            [
-                "17efc8f51e563f3f",
-                "844b40ddfd85d05e"
-            ]
-        ]
-    },
-    {
-        "id": "071aa57f6019e7aa",
-        "type": "pi-gpiod in",
-        "z": "9a03a89a80288e0b",
-        "g": "7f2be162e27d008e",
-        "name": "Alarme nuit 37",
-        "host": "localhost",
-        "port": 8888,
-        "pin": "26",
-        "intype": "PUD_UP",
-        "debounce": "1000",
-        "read": false,
-        "x": 170,
-        "y": 940,
-        "wires": [
-            [
-                "aa62e5b361cbec0c",
-                "daec04544a361ede"
-            ]
-        ]
-    },
-    {
-        "id": "0150c56a52fcce46",
-        "type": "pi-gpiod in",
-        "z": "9a03a89a80288e0b",
-        "g": "7f2be162e27d008e",
-        "name": "Alarme Abscent 33",
-        "host": "localhost",
-        "port": 8888,
-        "pin": "13",
-        "intype": "PUD_UP",
-        "debounce": "1000",
-        "read": false,
-        "x": 190,
-        "y": 840,
-        "wires": [
-            [
-                "f28abe05ecbc27f1",
-                "daec04544a361ede"
-            ]
-        ]
-    },
-    {
-        "id": "23dabd37e59af9a4",
-        "type": "pi-gpiod in",
-        "z": "9a03a89a80288e0b",
-        "g": "3d58b23d95ff0a11",
-        "name": "Porte garage ouverte 29",
-        "host": "localhost",
-        "port": 8888,
-        "pin": "5",
-        "intype": "PUD_UP",
-        "debounce": "2000",
-        "read": false,
-        "x": 210,
-        "y": 580,
-        "wires": [
-            [
-                "3de0e32ce8581a01"
-            ]
-        ]
     },
     {
         "id": "fc9ea0709ccc6ba4",
@@ -23503,7 +23307,6 @@
         "notifywrite": false,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "Vitesse Status",
         "outputtype": "read",
         "outputRBE": true,
@@ -23512,6 +23315,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 370,
         "y": 1420,
         "wires": [
@@ -23884,7 +23688,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 340,
+        "x": 380,
         "y": 2700,
         "wires": [
             [
@@ -23902,27 +23706,6 @@
         "x": 170,
         "y": 2640,
         "wires": []
-    },
-    {
-        "id": "73749afcd73795ea",
-        "type": "pi-gpiod in",
-        "z": "9a03a89a80288e0b",
-        "g": "3fd9d52d1a8103b9",
-        "name": "Porte Atelier 40",
-        "host": "localhost",
-        "port": 8888,
-        "pin": "21",
-        "intype": "PUD_UP",
-        "debounce": "1000",
-        "read": true,
-        "x": 180,
-        "y": 2700,
-        "wires": [
-            [
-                "3f25ae71af496ab0",
-                "18e6cd08c523e8b9"
-            ]
-        ]
     },
     {
         "id": "77b08262839b1797",
@@ -23987,7 +23770,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 380,
+        "x": 400,
         "y": 2860,
         "wires": [
             [
@@ -24005,27 +23788,6 @@
         "x": 220,
         "y": 2800,
         "wires": []
-    },
-    {
-        "id": "94a31b4333ab19b0",
-        "type": "pi-gpiod in",
-        "z": "9a03a89a80288e0b",
-        "g": "7e2f81c6cf0e02ec",
-        "name": "Porte fenetre SAM 38",
-        "host": "localhost",
-        "port": 8888,
-        "pin": "20",
-        "intype": "PUD_UP",
-        "debounce": "1000",
-        "read": true,
-        "x": 200,
-        "y": 2860,
-        "wires": [
-            [
-                "1135fc87d6fe0d04",
-                "8cfa920b438d8106"
-            ]
-        ]
     },
     {
         "id": "63ea1b2d1342c5de",
@@ -24110,27 +23872,6 @@
         "wires": []
     },
     {
-        "id": "135c3343c0930f36",
-        "type": "pi-gpiod in",
-        "z": "9a03a89a80288e0b",
-        "g": "5695899964f379ab",
-        "name": "Porte fenetre Cuisine 36",
-        "host": "localhost",
-        "port": 8888,
-        "pin": "16",
-        "intype": "PUD_UP",
-        "debounce": "1000",
-        "read": true,
-        "x": 210,
-        "y": 3020,
-        "wires": [
-            [
-                "f35eff9410f39c8e",
-                "14fe888dd3e8a2ab"
-            ]
-        ]
-    },
-    {
         "id": "1ca7d64aad192489",
         "type": "function",
         "z": "9a03a89a80288e0b",
@@ -24142,8 +23883,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 340,
-        "y": 2480,
+        "x": 380,
+        "y": 2500,
         "wires": [
             []
         ]
@@ -24160,7 +23901,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 340,
+        "x": 380,
         "y": 2640,
         "wires": [
             []
@@ -24214,8 +23955,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 560,
-        "y": 660,
+        "x": 400,
+        "y": 680,
         "wires": [
             []
         ]
@@ -24237,6 +23978,94 @@
         "wires": [
             []
         ]
+    },
+    {
+        "id": "5c5496885f24aafc",
+        "type": "comment",
+        "z": "9a03a89a80288e0b",
+        "g": "60688dfc55b512e8",
+        "name": "Porte entree",
+        "info": "0 ou 1",
+        "x": 230,
+        "y": 2520,
+        "wires": []
+    },
+    {
+        "id": "5789e48bc1bc040c",
+        "type": "comment",
+        "z": "9a03a89a80288e0b",
+        "g": "3fd9d52d1a8103b9",
+        "name": "Porte Atelier",
+        "info": "0 ou 1",
+        "x": 230,
+        "y": 2680,
+        "wires": []
+    },
+    {
+        "id": "d47796dc5582f01d",
+        "type": "comment",
+        "z": "9a03a89a80288e0b",
+        "g": "7e2f81c6cf0e02ec",
+        "name": "Porte SAM",
+        "info": "0 ou 1",
+        "x": 260,
+        "y": 2840,
+        "wires": []
+    },
+    {
+        "id": "31636b3ff6f29a90",
+        "type": "comment",
+        "z": "9a03a89a80288e0b",
+        "g": "5695899964f379ab",
+        "name": "Porte Cuisine",
+        "info": "0 ou 1",
+        "x": 250,
+        "y": 3020,
+        "wires": []
+    },
+    {
+        "id": "12edfcca9a396eb2",
+        "type": "comment",
+        "z": "9a03a89a80288e0b",
+        "g": "3d58b23d95ff0a11",
+        "name": "Porte garage contacteur aimant",
+        "info": "",
+        "x": 190,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "09be191e0edfcc34",
+        "type": "comment",
+        "z": "9a03a89a80288e0b",
+        "g": "3d58b23d95ff0a11",
+        "name": "Porte garage alarme",
+        "info": "",
+        "x": 250,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "61e8dfb2304fd18f",
+        "type": "comment",
+        "z": "9a03a89a80288e0b",
+        "g": "7f2be162e27d008e",
+        "name": "Alarme absent ",
+        "info": "a connecter au set event",
+        "x": 210,
+        "y": 840,
+        "wires": []
+    },
+    {
+        "id": "b876f429f9b951fd",
+        "type": "comment",
+        "z": "9a03a89a80288e0b",
+        "g": "7f2be162e27d008e",
+        "name": "Alarme Nuit ",
+        "info": "a contecter au set event",
+        "x": 230,
+        "y": 940,
+        "wires": []
     },
     {
         "id": "a862e394fb0cb543",
@@ -25138,7 +24967,6 @@
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "listenallga": false,
         "name": "EXT MAISON",
         "outputtype": "write",
         "outputRBE": false,
@@ -25147,6 +24975,7 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "listenallga": false,
         "x": 560,
         "y": 120,
         "wires": [
