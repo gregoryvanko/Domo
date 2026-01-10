@@ -91,9 +91,7 @@
             "6e12a2b57da51108",
             "9b896f1c3c41912a",
             "e57788ecd2415a4d",
-            "fcebc06eccd9a2d9",
-            "174ef4c31984f564",
-            "ae05948b94f0cb6d"
+            "fcebc06eccd9a2d9"
         ],
         "x": 34,
         "y": 419,
@@ -121,9 +119,7 @@
             "afb2b53c50519b36",
             "2da4230f03f49e0e",
             "09eb2e9a0a882752",
-            "a8aceb79943a621d",
-            "dbcef9661ccc3487",
-            "b9ac3b5522321a97"
+            "a8aceb79943a621d"
         ],
         "x": 34,
         "y": 679,
@@ -155,9 +151,7 @@
             "28a68e4869913ff5",
             "9fc6ff3be33b6a3e",
             "9b82d2957cb66e1b",
-            "db71d3c7d6cf53e0",
-            "3aea62fa0aded53f",
-            "048adba8284b6eea"
+            "db71d3c7d6cf53e0"
         ],
         "x": 34,
         "y": 99,
@@ -185,9 +179,7 @@
             "c09f050f6b46d6c2",
             "0364a93d5e0edf12",
             "ce45568ac929c1af",
-            "68f9f47cfcccd6c6",
-            "a8ec35f54033ec2f",
-            "d5f41c4ff506c870"
+            "68f9f47cfcccd6c6"
         ],
         "x": 34,
         "y": 1199,
@@ -215,9 +207,7 @@
             "94b2b2ad62b488b2",
             "3c6e7bb425167fa9",
             "b002d6d8198c9518",
-            "c5f28d4e73b542ad",
-            "99a9bf378b4f7867",
-            "34f308fb554e31df"
+            "c5f28d4e73b542ad"
         ],
         "x": 34,
         "y": 1439,
@@ -252,7 +242,7 @@
             "1bdde9c0be0aba46"
         ],
         "x": 34,
-        "y": 1919,
+        "y": 1739,
         "w": 1212,
         "h": 242
     },
@@ -277,12 +267,10 @@
             "804dc2cb510bee20",
             "fdcbdbbf296b3851",
             "740a67993491f599",
-            "3398ed77e732f2f5",
-            "43266ca43ba4e258",
-            "c36b6e8eaec1f2b8"
+            "3398ed77e732f2f5"
         ],
         "x": 34,
-        "y": 2179,
+        "y": 2039,
         "w": 1152,
         "h": 222
     },
@@ -307,12 +295,10 @@
             "40d89267609e4a12",
             "1d7f9e55dee38480",
             "db7cb54115689e22",
-            "5dfddb17eb845068",
-            "e0e30482efe522ce",
-            "0993fdef1cdea4ae"
+            "5dfddb17eb845068"
         ],
         "x": 34,
-        "y": 2419,
+        "y": 2299,
         "w": 1152,
         "h": 222
     },
@@ -337,12 +323,10 @@
             "db4a00d77183d622",
             "d4a61fa0fc45a209",
             "225d69deef90db15",
-            "e6d33f84817dfc7d",
-            "5a59be7b0b6891e4",
-            "4320cc9e203f5285"
+            "e6d33f84817dfc7d"
         ],
         "x": 34,
-        "y": 2659,
+        "y": 2579,
         "w": 1212,
         "h": 222
     },
@@ -368,12 +352,10 @@
             "e5d55d4c9dd4f684",
             "974cb34e8004dc50",
             "38f23628bd63cbbf",
-            "7224f3adcccd3c50",
-            "a9162e4218bb49c8",
             "60a73b859489f0d6"
         ],
         "x": 34,
-        "y": 2899,
+        "y": 2839,
         "w": 1152,
         "h": 222
     },
@@ -398,12 +380,10 @@
             "402d30a5c2c66e20",
             "e7baf35eac2a959a",
             "87c9fa592b07f907",
-            "22fc27229a3cbb49",
-            "9e9a80d2c31cd2a4",
-            "3ae63d5e72773b8b"
+            "22fc27229a3cbb49"
         ],
         "x": 34,
-        "y": 3139,
+        "y": 3099,
         "w": 1192,
         "h": 222
     },
@@ -428,9 +408,7 @@
             "243c9b21a6eaab71",
             "832099fec93ead56",
             "db606f0bfa7aa041",
-            "df42c8ed672eaf91",
-            "0d60b1f664b97a2e",
-            "9f844fdf09a7b26c"
+            "df42c8ed672eaf91"
         ],
         "x": 34,
         "y": 3379,
@@ -458,9 +436,7 @@
             "fdadb41162d1159b",
             "1037a09ae540412e",
             "cb372a1347fc529a",
-            "1aeb6aa476cd98aa",
-            "a8eef358ccfce8ea",
-            "39d1c8edd4a582a7"
+            "1aeb6aa476cd98aa"
         ],
         "x": 34,
         "y": 3619,
@@ -489,8 +465,6 @@
             "a9c3ed02c6b045d3",
             "dd3cea81b20228b1",
             "01eeb94481020ef9",
-            "c8f17692a7720a74",
-            "1e56307f3b2afc0e",
             "97c57e7afedcea7f"
         ],
         "x": 34,
@@ -520,8 +494,6 @@
             "dc4ddf6580e9f8e2",
             "9b89a21b44884819",
             "d295ab6bf0f5a372",
-            "00f94bfad2da3cf0",
-            "5b58826e2b76bbd0",
             "129007e661143b33"
         ],
         "x": 34,
@@ -551,8 +523,6 @@
             "6404f271dee6abf3",
             "ec486f78da6421bd",
             "1ee5ecaab73a745a",
-            "21946cd222e72d8f",
-            "63a6466bdfec1bbb",
             "a056ae72a695983d"
         ],
         "x": 34,
@@ -581,12 +551,12 @@
             "0f21b0239fcc2f1d",
             "a6086c70995e701b",
             "c9473811f6117d38",
-            "1768209562fdbf15",
-            "37389cf3e63cc630",
-            "6492c6b66157d456"
+            "1768209562fdbf15"
         ],
-        "x": 14,
-        "y": 39
+        "x": -6,
+        "y": 39,
+        "w": 1192,
+        "h": 202
     },
     {
         "id": "71ada8800f2cd4f1",
@@ -610,12 +580,12 @@
             "ce547948b3a0c488",
             "14d3f7611101156d",
             "75e24d0f06677509",
-            "0e69a467f4827d36",
-            "f7696f39beb19b3f",
             "add02676d21ae944"
         ],
-        "x": 14,
-        "y": 259
+        "x": -6,
+        "y": 259,
+        "w": 1172,
+        "h": 202
     },
     {
         "id": "4f6f42b4aa1cce04",
@@ -638,12 +608,12 @@
             "9019b64bcea383e2",
             "3186bc1153a0e706",
             "5d247163a7cd735e",
-            "73d3a43d0f2ab364",
-            "6fb12b41dc5d53fc",
-            "42e6bcab435ddead"
+            "73d3a43d0f2ab364"
         ],
-        "x": 14,
-        "y": 479
+        "x": -6,
+        "y": 479,
+        "w": 1272,
+        "h": 202
     },
     {
         "id": "bacdeffca3e36b61",
@@ -666,12 +636,12 @@
             "5cb274e8523410be",
             "e42f3b4611859f5b",
             "9d5f6ba16ed25c5d",
-            "a060fce4926e23fe",
-            "b1203aa080a79ad5",
-            "5c39b07afab60dd9"
+            "a060fce4926e23fe"
         ],
-        "x": 14,
-        "y": 699
+        "x": -6,
+        "y": 699,
+        "w": 1272,
+        "h": 202
     },
     {
         "id": "a5dabf87e90bc714",
@@ -694,12 +664,12 @@
             "c0a259795a079868",
             "fcf498607cb90636",
             "df1271b7715c2ac0",
-            "43756d267883c05d",
-            "3ea88c234e13b15e",
-            "7cfe279d7ccbfe65"
+            "43756d267883c05d"
         ],
-        "x": 14,
-        "y": 919
+        "x": -6,
+        "y": 919,
+        "w": 1272,
+        "h": 202
     },
     {
         "id": "c31a081291e4fe3d",
@@ -723,12 +693,12 @@
             "e6fd4fdb5ab618f4",
             "dfe512a52cc87b23",
             "c1a0855fe919445c",
-            "b177f0838fdd54fd",
-            "239159444d75bb0e",
             "6774c22caae8437f"
         ],
-        "x": 14,
-        "y": 1159
+        "x": -6,
+        "y": 1159,
+        "w": 1172,
+        "h": 202
     },
     {
         "id": "df8da244c8d58ffb",
@@ -751,12 +721,12 @@
             "d7abd52a168224f5",
             "7cfb4653a12bd0c1",
             "cbc8a83debb1bc4f",
-            "d7dddbad82fbb6c4",
-            "453fd5a1e0e3ac3d",
-            "13744b5e97145df7"
+            "d7dddbad82fbb6c4"
         ],
-        "x": 14,
-        "y": 1399
+        "x": -6,
+        "y": 1399,
+        "w": 1192,
+        "h": 202
     },
     {
         "id": "b89159848dd686d0",
@@ -780,12 +750,12 @@
             "0134a27f13a73d95",
             "75f401bf432c9590",
             "18ba672c07869286",
-            "10c6624e4c93d7a5",
-            "c8580bcb377be0cf",
             "1d2b7a21d4383efc"
         ],
-        "x": 14,
-        "y": 1619
+        "x": -6,
+        "y": 1619,
+        "w": 1172,
+        "h": 222
     },
     {
         "id": "44f71e88a1c161ed",
@@ -808,12 +778,12 @@
             "8bfadab3ba5ff333",
             "9940644eb922e64c",
             "e0d8081911c9ba8a",
-            "462125583cc1473a",
-            "d06d0acd0961b99c",
-            "da4996f4e08062da"
+            "462125583cc1473a"
         ],
-        "x": 14,
-        "y": 1859
+        "x": -6,
+        "y": 1859,
+        "w": 1172,
+        "h": 202
     },
     {
         "id": "0e5485cb52be7b1d",
@@ -836,12 +806,12 @@
             "3caea2a1de70c30e",
             "8b249c75a59918e0",
             "7d5b7582d70049d8",
-            "36add222e7ce7fba",
-            "8f5254ecf3156df2",
-            "73cf531beb4f4f91"
+            "36add222e7ce7fba"
         ],
-        "x": 14,
-        "y": 2079
+        "x": -6,
+        "y": 2079,
+        "w": 1192,
+        "h": 202
     },
     {
         "id": "65485c8c76dc6672",
@@ -865,12 +835,12 @@
             "de03325f2c7c2da6",
             "3311480828cf504a",
             "6144ce0a2d92200b",
-            "13dec92570634aa1",
-            "95c8e09f0200edf0",
             "eaf134f2a830aeb0"
         ],
-        "x": 14,
-        "y": 2299
+        "x": -6,
+        "y": 2299,
+        "w": 1172,
+        "h": 202
     },
     {
         "id": "494736d005bfb177",
@@ -893,12 +863,12 @@
             "43e345d6e6841db6",
             "66bafe2aba5707b5",
             "d802bf6b877fcb96",
-            "0750bc5bc40c63f4",
-            "9fa770df39c15f67",
-            "c7697f522058e23d"
+            "0750bc5bc40c63f4"
         ],
-        "x": 14,
-        "y": 2519
+        "x": -6,
+        "y": 2519,
+        "w": 1172,
+        "h": 202
     },
     {
         "id": "c317f3a2b5a54ca4",
@@ -921,12 +891,12 @@
             "290a1c391af073cb",
             "bd751208c0852ad8",
             "207398008582c417",
-            "dccbb9bd39134170",
-            "2757ae7ed44be57e",
-            "94af1f128a8ebf49"
+            "dccbb9bd39134170"
         ],
-        "x": 34,
-        "y": 39
+        "x": 14,
+        "y": 39,
+        "w": 1212,
+        "h": 202
     },
     {
         "id": "b7e1659eb76513ba",
@@ -949,12 +919,12 @@
             "4181228243c29d2b",
             "c4c244b450191aef",
             "c37a9db158bc4908",
-            "5fc77aec85f5abf6",
-            "fe48d2e129fe0c23",
-            "4f486ed99e246c07"
+            "5fc77aec85f5abf6"
         ],
-        "x": 34,
-        "y": 279
+        "x": 14,
+        "y": 279,
+        "w": 1232,
+        "h": 202
     },
     {
         "id": "8a85c5b82ea5b9c1",
@@ -1016,8 +986,10 @@
             "3a06973c80927c21",
             "fcd1b16adaf4f310"
         ],
-        "x": 14,
-        "y": 2739
+        "x": -6,
+        "y": 2739,
+        "w": 1252,
+        "h": 302
     },
     {
         "id": "6f61415fb29295d8",
@@ -1111,10 +1083,7 @@
             "e7fb4037180df236",
             "5514b0b68fccf98b",
             "7999efc4c630c8c1",
-            "e8f70778b42fbd18",
-            "890bf078018458ab",
-            "c118f86fbc0d500a",
-            "a3747019694739fe"
+            "e8f70778b42fbd18"
         ],
         "x": 54,
         "y": 1339,
@@ -1154,8 +1123,8 @@
             "61e8dfb2304fd18f",
             "b876f429f9b951fd"
         ],
-        "x": 74,
-        "y": 699,
+        "x": 54,
+        "y": 819,
         "w": 1192,
         "h": 462
     },
@@ -1213,15 +1182,14 @@
             "20d9c7ba755d079c",
             "bd4fa6eb445102b3",
             "b62d9b1979980ba2",
-            "dd2f9be7ef8b0c2f",
             "78a8abeca9601db6",
             "da29a4f08f84c516",
             "8372cbe23977cefb",
             "d6c192096a627e4a"
         ],
-        "x": -6,
+        "x": 14,
         "y": 19,
-        "w": 1192,
+        "w": 1212,
         "h": 262
     },
     {
@@ -1247,7 +1215,6 @@
             "1611bdc7a59b8978",
             "c416085f228d5bc1",
             "0f20ef1f21345d6f",
-            "6a1628a61861e9d8",
             "2023bbd45b85efaf",
             "5c92e97dc27b3d81",
             "d58da7774be7fafa",
@@ -1255,7 +1222,7 @@
         ],
         "x": -6,
         "y": 319,
-        "w": 1172,
+        "w": 1132,
         "h": 262
     },
     {
@@ -1281,7 +1248,6 @@
             "eaa23f383c760b43",
             "b782491d37bb0b1b",
             "c7e283a3681f68c5",
-            "b11af67a0d159dca",
             "54f0faa8e9fde141",
             "215e9fbfa25fd8b6",
             "a92b4cf4ddfe9f16",
@@ -1289,7 +1255,7 @@
         ],
         "x": -6,
         "y": 619,
-        "w": 1192,
+        "w": 1132,
         "h": 262
     },
     {
@@ -1315,7 +1281,6 @@
             "6d3ffec4bf10da8f",
             "c53a817b3c362d7c",
             "98489c1e0fbd468e",
-            "85c8e99cbec760c5",
             "cf9af437505c536e",
             "d78e47a65b64e54f",
             "44b677ecce4ab9a3",
@@ -1349,7 +1314,6 @@
             "84f2022f526cfd89",
             "55bff62c830b70f6",
             "60940c4ad880c4b6",
-            "ff2acc35ed9bd36c",
             "33489ba8bc7ee4cd",
             "476fff3de3804669",
             "6c27a4cd8308e876",
@@ -1383,7 +1347,6 @@
             "8099f55037e09e49",
             "c5a2e48281f5423b",
             "8d94838d030ffabd",
-            "d0128576f192c3bb",
             "04130699804f4797",
             "8f208097a6b75d78",
             "c612263c265a580b",
@@ -1417,7 +1380,6 @@
             "d5b8c16ec3205c89",
             "0f0b5b3d34d9a88d",
             "d98bf5ba85294f17",
-            "715328890b34e82f",
             "1114895a212bbfe3",
             "e2bbce79557f6fd8",
             "63052f6605952923",
@@ -1451,7 +1413,6 @@
             "11f944ae34879fc7",
             "ac21085a90b98602",
             "681cd613dba1d324",
-            "10a69c1925e5b431",
             "728dc1b315b5aec8",
             "4ec5df912035f910",
             "c195bbf05dcd3987",
@@ -1540,12 +1501,12 @@
             "66c83715ee431605",
             "b74a205be012fdf9",
             "131654e0b9570a29",
-            "6b4f3d147ad1032a",
-            "ec90e9feaae21190",
             "8233ceb8a67ebaea"
         ],
-        "x": 34,
-        "y": 519
+        "x": 14,
+        "y": 519,
+        "w": 1212,
+        "h": 202
     },
     {
         "id": "21c6fb0324cf8c8b",
@@ -1568,12 +1529,12 @@
             "24ba7bb991a2057b",
             "a6fbbcbecbf98784",
             "9dc0df65bb0459f0",
-            "0a0db5ebfd3f2962",
-            "c87690d767ab40fc",
             "8a41ef22b2fe2dad"
         ],
-        "x": 34,
-        "y": 759
+        "x": 14,
+        "y": 759,
+        "w": 1172,
+        "h": 202
     },
     {
         "id": "048d735ad061e675",
@@ -1744,7 +1705,9 @@
             "0b29f95cb308a2af"
         ],
         "x": 34,
-        "y": 59
+        "y": 59,
+        "w": 672,
+        "h": 142
     },
     {
         "id": "61a8b44d015bcc6b",
@@ -1768,7 +1731,9 @@
             "a6214c68aa432cbb"
         ],
         "x": 34,
-        "y": 239
+        "y": 239,
+        "w": 672,
+        "h": 142
     },
     {
         "id": "9c6513762e787e3a",
@@ -2129,8 +2094,10 @@
             "9e434976f7cc7cb1",
             "596e0dece603494b"
         ],
-        "x": 14,
-        "y": 39
+        "x": -6,
+        "y": 39,
+        "w": 1132,
+        "h": 502
     },
     {
         "id": "53ff7f45926453fe",
@@ -2162,8 +2129,10 @@
             "83c7e5f19f6147cf",
             "6fc694cc6913ffaa"
         ],
-        "x": 14,
-        "y": 559
+        "x": -6,
+        "y": 559,
+        "w": 1232,
+        "h": 502
     },
     {
         "id": "d5224caf428ecc77",
@@ -2195,8 +2164,10 @@
             "636bf74185ca37e5",
             "b5c6764b04498466"
         ],
-        "x": 14,
-        "y": 1099
+        "x": -6,
+        "y": 1099,
+        "w": 1212,
+        "h": 502
     },
     {
         "id": "5de47cae56378300",
@@ -2228,8 +2199,10 @@
             "10bfcf503ffdb211",
             "3e6c27bd533fdde7"
         ],
-        "x": 14,
-        "y": 1639
+        "x": -6,
+        "y": 1639,
+        "w": 1132,
+        "h": 502
     },
     {
         "id": "b5e0138764a01c0f",
@@ -2263,8 +2236,10 @@
             "3b03824372cddded",
             "6203f50ec004e051"
         ],
-        "x": 14,
-        "y": 2179
+        "x": -6,
+        "y": 2179,
+        "w": 1192,
+        "h": 502
     },
     {
         "id": "afa54a8d255afd1e",
@@ -2298,8 +2273,10 @@
             "561711c3aa20e0e9",
             "7badc58d5b129f1d"
         ],
-        "x": 14,
-        "y": 2719
+        "x": -6,
+        "y": 2719,
+        "w": 1212,
+        "h": 502
     },
     {
         "id": "dea53376906590cf",
@@ -2323,7 +2300,9 @@
             "aa8c0e9ff3ad0825"
         ],
         "x": 34,
-        "y": 399
+        "y": 399,
+        "w": 672,
+        "h": 142
     },
     {
         "id": "6e91293a9aa58972",
@@ -2347,7 +2326,9 @@
             "d5f2ec0ace6b03bf"
         ],
         "x": 34,
-        "y": 579
+        "y": 579,
+        "w": 652,
+        "h": 142
     },
     {
         "id": "1336510ff1d99bd9",
@@ -2371,7 +2352,9 @@
             "4a319060dbd18be9"
         ],
         "x": 34,
-        "y": 759
+        "y": 759,
+        "w": 692,
+        "h": 142
     },
     {
         "id": "00c72f8c2bd999f0",
@@ -2395,7 +2378,9 @@
             "f4fdf47b8789c02f"
         ],
         "x": 34,
-        "y": 939
+        "y": 939,
+        "w": 692,
+        "h": 142
     },
     {
         "id": "c3ab94d5e4cd3796",
@@ -2526,7 +2511,9 @@
             "702ff509d51fbb4b"
         ],
         "x": 34,
-        "y": 1099
+        "y": 1099,
+        "w": 672,
+        "h": 142
     },
     {
         "id": "aec720b075cfc2b3",
@@ -2906,24 +2893,32 @@
         "g": "5177dcb4cb890fc0",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/12",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.006",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "Status Cuisine Table",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 190,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 180,
         "y": 520,
         "wires": [
             [
@@ -3107,24 +3102,32 @@
         "g": "7e2293898bfb0b25",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/13",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.006",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "Status Cuisine Spots",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 190,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 180,
         "y": 800,
         "wires": [
             [
@@ -3567,24 +3570,32 @@
         "g": "8d2b959eb3b733b5",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/8",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.006",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "Status Bureau Spots",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 190,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 180,
         "y": 280,
         "wires": [
             [
@@ -3768,24 +3779,32 @@
         "g": "f9464a4841b523ad",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/9",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "Status SAM Table",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 180,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 170,
         "y": 1320,
         "wires": [
             [
@@ -3969,24 +3988,32 @@
         "g": "1081cd76a9d7095b",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/10",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.006",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "Status SAM Applique",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 200,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 180,
         "y": 1560,
         "wires": [
             [
@@ -4085,7 +4112,7 @@
         "waitForSetupMsg": false,
         "outputs": 2,
         "x": 730,
-        "y": 2060,
+        "y": 1880,
         "wires": [
             [
                 "acf753a168d2f707"
@@ -4106,7 +4133,7 @@
         "finalize": "",
         "libs": [],
         "x": 960,
-        "y": 2060,
+        "y": 1880,
         "wires": [
             [
                 "c3d61a50fae5e6ef"
@@ -4129,7 +4156,7 @@
         "finalize": "",
         "libs": [],
         "x": 460,
-        "y": 2060,
+        "y": 1880,
         "wires": [
             [
                 "28c096e56f5dbbde"
@@ -4161,7 +4188,7 @@
         "passthrough": "no",
         "listenallga": false,
         "x": 150,
-        "y": 2060,
+        "y": 1880,
         "wires": [
             [
                 "09e1d311a287abd7"
@@ -4193,7 +4220,7 @@
         "passthrough": "no",
         "listenallga": false,
         "x": 150,
-        "y": 2120,
+        "y": 1940,
         "wires": [
             [
                 "c1ea516e0a84cd4b"
@@ -4225,7 +4252,7 @@
         "passthrough": "no",
         "listenallga": false,
         "x": 1150,
-        "y": 2020,
+        "y": 1840,
         "wires": [
             []
         ]
@@ -4255,7 +4282,7 @@
         "passthrough": "no",
         "listenallga": false,
         "x": 1140,
-        "y": 2120,
+        "y": 1940,
         "wires": [
             []
         ]
@@ -4268,7 +4295,7 @@
         "name": "Salon Spots",
         "info": "",
         "x": 150,
-        "y": 1960,
+        "y": 1780,
         "wires": []
     },
     {
@@ -4284,7 +4311,7 @@
         "finalize": "",
         "libs": [],
         "x": 460,
-        "y": 2120,
+        "y": 1940,
         "wires": [
             [
                 "28c096e56f5dbbde"
@@ -4336,7 +4363,7 @@
         "waitForSetupMsg": false,
         "outputs": 2,
         "x": 660,
-        "y": 2300,
+        "y": 2160,
         "wires": [
             [
                 "d5708a39cd077078"
@@ -4357,7 +4384,7 @@
         "finalize": "",
         "libs": [],
         "x": 900,
-        "y": 2300,
+        "y": 2160,
         "wires": [
             [
                 "96850e879bcadc54"
@@ -4377,7 +4404,7 @@
         "finalize": "",
         "libs": [],
         "x": 440,
-        "y": 2300,
+        "y": 2160,
         "wires": [
             [
                 "3ea16fdbd412f714"
@@ -4409,7 +4436,7 @@
         "passthrough": "no",
         "listenallga": false,
         "x": 1100,
-        "y": 2300,
+        "y": 2160,
         "wires": [
             []
         ]
@@ -4421,25 +4448,33 @@
         "g": "f92673c39ec63394",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/1",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.006",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "RESERVE",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 160,
-        "y": 2300,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 140,
+        "y": 2160,
         "wires": [
             [
                 "01265b72dde4e289"
@@ -4459,7 +4494,7 @@
         "finalize": "",
         "libs": [],
         "x": 900,
-        "y": 2360,
+        "y": 2220,
         "wires": [
             [
                 "96850e879bcadc54"
@@ -4474,7 +4509,7 @@
         "name": "BusCom",
         "links": [],
         "x": 785,
-        "y": 2360,
+        "y": 2220,
         "wires": [
             [
                 "fdcbdbbf296b3851"
@@ -4489,7 +4524,7 @@
         "name": "Atelier Plafond",
         "info": "",
         "x": 160,
-        "y": 2220,
+        "y": 2080,
         "wires": []
     },
     {
@@ -4537,7 +4572,7 @@
         "waitForSetupMsg": false,
         "outputs": 2,
         "x": 660,
-        "y": 2540,
+        "y": 2420,
         "wires": [
             [
                 "8ba00b584f944cd4"
@@ -4558,7 +4593,7 @@
         "finalize": "",
         "libs": [],
         "x": 900,
-        "y": 2540,
+        "y": 2420,
         "wires": [
             [
                 "f092ab0f596eec7a"
@@ -4578,7 +4613,7 @@
         "finalize": "",
         "libs": [],
         "x": 440,
-        "y": 2540,
+        "y": 2420,
         "wires": [
             [
                 "c17e9eb5c4e649fd"
@@ -4610,7 +4645,7 @@
         "passthrough": "no",
         "listenallga": false,
         "x": 1100,
-        "y": 2540,
+        "y": 2420,
         "wires": [
             []
         ]
@@ -4622,25 +4657,33 @@
         "g": "a32acf5f1ff293e2",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/2",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.006",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "GARAGE",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 160,
-        "y": 2540,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 140,
+        "y": 2420,
         "wires": [
             [
                 "2451f9bf254157b1"
@@ -4660,7 +4703,7 @@
         "finalize": "",
         "libs": [],
         "x": 900,
-        "y": 2600,
+        "y": 2480,
         "wires": [
             [
                 "f092ab0f596eec7a"
@@ -4675,7 +4718,7 @@
         "name": "BusCom",
         "links": [],
         "x": 785,
-        "y": 2600,
+        "y": 2480,
         "wires": [
             [
                 "1d7f9e55dee38480"
@@ -4690,7 +4733,7 @@
         "name": "Garage Plafond",
         "info": "",
         "x": 160,
-        "y": 2460,
+        "y": 2340,
         "wires": []
     },
     {
@@ -4738,7 +4781,7 @@
         "waitForSetupMsg": false,
         "outputs": 2,
         "x": 660,
-        "y": 2780,
+        "y": 2700,
         "wires": [
             [
                 "4d23b54ebf14e151"
@@ -4759,7 +4802,7 @@
         "finalize": "",
         "libs": [],
         "x": 900,
-        "y": 2780,
+        "y": 2700,
         "wires": [
             [
                 "4633f8f19f12140e"
@@ -4779,7 +4822,7 @@
         "finalize": "",
         "libs": [],
         "x": 440,
-        "y": 2780,
+        "y": 2700,
         "wires": [
             [
                 "3c1399ed0d2e54fc"
@@ -4811,7 +4854,7 @@
         "passthrough": "no",
         "listenallga": false,
         "x": 1130,
-        "y": 2780,
+        "y": 2700,
         "wires": [
             []
         ]
@@ -4823,25 +4866,33 @@
         "g": "3d773f387d258652",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/3",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.006",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "ARRIERE CUISINE",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 190,
-        "y": 2780,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 170,
+        "y": 2700,
         "wires": [
             [
                 "a32942d1547bae09"
@@ -4861,7 +4912,7 @@
         "finalize": "",
         "libs": [],
         "x": 900,
-        "y": 2840,
+        "y": 2760,
         "wires": [
             [
                 "4633f8f19f12140e"
@@ -4876,7 +4927,7 @@
         "name": "BusCom",
         "links": [],
         "x": 785,
-        "y": 2840,
+        "y": 2760,
         "wires": [
             [
                 "d4a61fa0fc45a209"
@@ -4891,7 +4942,7 @@
         "name": "Réserve Plafond",
         "info": "",
         "x": 160,
-        "y": 2700,
+        "y": 2620,
         "wires": []
     },
     {
@@ -4939,7 +4990,7 @@
         "waitForSetupMsg": false,
         "outputs": 2,
         "x": 640,
-        "y": 3020,
+        "y": 2960,
         "wires": [
             [
                 "d1b1f2681dc3cb8f"
@@ -4960,7 +5011,7 @@
         "finalize": "",
         "libs": [],
         "x": 900,
-        "y": 3020,
+        "y": 2960,
         "wires": [
             [
                 "b96a34e168d3bc2a"
@@ -4980,7 +5031,7 @@
         "finalize": "",
         "libs": [],
         "x": 440,
-        "y": 3020,
+        "y": 2960,
         "wires": [
             [
                 "3c03e60f12e00e04"
@@ -5012,7 +5063,7 @@
         "passthrough": "no",
         "listenallga": false,
         "x": 1100,
-        "y": 3020,
+        "y": 2960,
         "wires": [
             []
         ]
@@ -5024,25 +5075,33 @@
         "g": "078c7d8a78ffee86",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/4",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.006",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "WC RDC",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 160,
-        "y": 3020,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 140,
+        "y": 2960,
         "wires": [
             [
                 "6fb57bdd0e0cb147",
@@ -5063,7 +5122,7 @@
         "finalize": "",
         "libs": [],
         "x": 900,
-        "y": 3080,
+        "y": 3020,
         "wires": [
             [
                 "b96a34e168d3bc2a"
@@ -5078,7 +5137,7 @@
         "name": "BusCom",
         "links": [],
         "x": 785,
-        "y": 3080,
+        "y": 3020,
         "wires": [
             [
                 "e5d55d4c9dd4f684"
@@ -5093,7 +5152,7 @@
         "name": "WC Rez",
         "info": "",
         "x": 140,
-        "y": 2940,
+        "y": 2880,
         "wires": []
     },
     {
@@ -5141,7 +5200,7 @@
         "waitForSetupMsg": false,
         "outputs": 2,
         "x": 660,
-        "y": 3260,
+        "y": 3220,
         "wires": [
             [
                 "0b54519c0c5805dd"
@@ -5162,7 +5221,7 @@
         "finalize": "",
         "libs": [],
         "x": 900,
-        "y": 3260,
+        "y": 3220,
         "wires": [
             [
                 "2e2873c6af422cc4"
@@ -5182,7 +5241,7 @@
         "finalize": "",
         "libs": [],
         "x": 440,
-        "y": 3260,
+        "y": 3220,
         "wires": [
             [
                 "7746f7d782fec327"
@@ -5214,7 +5273,7 @@
         "passthrough": "no",
         "listenallga": false,
         "x": 1120,
-        "y": 3260,
+        "y": 3220,
         "wires": [
             []
         ]
@@ -5226,25 +5285,33 @@
         "g": "115f0270bcee9dbd",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/5",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.006",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "HALL ENTREE",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 170,
-        "y": 3260,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 160,
+        "y": 3220,
         "wires": [
             [
                 "76fd0cec0b6aa8fe"
@@ -5264,7 +5331,7 @@
         "finalize": "",
         "libs": [],
         "x": 900,
-        "y": 3320,
+        "y": 3280,
         "wires": [
             [
                 "2e2873c6af422cc4"
@@ -5279,7 +5346,7 @@
         "name": "BusCom",
         "links": [],
         "x": 785,
-        "y": 3320,
+        "y": 3280,
         "wires": [
             [
                 "e7baf35eac2a959a"
@@ -5294,7 +5361,7 @@
         "name": "Hall Rez Plafond",
         "info": "",
         "x": 160,
-        "y": 3180,
+        "y": 3140,
         "wires": []
     },
     {
@@ -5427,24 +5494,32 @@
         "g": "528bddc6be906d6d",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/6",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.006",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "ESCALIER VERS +1 LED",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 210,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 190,
         "y": 3500,
         "wires": [
             [
@@ -5628,24 +5703,32 @@
         "g": "cd38302406322403",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/7",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.006",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "ESCALIER VERS +1 APPLIQUE",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 230,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 210,
         "y": 3740,
         "wires": [
             [
@@ -5829,24 +5912,32 @@
         "g": "6aa4a99b9dde15b3",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/14",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.006",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "EXT GARAGE",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 170,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 160,
         "y": 3980,
         "wires": [
             [
@@ -6031,24 +6122,32 @@
         "g": "2ba4f8811c303e33",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/15",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "EXT MAISON",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 170,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 160,
         "y": 4220,
         "wires": [
             [
@@ -6233,24 +6332,32 @@
         "g": "ba5aed57fceeb2b3",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/16",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "EXT TERRASSE",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 180,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 160,
         "y": 4460,
         "wires": [
             [
@@ -6557,876 +6664,6 @@
         ]
     },
     {
-        "id": "048adba8284b6eea",
-        "type": "inject",
-        "z": "b10f3718da39ed6e",
-        "g": "8d2b959eb3b733b5",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "1",
-        "topic": "",
-        "x": 170,
-        "y": 340,
-        "wires": [
-            [
-                "3aea62fa0aded53f"
-            ]
-        ]
-    },
-    {
-        "id": "3aea62fa0aded53f",
-        "type": "knxUltimate",
-        "z": "b10f3718da39ed6e",
-        "g": "8d2b959eb3b733b5",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/8",
-        "outputtopic": "",
-        "dpt": "1.001",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "BUREAU",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 320,
-        "y": 340,
-        "wires": [
-            [
-                "47807ab40119e744"
-            ]
-        ]
-    },
-    {
-        "id": "ae05948b94f0cb6d",
-        "type": "inject",
-        "z": "b10f3718da39ed6e",
-        "g": "5177dcb4cb890fc0",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "1",
-        "topic": "",
-        "x": 170,
-        "y": 580,
-        "wires": [
-            [
-                "174ef4c31984f564"
-            ]
-        ]
-    },
-    {
-        "id": "174ef4c31984f564",
-        "type": "knxUltimate",
-        "z": "b10f3718da39ed6e",
-        "g": "5177dcb4cb890fc0",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/12",
-        "outputtopic": "",
-        "dpt": "1.001",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "TABLE CUISINE",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 340,
-        "y": 580,
-        "wires": [
-            [
-                "62efd37f9d543294"
-            ]
-        ]
-    },
-    {
-        "id": "b9ac3b5522321a97",
-        "type": "inject",
-        "z": "b10f3718da39ed6e",
-        "g": "7e2293898bfb0b25",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "1",
-        "topic": "",
-        "x": 170,
-        "y": 860,
-        "wires": [
-            [
-                "dbcef9661ccc3487"
-            ]
-        ]
-    },
-    {
-        "id": "dbcef9661ccc3487",
-        "type": "knxUltimate",
-        "z": "b10f3718da39ed6e",
-        "g": "7e2293898bfb0b25",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/13",
-        "outputtopic": "",
-        "dpt": "1.001",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "SPOTS CUISINE",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 350,
-        "y": 860,
-        "wires": [
-            [
-                "b7263b0718ce2dd1"
-            ]
-        ]
-    },
-    {
-        "id": "d5f41c4ff506c870",
-        "type": "inject",
-        "z": "b10f3718da39ed6e",
-        "g": "f9464a4841b523ad",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "1",
-        "topic": "",
-        "x": 170,
-        "y": 1380,
-        "wires": [
-            [
-                "a8ec35f54033ec2f"
-            ]
-        ]
-    },
-    {
-        "id": "a8ec35f54033ec2f",
-        "type": "knxUltimate",
-        "z": "b10f3718da39ed6e",
-        "g": "f9464a4841b523ad",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/9",
-        "outputtopic": "",
-        "dpt": "1.001",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "TABLE A MANGER SAM",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 370,
-        "y": 1380,
-        "wires": [
-            [
-                "339ec93a1bdeb89e"
-            ]
-        ]
-    },
-    {
-        "id": "34f308fb554e31df",
-        "type": "inject",
-        "z": "b10f3718da39ed6e",
-        "g": "1081cd76a9d7095b",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "1",
-        "topic": "",
-        "x": 170,
-        "y": 1620,
-        "wires": [
-            [
-                "99a9bf378b4f7867"
-            ]
-        ]
-    },
-    {
-        "id": "99a9bf378b4f7867",
-        "type": "knxUltimate",
-        "z": "b10f3718da39ed6e",
-        "g": "1081cd76a9d7095b",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/10",
-        "outputtopic": "",
-        "dpt": "1.006",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "APPLIQUES LIVING",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 360,
-        "y": 1620,
-        "wires": [
-            [
-                "37b0c6d63449b319"
-            ]
-        ]
-    },
-    {
-        "id": "c36b6e8eaec1f2b8",
-        "type": "inject",
-        "z": "b10f3718da39ed6e",
-        "g": "f92673c39ec63394",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "1",
-        "topic": "",
-        "x": 170,
-        "y": 2360,
-        "wires": [
-            [
-                "43266ca43ba4e258"
-            ]
-        ]
-    },
-    {
-        "id": "43266ca43ba4e258",
-        "type": "knxUltimate",
-        "z": "b10f3718da39ed6e",
-        "g": "f92673c39ec63394",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/1",
-        "outputtopic": "",
-        "dpt": "1.006",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "RESERVE",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 340,
-        "y": 2360,
-        "wires": [
-            [
-                "01265b72dde4e289"
-            ]
-        ]
-    },
-    {
-        "id": "0993fdef1cdea4ae",
-        "type": "inject",
-        "z": "b10f3718da39ed6e",
-        "g": "a32acf5f1ff293e2",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "1",
-        "topic": "",
-        "x": 170,
-        "y": 2600,
-        "wires": [
-            [
-                "e0e30482efe522ce"
-            ]
-        ]
-    },
-    {
-        "id": "e0e30482efe522ce",
-        "type": "knxUltimate",
-        "z": "b10f3718da39ed6e",
-        "g": "a32acf5f1ff293e2",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/2",
-        "outputtopic": "",
-        "dpt": "1.006",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "GARAGE",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 320,
-        "y": 2600,
-        "wires": [
-            [
-                "2451f9bf254157b1"
-            ]
-        ]
-    },
-    {
-        "id": "4320cc9e203f5285",
-        "type": "inject",
-        "z": "b10f3718da39ed6e",
-        "g": "3d773f387d258652",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "1",
-        "topic": "",
-        "x": 170,
-        "y": 2840,
-        "wires": [
-            [
-                "5a59be7b0b6891e4"
-            ]
-        ]
-    },
-    {
-        "id": "5a59be7b0b6891e4",
-        "type": "knxUltimate",
-        "z": "b10f3718da39ed6e",
-        "g": "3d773f387d258652",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/3",
-        "outputtopic": "",
-        "dpt": "1.006",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "ARRIERE CUISINE",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 350,
-        "y": 2840,
-        "wires": [
-            [
-                "a32942d1547bae09"
-            ]
-        ]
-    },
-    {
-        "id": "a9162e4218bb49c8",
-        "type": "inject",
-        "z": "b10f3718da39ed6e",
-        "g": "078c7d8a78ffee86",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "1",
-        "topic": "",
-        "x": 170,
-        "y": 3080,
-        "wires": [
-            [
-                "7224f3adcccd3c50"
-            ]
-        ]
-    },
-    {
-        "id": "7224f3adcccd3c50",
-        "type": "knxUltimate",
-        "z": "b10f3718da39ed6e",
-        "g": "078c7d8a78ffee86",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/4",
-        "outputtopic": "",
-        "dpt": "1.006",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "WC RDC",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 320,
-        "y": 3080,
-        "wires": [
-            [
-                "6fb57bdd0e0cb147"
-            ]
-        ]
-    },
-    {
-        "id": "3ae63d5e72773b8b",
-        "type": "inject",
-        "z": "b10f3718da39ed6e",
-        "g": "115f0270bcee9dbd",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "1",
-        "topic": "",
-        "x": 170,
-        "y": 3320,
-        "wires": [
-            [
-                "9e9a80d2c31cd2a4"
-            ]
-        ]
-    },
-    {
-        "id": "9e9a80d2c31cd2a4",
-        "type": "knxUltimate",
-        "z": "b10f3718da39ed6e",
-        "g": "115f0270bcee9dbd",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/5",
-        "outputtopic": "",
-        "dpt": "1.006",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "HALL ENTREE",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 340,
-        "y": 3320,
-        "wires": [
-            [
-                "76fd0cec0b6aa8fe"
-            ]
-        ]
-    },
-    {
-        "id": "9f844fdf09a7b26c",
-        "type": "inject",
-        "z": "b10f3718da39ed6e",
-        "g": "528bddc6be906d6d",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "1",
-        "topic": "",
-        "x": 170,
-        "y": 3560,
-        "wires": [
-            [
-                "0d60b1f664b97a2e"
-            ]
-        ]
-    },
-    {
-        "id": "0d60b1f664b97a2e",
-        "type": "knxUltimate",
-        "z": "b10f3718da39ed6e",
-        "g": "528bddc6be906d6d",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/6",
-        "outputtopic": "",
-        "dpt": "1.006",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "ESCALIER VERS +1 LED",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 370,
-        "y": 3560,
-        "wires": [
-            [
-                "3029b391923e9412"
-            ]
-        ]
-    },
-    {
-        "id": "39d1c8edd4a582a7",
-        "type": "inject",
-        "z": "b10f3718da39ed6e",
-        "g": "cd38302406322403",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "1",
-        "topic": "",
-        "x": 170,
-        "y": 3800,
-        "wires": [
-            [
-                "a8eef358ccfce8ea"
-            ]
-        ]
-    },
-    {
-        "id": "a8eef358ccfce8ea",
-        "type": "knxUltimate",
-        "z": "b10f3718da39ed6e",
-        "g": "cd38302406322403",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/7",
-        "outputtopic": "",
-        "dpt": "1.006",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "ESCALIER VERS +1 APPLIQUE",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 390,
-        "y": 3800,
-        "wires": [
-            [
-                "544c8f7e551a2680"
-            ]
-        ]
-    },
-    {
-        "id": "1e56307f3b2afc0e",
-        "type": "inject",
-        "z": "b10f3718da39ed6e",
-        "g": "6aa4a99b9dde15b3",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "1",
-        "topic": "",
-        "x": 170,
-        "y": 4040,
-        "wires": [
-            [
-                "c8f17692a7720a74"
-            ]
-        ]
-    },
-    {
-        "id": "c8f17692a7720a74",
-        "type": "knxUltimate",
-        "z": "b10f3718da39ed6e",
-        "g": "6aa4a99b9dde15b3",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/14",
-        "outputtopic": "",
-        "dpt": "1.006",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "EXT GARAGE",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 340,
-        "y": 4040,
-        "wires": [
-            [
-                "b9cfd55c0271a1e4"
-            ]
-        ]
-    },
-    {
-        "id": "5b58826e2b76bbd0",
-        "type": "inject",
-        "z": "b10f3718da39ed6e",
-        "g": "2ba4f8811c303e33",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "1",
-        "topic": "",
-        "x": 170,
-        "y": 4280,
-        "wires": [
-            [
-                "00f94bfad2da3cf0"
-            ]
-        ]
-    },
-    {
-        "id": "00f94bfad2da3cf0",
-        "type": "knxUltimate",
-        "z": "b10f3718da39ed6e",
-        "g": "2ba4f8811c303e33",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/15",
-        "outputtopic": "",
-        "dpt": "1.001",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "EXT MAISON",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 340,
-        "y": 4280,
-        "wires": [
-            [
-                "e83221d620b94db7"
-            ]
-        ]
-    },
-    {
-        "id": "63a6466bdfec1bbb",
-        "type": "inject",
-        "z": "b10f3718da39ed6e",
-        "g": "ba5aed57fceeb2b3",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "1",
-        "topic": "",
-        "x": 170,
-        "y": 4520,
-        "wires": [
-            [
-                "21946cd222e72d8f"
-            ]
-        ]
-    },
-    {
-        "id": "21946cd222e72d8f",
-        "type": "knxUltimate",
-        "z": "b10f3718da39ed6e",
-        "g": "ba5aed57fceeb2b3",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/16",
-        "outputtopic": "",
-        "dpt": "1.001",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "EXT TERRASSE",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 340,
-        "y": 4520,
-        "wires": [
-            [
-                "ee0ebe1ef4ec4ec4"
-            ]
-        ]
-    },
-    {
         "id": "1bdde9c0be0aba46",
         "type": "inject",
         "z": "b10f3718da39ed6e",
@@ -7445,7 +6682,7 @@
         "onceDelay": "1",
         "topic": "",
         "x": 170,
-        "y": 2000,
+        "y": 1820,
         "wires": [
             [
                 "74d56218974e2180"
@@ -7477,7 +6714,7 @@
         "passthrough": "no",
         "listenallga": false,
         "x": 320,
-        "y": 2000,
+        "y": 1820,
         "wires": [
             [
                 "6019983c8e45d99d"
@@ -7497,7 +6734,7 @@
         "finalize": "",
         "libs": [],
         "x": 480,
-        "y": 2000,
+        "y": 1820,
         "wires": [
             [
                 "28c096e56f5dbbde"
@@ -7673,7 +6910,7 @@
         "finalize": "",
         "libs": [],
         "x": 380,
-        "y": 2940,
+        "y": 2880,
         "wires": [
             []
         ]
@@ -7862,24 +7099,32 @@
         "g": "47a812b81dfad3cb",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/17",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "SDB PARENTS",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 140,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 120,
         "y": 140,
         "wires": [
             [
@@ -8063,24 +7308,32 @@
         "g": "71ada8800f2cd4f1",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/18",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.006",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "DRESSING",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 120,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 110,
         "y": 360,
         "wires": [
             [
@@ -8265,24 +7518,32 @@
         "g": "4f6f42b4aa1cce04",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/19",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "CH PARENTS PT CENTRAL",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 180,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 160,
         "y": 580,
         "wires": [
             [
@@ -8466,24 +7727,32 @@
         "g": "bacdeffca3e36b61",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/20",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "CH PARENTS LIT GAUCHE",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 170,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 160,
         "y": 800,
         "wires": [
             [
@@ -8667,24 +7936,32 @@
         "g": "a5dabf87e90bc714",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/21",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "CH PARENTS LIT DROITE",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 170,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 160,
         "y": 1020,
         "wires": [
             [
@@ -8868,24 +8145,32 @@
         "g": "c31a081291e4fe3d",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/22",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "CHAMBRE 2",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 130,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 110,
         "y": 1260,
         "wires": [
             [
@@ -9070,24 +8355,32 @@
         "g": "df8da244c8d58ffb",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/23",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "SALLE DE GYM",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 140,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 120,
         "y": 1500,
         "wires": [
             [
@@ -9271,24 +8564,32 @@
         "g": "b89159848dd686d0",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/24",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.006",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "WC ETAGE",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 120,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 110,
         "y": 1740,
         "wires": [
             [
@@ -9473,24 +8774,32 @@
         "g": "44f71e88a1c161ed",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/25",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.006",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "BUANDERIE",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 130,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 110,
         "y": 1960,
         "wires": [
             [
@@ -9674,24 +8983,32 @@
         "g": "0e5485cb52be7b1d",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/26",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.006",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "SDB ENFANT",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 130,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 120,
         "y": 2180,
         "wires": [
             [
@@ -9875,24 +9192,32 @@
         "g": "65485c8c76dc6672",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/27",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "CHAMBRE 1",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 130,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 110,
         "y": 2400,
         "wires": [
             [
@@ -10077,24 +9402,32 @@
         "g": "494736d005bfb177",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/28",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.006",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "COMBLES",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 120,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 110,
         "y": 2620,
         "wires": [
             [
@@ -10397,702 +9730,6 @@
         "wires": [
             [
                 "05472d80f11e0453"
-            ]
-        ]
-    },
-    {
-        "id": "37389cf3e63cc630",
-        "type": "inject",
-        "z": "5e3b463f46f8667d",
-        "g": "47a812b81dfad3cb",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "2",
-        "topic": "",
-        "x": 130,
-        "y": 200,
-        "wires": [
-            [
-                "6492c6b66157d456"
-            ]
-        ]
-    },
-    {
-        "id": "6492c6b66157d456",
-        "type": "knxUltimate",
-        "z": "5e3b463f46f8667d",
-        "g": "47a812b81dfad3cb",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/17",
-        "outputtopic": "",
-        "dpt": "1.001",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "SDB PARENTS",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 300,
-        "y": 200,
-        "wires": [
-            [
-                "67ac5abd17ee4125"
-            ]
-        ]
-    },
-    {
-        "id": "0e69a467f4827d36",
-        "type": "inject",
-        "z": "5e3b463f46f8667d",
-        "g": "71ada8800f2cd4f1",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "2",
-        "topic": "",
-        "x": 130,
-        "y": 420,
-        "wires": [
-            [
-                "f7696f39beb19b3f"
-            ]
-        ]
-    },
-    {
-        "id": "f7696f39beb19b3f",
-        "type": "knxUltimate",
-        "z": "5e3b463f46f8667d",
-        "g": "71ada8800f2cd4f1",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/18",
-        "outputtopic": "",
-        "dpt": "1.006",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "DRESSING",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 290,
-        "y": 420,
-        "wires": [
-            [
-                "0b46c6703ac46be5"
-            ]
-        ]
-    },
-    {
-        "id": "6fb12b41dc5d53fc",
-        "type": "inject",
-        "z": "5e3b463f46f8667d",
-        "g": "4f6f42b4aa1cce04",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "2",
-        "topic": "",
-        "x": 130,
-        "y": 640,
-        "wires": [
-            [
-                "42e6bcab435ddead"
-            ]
-        ]
-    },
-    {
-        "id": "42e6bcab435ddead",
-        "type": "knxUltimate",
-        "z": "5e3b463f46f8667d",
-        "g": "4f6f42b4aa1cce04",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/19",
-        "outputtopic": "",
-        "dpt": "1.001",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "CH PARENTS PT CENTRAL",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 340,
-        "y": 640,
-        "wires": [
-            [
-                "f05a7e33a6ad7832"
-            ]
-        ]
-    },
-    {
-        "id": "b1203aa080a79ad5",
-        "type": "inject",
-        "z": "5e3b463f46f8667d",
-        "g": "bacdeffca3e36b61",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "2",
-        "topic": "",
-        "x": 130,
-        "y": 860,
-        "wires": [
-            [
-                "5c39b07afab60dd9"
-            ]
-        ]
-    },
-    {
-        "id": "5c39b07afab60dd9",
-        "type": "knxUltimate",
-        "z": "5e3b463f46f8667d",
-        "g": "bacdeffca3e36b61",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/20",
-        "outputtopic": "",
-        "dpt": "1.001",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "CH PARENTS LIT GAUCHE",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 340,
-        "y": 860,
-        "wires": [
-            [
-                "b046c76444411c3c"
-            ]
-        ]
-    },
-    {
-        "id": "3ea88c234e13b15e",
-        "type": "inject",
-        "z": "5e3b463f46f8667d",
-        "g": "a5dabf87e90bc714",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "2",
-        "topic": "",
-        "x": 130,
-        "y": 1080,
-        "wires": [
-            [
-                "7cfe279d7ccbfe65"
-            ]
-        ]
-    },
-    {
-        "id": "7cfe279d7ccbfe65",
-        "type": "knxUltimate",
-        "z": "5e3b463f46f8667d",
-        "g": "a5dabf87e90bc714",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/21",
-        "outputtopic": "",
-        "dpt": "1.001",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "CH PARENTS LIT DROITE",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 340,
-        "y": 1080,
-        "wires": [
-            [
-                "bb2ae70ffa70e659"
-            ]
-        ]
-    },
-    {
-        "id": "b177f0838fdd54fd",
-        "type": "inject",
-        "z": "5e3b463f46f8667d",
-        "g": "c31a081291e4fe3d",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "2",
-        "topic": "",
-        "x": 130,
-        "y": 1320,
-        "wires": [
-            [
-                "239159444d75bb0e"
-            ]
-        ]
-    },
-    {
-        "id": "239159444d75bb0e",
-        "type": "knxUltimate",
-        "z": "5e3b463f46f8667d",
-        "g": "c31a081291e4fe3d",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/22",
-        "outputtopic": "",
-        "dpt": "1.001",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "CHAMBRE 2",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 290,
-        "y": 1320,
-        "wires": [
-            [
-                "e66cf083653a94b2"
-            ]
-        ]
-    },
-    {
-        "id": "453fd5a1e0e3ac3d",
-        "type": "inject",
-        "z": "5e3b463f46f8667d",
-        "g": "df8da244c8d58ffb",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "2",
-        "topic": "",
-        "x": 130,
-        "y": 1560,
-        "wires": [
-            [
-                "13744b5e97145df7"
-            ]
-        ]
-    },
-    {
-        "id": "13744b5e97145df7",
-        "type": "knxUltimate",
-        "z": "5e3b463f46f8667d",
-        "g": "df8da244c8d58ffb",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/23",
-        "outputtopic": "",
-        "dpt": "1.001",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "SALLE DE GYM",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 300,
-        "y": 1560,
-        "wires": [
-            [
-                "fd033a9231d6a6e6"
-            ]
-        ]
-    },
-    {
-        "id": "10c6624e4c93d7a5",
-        "type": "inject",
-        "z": "5e3b463f46f8667d",
-        "g": "b89159848dd686d0",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "2",
-        "topic": "",
-        "x": 130,
-        "y": 1800,
-        "wires": [
-            [
-                "c8580bcb377be0cf"
-            ]
-        ]
-    },
-    {
-        "id": "c8580bcb377be0cf",
-        "type": "knxUltimate",
-        "z": "5e3b463f46f8667d",
-        "g": "b89159848dd686d0",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/24",
-        "outputtopic": "",
-        "dpt": "1.006",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "WC ETAGE",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 290,
-        "y": 1800,
-        "wires": [
-            [
-                "34bca2640fbae3b4"
-            ]
-        ]
-    },
-    {
-        "id": "d06d0acd0961b99c",
-        "type": "inject",
-        "z": "5e3b463f46f8667d",
-        "g": "44f71e88a1c161ed",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "2",
-        "topic": "",
-        "x": 130,
-        "y": 2020,
-        "wires": [
-            [
-                "da4996f4e08062da"
-            ]
-        ]
-    },
-    {
-        "id": "da4996f4e08062da",
-        "type": "knxUltimate",
-        "z": "5e3b463f46f8667d",
-        "g": "44f71e88a1c161ed",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/25",
-        "outputtopic": "",
-        "dpt": "1.006",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "BUANDERIE",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 290,
-        "y": 2020,
-        "wires": [
-            [
-                "0a64ed36aa4f11cf"
-            ]
-        ]
-    },
-    {
-        "id": "73cf531beb4f4f91",
-        "type": "inject",
-        "z": "5e3b463f46f8667d",
-        "g": "0e5485cb52be7b1d",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "2",
-        "topic": "",
-        "x": 130,
-        "y": 2240,
-        "wires": [
-            [
-                "8f5254ecf3156df2"
-            ]
-        ]
-    },
-    {
-        "id": "8f5254ecf3156df2",
-        "type": "knxUltimate",
-        "z": "5e3b463f46f8667d",
-        "g": "0e5485cb52be7b1d",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/26",
-        "outputtopic": "",
-        "dpt": "1.006",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "SDB ENFANT",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 300,
-        "y": 2240,
-        "wires": [
-            [
-                "6a2b1b3889f97b8e"
-            ]
-        ]
-    },
-    {
-        "id": "95c8e09f0200edf0",
-        "type": "inject",
-        "z": "5e3b463f46f8667d",
-        "g": "65485c8c76dc6672",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "2",
-        "topic": "",
-        "x": 130,
-        "y": 2460,
-        "wires": [
-            [
-                "13dec92570634aa1"
-            ]
-        ]
-    },
-    {
-        "id": "13dec92570634aa1",
-        "type": "knxUltimate",
-        "z": "5e3b463f46f8667d",
-        "g": "65485c8c76dc6672",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/27",
-        "outputtopic": "",
-        "dpt": "1.001",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "CHAMBRE 1",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 290,
-        "y": 2460,
-        "wires": [
-            [
-                "28bb67a686aed5e9"
-            ]
-        ]
-    },
-    {
-        "id": "9fa770df39c15f67",
-        "type": "inject",
-        "z": "5e3b463f46f8667d",
-        "g": "494736d005bfb177",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "2",
-        "topic": "",
-        "x": 130,
-        "y": 2680,
-        "wires": [
-            [
-                "c7697f522058e23d"
-            ]
-        ]
-    },
-    {
-        "id": "c7697f522058e23d",
-        "type": "knxUltimate",
-        "z": "5e3b463f46f8667d",
-        "g": "494736d005bfb177",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/28",
-        "outputtopic": "",
-        "dpt": "1.006",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "COMBLES",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 290,
-        "y": 2680,
-        "wires": [
-            [
-                "a5c8e88bc8ef6b28"
             ]
         ]
     },
@@ -15613,24 +14250,32 @@
         "g": "c317f3a2b5a54ca4",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/30",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.006",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "PRISE SDB",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 140,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 130,
         "y": 140,
         "wires": [
             [
@@ -15761,24 +14406,32 @@
         "g": "b7e1659eb76513ba",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/29",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.006",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "PRISE SDD",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 140,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 130,
         "y": 380,
         "wires": [
             [
@@ -15985,24 +14638,32 @@
         "g": "b9edbaade8008deb",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/34",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.006",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "PRISE SALON TV",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 160,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 150,
         "y": 620,
         "wires": [
             [
@@ -16156,24 +14817,32 @@
         "g": "21c6fb0324cf8c8b",
         "server": "aec720b075cfc2b3",
         "topic": "0/1/33",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "PRISE SALON",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 150,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 140,
         "y": 860,
         "wires": [
             [
@@ -16278,238 +14947,6 @@
                 "9e519ec6889ebd50"
             ],
             []
-        ]
-    },
-    {
-        "id": "94af1f128a8ebf49",
-        "type": "inject",
-        "z": "cc9aa38ec185bfa5",
-        "g": "c317f3a2b5a54ca4",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "3",
-        "topic": "",
-        "x": 150,
-        "y": 200,
-        "wires": [
-            [
-                "2757ae7ed44be57e"
-            ]
-        ]
-    },
-    {
-        "id": "2757ae7ed44be57e",
-        "type": "knxUltimate",
-        "z": "cc9aa38ec185bfa5",
-        "g": "c317f3a2b5a54ca4",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/30",
-        "outputtopic": "",
-        "dpt": "1.006",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "PRISE SDB",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 310,
-        "y": 200,
-        "wires": [
-            [
-                "f866b8e95d222e2b"
-            ]
-        ]
-    },
-    {
-        "id": "ec90e9feaae21190",
-        "type": "inject",
-        "z": "cc9aa38ec185bfa5",
-        "g": "b9edbaade8008deb",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "3",
-        "topic": "",
-        "x": 150,
-        "y": 680,
-        "wires": [
-            [
-                "6b4f3d147ad1032a"
-            ]
-        ]
-    },
-    {
-        "id": "6b4f3d147ad1032a",
-        "type": "knxUltimate",
-        "z": "cc9aa38ec185bfa5",
-        "g": "b9edbaade8008deb",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/34",
-        "outputtopic": "",
-        "dpt": "1.006",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "PRISE SALON TV",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 330,
-        "y": 680,
-        "wires": [
-            [
-                "e7c6b722dfb49416"
-            ]
-        ]
-    },
-    {
-        "id": "4f486ed99e246c07",
-        "type": "inject",
-        "z": "cc9aa38ec185bfa5",
-        "g": "b7e1659eb76513ba",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "3",
-        "topic": "",
-        "x": 150,
-        "y": 440,
-        "wires": [
-            [
-                "fe48d2e129fe0c23"
-            ]
-        ]
-    },
-    {
-        "id": "fe48d2e129fe0c23",
-        "type": "knxUltimate",
-        "z": "cc9aa38ec185bfa5",
-        "g": "b7e1659eb76513ba",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/29",
-        "outputtopic": "",
-        "dpt": "1.006",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "PRISE SDD",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 330,
-        "y": 440,
-        "wires": [
-            [
-                "bf6d6bd2cf620a2e"
-            ]
-        ]
-    },
-    {
-        "id": "0a0db5ebfd3f2962",
-        "type": "inject",
-        "z": "cc9aa38ec185bfa5",
-        "g": "21c6fb0324cf8c8b",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "3",
-        "topic": "",
-        "x": 150,
-        "y": 920,
-        "wires": [
-            [
-                "c87690d767ab40fc"
-            ]
-        ]
-    },
-    {
-        "id": "c87690d767ab40fc",
-        "type": "knxUltimate",
-        "z": "cc9aa38ec185bfa5",
-        "g": "21c6fb0324cf8c8b",
-        "server": "aec720b075cfc2b3",
-        "topic": "0/1/33",
-        "outputtopic": "",
-        "dpt": "1.001",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "PRISE SALON",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 320,
-        "y": 920,
-        "wires": [
-            [
-                "a6988d8279c3530d"
-            ]
         ]
     },
     {
@@ -16630,6 +15067,7 @@
         "g": "ccfdc26584dbdffc",
         "server": "aec720b075cfc2b3",
         "topic": "3/3/3",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "5.001",
         "initialread": 0,
@@ -16640,13 +15078,17 @@
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "SALLE DE GYM",
         "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputRBE": "true",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
         "listenallga": false,
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
         "x": 140,
         "y": 120,
         "wires": [
@@ -16688,6 +15130,7 @@
         "g": "ccfdc26584dbdffc",
         "server": "aec720b075cfc2b3",
         "topic": "3/3/3",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "5.001",
         "initialread": 0,
@@ -16698,13 +15141,17 @@
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "SALLE DE GYM",
         "outputtype": "read",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputRBE": "true",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
         "listenallga": false,
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
         "x": 380,
         "y": 500,
         "wires": [
@@ -18963,29 +17410,37 @@
         "g": "86657a35e61b0b78",
         "server": "aec720b075cfc2b3",
         "topic": "5/1/2",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "9.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "Bureau",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 110,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 120,
         "y": 120,
         "wires": [
             [
-                "93ae04089c612535",
-                "d6c192096a627e4a"
+                "d6c192096a627e4a",
+                "93ae04089c612535"
             ]
         ]
     },
@@ -18996,6 +17451,7 @@
         "g": "86657a35e61b0b78",
         "server": "aec720b075cfc2b3",
         "topic": "5/2/2",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "9.001",
         "initialread": 0,
@@ -19006,14 +17462,18 @@
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "Bureau",
         "outputtype": "write",
-        "outputRBE": false,
-        "inputRBE": false,
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
         "listenallga": false,
-        "x": 1100,
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 1140,
         "y": 120,
         "wires": [
             []
@@ -19026,24 +17486,32 @@
         "g": "86657a35e61b0b78",
         "server": "aec720b075cfc2b3",
         "topic": "5/3/2",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "9.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "Bureau",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 110,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 120,
         "y": 240,
         "wires": [
             [
@@ -19092,10 +17560,12 @@
         "cameraConfigDebug": false,
         "cameraConfigSnapshotOutput": "disabled",
         "cameraConfigInterfaceName": "",
-        "characteristicProperties": "{\"CurrentTemperature\":{\"minValue\":10,\"maxValue\":30,\"minStep\":0.1},\"TargetTemperature\":{\"minValue\":10,\"maxValue\":30,\"minStep\":0.1},\"TargetHeatingCoolingState\":{\"validValues\":[0,1]}}",
+        "characteristicProperties": "{\"TargetTemperature\":{\"minValue\":10,\"maxValue\":30,\"minStep\":0.5},\"TargetHeatingCoolingState\":{\"validValues\":[0,1]},\"CurrentHeatingCoolingState\":{\"validValues\":[0,1]}}",
         "waitForSetupMsg": false,
         "outputs": 2,
-        "x": 690,
+        "adaptiveLightingOptionsEnable": false,
+        "adaptiveLightingOptionsCustomTemperatureAdjustment": "",
+        "x": 730,
         "y": 120,
         "wires": [
             [
@@ -19124,7 +17594,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 370,
+        "x": 430,
         "y": 120,
         "wires": [
             [
@@ -19152,7 +17622,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 360,
+        "x": 400,
         "y": 240,
         "wires": [
             [
@@ -19167,7 +17637,7 @@
         "g": "86657a35e61b0b78",
         "name": "Bureau",
         "info": "",
-        "x": 90,
+        "x": 130,
         "y": 60,
         "wires": []
     },
@@ -19178,24 +17648,32 @@
         "g": "716e6f7c48fc7089",
         "server": "aec720b075cfc2b3",
         "topic": "5/1/0",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "9.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "Living",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 110,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 90,
         "y": 420,
         "wires": [
             [
@@ -19211,6 +17689,7 @@
         "g": "716e6f7c48fc7089",
         "server": "aec720b075cfc2b3",
         "topic": "5/2/0",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "9.001",
         "initialread": 0,
@@ -19221,14 +17700,18 @@
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "Living",
         "outputtype": "write",
-        "outputRBE": false,
-        "inputRBE": false,
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
         "listenallga": false,
-        "x": 1090,
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 1050,
         "y": 420,
         "wires": [
             []
@@ -19241,24 +17724,32 @@
         "g": "716e6f7c48fc7089",
         "server": "aec720b075cfc2b3",
         "topic": "5/3/0",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "9.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "Living",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 110,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 90,
         "y": 540,
         "wires": [
             [
@@ -19307,9 +17798,11 @@
         "cameraConfigDebug": false,
         "cameraConfigSnapshotOutput": "disabled",
         "cameraConfigInterfaceName": "",
-        "characteristicProperties": "{\"CurrentTemperature\":{\"minValue\":10,\"maxValue\":30},\"TargetTemperature\":{\"minValue\":10,\"maxValue\":30},\"TargetHeatingCoolingState\":{\"validValues\":[0,1]}}",
+        "characteristicProperties": "{\"TargetTemperature\":{\"minValue\":10,\"maxValue\":30,\"minStep\":0.5},\"TargetHeatingCoolingState\":{\"validValues\":[0,1]},\"CurrentHeatingCoolingState\":{\"validValues\":[0,1]}}",
         "waitForSetupMsg": false,
         "outputs": 2,
+        "adaptiveLightingOptionsEnable": false,
+        "adaptiveLightingOptionsCustomTemperatureAdjustment": "",
         "x": 690,
         "y": 420,
         "wires": [
@@ -19418,7 +17911,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 910,
+        "x": 950,
         "y": 120,
         "wires": [
             [
@@ -19433,24 +17926,32 @@
         "g": "fe781612eef596cc",
         "server": "aec720b075cfc2b3",
         "topic": "5/1/1",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "9.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "Salon TV",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 120,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 100,
         "y": 720,
         "wires": [
             [
@@ -19483,7 +17984,7 @@
         "formatdecimalsvalue": 999,
         "passthrough": "no",
         "listenallga": false,
-        "x": 1100,
+        "x": 1040,
         "y": 720,
         "wires": [
             []
@@ -19496,24 +17997,32 @@
         "g": "fe781612eef596cc",
         "server": "aec720b075cfc2b3",
         "topic": "5/3/1",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "9.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "Salon TV",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 120,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 100,
         "y": 840,
         "wires": [
             [
@@ -19562,9 +18071,11 @@
         "cameraConfigDebug": false,
         "cameraConfigSnapshotOutput": "disabled",
         "cameraConfigInterfaceName": "",
-        "characteristicProperties": "{\"CurrentTemperature\":{\"minValue\":10,\"maxValue\":30,\"minStep\":0.1},\"TargetTemperature\":{\"minValue\":10,\"maxValue\":30,\"minStep\":0.1},\"TargetHeatingCoolingState\":{\"validValues\":[0,1]}}",
+        "characteristicProperties": "{\"TargetTemperature\":{\"minValue\":10,\"maxValue\":30,\"minStep\":0.5},\"TargetHeatingCoolingState\":{\"validValues\":[0,1]},\"CurrentHeatingCoolingState\":{\"validValues\":[0,1]}}",
         "waitForSetupMsg": false,
         "outputs": 2,
+        "adaptiveLightingOptionsEnable": false,
+        "adaptiveLightingOptionsCustomTemperatureAdjustment": "",
         "x": 700,
         "y": 720,
         "wires": [
@@ -19653,7 +18164,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 910,
+        "x": 890,
         "y": 720,
         "wires": [
             [
@@ -19668,24 +18179,32 @@
         "g": "3c6f4baf6a32061c",
         "server": "aec720b075cfc2b3",
         "topic": "5/1/3",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "9.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "Chambre 1[3 reelle]",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 150,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 130,
         "y": 1080,
         "wires": [
             [
@@ -19731,24 +18250,32 @@
         "g": "3c6f4baf6a32061c",
         "server": "aec720b075cfc2b3",
         "topic": "5/3/3",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "9.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "Chambre 1[3 reelle]",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 150,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 130,
         "y": 1140,
         "wires": [
             [
@@ -19797,9 +18324,11 @@
         "cameraConfigDebug": false,
         "cameraConfigSnapshotOutput": "disabled",
         "cameraConfigInterfaceName": "",
-        "characteristicProperties": "{\"CurrentTemperature\":{\"minValue\":10,\"maxValue\":30,\"minStep\":0.1},\"TargetTemperature\":{\"minValue\":10,\"maxValue\":30,\"minStep\":0.1},\"TargetHeatingCoolingState\":{\"validValues\":[0,1]}}",
+        "characteristicProperties": "{\"TargetTemperature\":{\"minValue\":10,\"maxValue\":30,\"minStep\":0.5},\"TargetHeatingCoolingState\":{\"validValues\":[0,1]},\"CurrentHeatingCoolingState\":{\"validValues\":[0,1]}}",
         "waitForSetupMsg": false,
         "outputs": 2,
+        "adaptiveLightingOptionsEnable": false,
+        "adaptiveLightingOptionsCustomTemperatureAdjustment": "",
         "x": 720,
         "y": 1020,
         "wires": [
@@ -19884,11 +18413,12 @@
         "name": "Hkt to KNX",
         "func": "if (msg.payload.TargetTemperature != undefined) {\n    return { payload: msg.payload.TargetTemperature };\n}",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 910,
+        "x": 930,
         "y": 1020,
         "wires": [
             [
@@ -19903,24 +18433,32 @@
         "g": "0e244d4582ceede7",
         "server": "aec720b075cfc2b3",
         "topic": "5/1/4",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "9.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "Chambre 2",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 120,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 110,
         "y": 1320,
         "wires": [
             [
@@ -19966,24 +18504,32 @@
         "g": "0e244d4582ceede7",
         "server": "aec720b075cfc2b3",
         "topic": "5/3/4",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "9.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "Chambre 2",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 120,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 110,
         "y": 1440,
         "wires": [
             [
@@ -20032,9 +18578,11 @@
         "cameraConfigDebug": false,
         "cameraConfigSnapshotOutput": "disabled",
         "cameraConfigInterfaceName": "",
-        "characteristicProperties": "{\"CurrentTemperature\":{\"minValue\":10,\"maxValue\":30,\"minStep\":0.1},\"TargetTemperature\":{\"minValue\":10,\"maxValue\":30,\"minStep\":0.1},\"TargetHeatingCoolingState\":{\"validValues\":[0,1]}}",
+        "characteristicProperties": "{\"TargetTemperature\":{\"minValue\":10,\"maxValue\":30,\"minStep\":0.5},\"TargetHeatingCoolingState\":{\"validValues\":[0,1]},\"CurrentHeatingCoolingState\":{\"validValues\":[0,1]}}",
         "waitForSetupMsg": false,
         "outputs": 2,
+        "adaptiveLightingOptionsEnable": false,
+        "adaptiveLightingOptionsCustomTemperatureAdjustment": "",
         "x": 710,
         "y": 1320,
         "wires": [
@@ -20138,24 +18686,32 @@
         "g": "08fed47a650d2c33",
         "server": "aec720b075cfc2b3",
         "topic": "5/1/5",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "9.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "Chambre 3 parent",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 150,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 130,
         "y": 1680,
         "wires": [
             [
@@ -20201,24 +18757,32 @@
         "g": "08fed47a650d2c33",
         "server": "aec720b075cfc2b3",
         "topic": "5/3/5",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "9.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "Chambre 3 parent",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 150,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 130,
         "y": 1740,
         "wires": [
             [
@@ -20267,9 +18831,11 @@
         "cameraConfigDebug": false,
         "cameraConfigSnapshotOutput": "disabled",
         "cameraConfigInterfaceName": "",
-        "characteristicProperties": "{\"CurrentTemperature\":{\"minValue\":10,\"maxValue\":30,\"minStep\":0.1},\"TargetTemperature\":{\"minValue\":10,\"maxValue\":30,\"minStep\":0.1},\"TargetHeatingCoolingState\":{\"validValues\":[0,1]}}",
+        "characteristicProperties": "{\"TargetTemperature\":{\"minValue\":10,\"maxValue\":30,\"minStep\":0.5},\"TargetHeatingCoolingState\":{\"validValues\":[0,1]},\"CurrentHeatingCoolingState\":{\"validValues\":[0,1]}}",
         "waitForSetupMsg": false,
         "outputs": 2,
+        "adaptiveLightingOptionsEnable": false,
+        "adaptiveLightingOptionsCustomTemperatureAdjustment": "",
         "x": 720,
         "y": 1620,
         "wires": [
@@ -20373,24 +18939,32 @@
         "g": "9de575f9926a6efd",
         "server": "aec720b075cfc2b3",
         "topic": "5/1/6",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "9.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "SdB Parents",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 130,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 110,
         "y": 1980,
         "wires": [
             [
@@ -20436,24 +19010,32 @@
         "g": "9de575f9926a6efd",
         "server": "aec720b075cfc2b3",
         "topic": "5/3/6",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "9.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "SdB Parents",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 130,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 110,
         "y": 2040,
         "wires": [
             [
@@ -20502,9 +19084,11 @@
         "cameraConfigDebug": false,
         "cameraConfigSnapshotOutput": "disabled",
         "cameraConfigInterfaceName": "",
-        "characteristicProperties": "{\"CurrentTemperature\":{\"minValue\":10,\"maxValue\":30,\"minStep\":0.1},\"TargetTemperature\":{\"minValue\":10,\"maxValue\":30,\"minStep\":0.1},\"TargetHeatingCoolingState\":{\"validValues\":[0,1]}}",
+        "characteristicProperties": "{\"TargetTemperature\":{\"minValue\":10,\"maxValue\":30,\"minStep\":0.5},\"TargetHeatingCoolingState\":{\"validValues\":[0,1]},\"CurrentHeatingCoolingState\":{\"validValues\":[0,1]}}",
         "waitForSetupMsg": false,
         "outputs": 2,
+        "adaptiveLightingOptionsEnable": false,
+        "adaptiveLightingOptionsCustomTemperatureAdjustment": "",
         "x": 710,
         "y": 1920,
         "wires": [
@@ -20608,24 +19192,32 @@
         "g": "f6e3a5d7f99e22fd",
         "server": "aec720b075cfc2b3",
         "topic": "5/1/8",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "9.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "Salle de Gym",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 130,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 120,
         "y": 2280,
         "wires": [
             [
@@ -20671,24 +19263,32 @@
         "g": "f6e3a5d7f99e22fd",
         "server": "aec720b075cfc2b3",
         "topic": "5/3/8",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "9.001",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "Salle de Gym",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 130,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 120,
         "y": 2340,
         "wires": [
             [
@@ -20737,9 +19337,11 @@
         "cameraConfigDebug": false,
         "cameraConfigSnapshotOutput": "disabled",
         "cameraConfigInterfaceName": "",
-        "characteristicProperties": "{\"CurrentTemperature\":{\"minValue\":10,\"maxValue\":30,\"minStep\":0.1},\"TargetTemperature\":{\"minValue\":10,\"maxValue\":30,\"minStep\":0.1},\"TargetHeatingCoolingState\":{\"validValues\":[0,1]}}",
+        "characteristicProperties": "{\"TargetTemperature\":{\"minValue\":10,\"maxValue\":30,\"minStep\":0.5},\"TargetHeatingCoolingState\":{\"validValues\":[0,1]},\"CurrentHeatingCoolingState\":{\"validValues\":[0,1]}}",
         "waitForSetupMsg": false,
         "outputs": 2,
+        "adaptiveLightingOptionsEnable": false,
+        "adaptiveLightingOptionsCustomTemperatureAdjustment": "",
         "x": 710,
         "y": 2220,
         "wires": [
@@ -20854,39 +19456,7 @@
         "once": true,
         "onceDelay": "5",
         "topic": "",
-        "x": 270,
-        "y": 60,
-        "wires": [
-            [
-                "dd2f9be7ef8b0c2f"
-            ]
-        ]
-    },
-    {
-        "id": "dd2f9be7ef8b0c2f",
-        "type": "knxUltimate",
-        "z": "54acd5f6d6fa0efe",
-        "g": "86657a35e61b0b78",
-        "server": "aec720b075cfc2b3",
-        "topic": "5/3/2",
-        "outputtopic": "",
-        "dpt": "9.001",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "Bureau",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 420,
+        "x": 310,
         "y": 60,
         "wires": [
             [
@@ -20900,13 +19470,14 @@
         "z": "54acd5f6d6fa0efe",
         "g": "86657a35e61b0b78",
         "name": "Set default",
-        "func": "return { payload: { \"TargetTemperature\": msg.payload, \"TargetHeatingCoolingState\": 1, \"CurrentHeatingCoolingState\": 1 } }",
+        "func": "return { payload: { \"TargetHeatingCoolingState\": 1, \"CurrentHeatingCoolingState\": 1 } }",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 570,
+        "x": 510,
         "y": 60,
         "wires": [
             [
@@ -20936,38 +19507,6 @@
         "y": 360,
         "wires": [
             [
-                "6a1628a61861e9d8"
-            ]
-        ]
-    },
-    {
-        "id": "6a1628a61861e9d8",
-        "type": "knxUltimate",
-        "z": "54acd5f6d6fa0efe",
-        "g": "716e6f7c48fc7089",
-        "server": "aec720b075cfc2b3",
-        "topic": "5/3/0",
-        "outputtopic": "",
-        "dpt": "9.001",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "Living",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 410,
-        "y": 360,
-        "wires": [
-            [
                 "2023bbd45b85efaf"
             ]
         ]
@@ -20978,13 +19517,14 @@
         "z": "54acd5f6d6fa0efe",
         "g": "716e6f7c48fc7089",
         "name": "Set default",
-        "func": "return { payload: { \"TargetTemperature\": msg.payload, \"TargetHeatingCoolingState\": 1, \"CurrentHeatingCoolingState\": 1 } }",
+        "func": "return { payload: { \"TargetHeatingCoolingState\": 1, \"CurrentHeatingCoolingState\": 1 } }",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 570,
+        "x": 470,
         "y": 360,
         "wires": [
             [
@@ -21014,38 +19554,6 @@
         "y": 660,
         "wires": [
             [
-                "b11af67a0d159dca"
-            ]
-        ]
-    },
-    {
-        "id": "b11af67a0d159dca",
-        "type": "knxUltimate",
-        "z": "54acd5f6d6fa0efe",
-        "g": "fe781612eef596cc",
-        "server": "aec720b075cfc2b3",
-        "topic": "5/3/1",
-        "outputtopic": "",
-        "dpt": "9.001",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "Salon TV",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 440,
-        "y": 660,
-        "wires": [
-            [
                 "54f0faa8e9fde141"
             ]
         ]
@@ -21056,13 +19564,14 @@
         "z": "54acd5f6d6fa0efe",
         "g": "fe781612eef596cc",
         "name": "Set default",
-        "func": "return { payload: { \"TargetTemperature\": msg.payload, \"TargetHeatingCoolingState\": 1, \"CurrentHeatingCoolingState\": 1 } }",
+        "func": "return { payload: { \"TargetHeatingCoolingState\": 1, \"CurrentHeatingCoolingState\": 1 } }",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 590,
+        "x": 490,
         "y": 660,
         "wires": [
             [
@@ -21092,38 +19601,6 @@
         "y": 960,
         "wires": [
             [
-                "85c8e99cbec760c5"
-            ]
-        ]
-    },
-    {
-        "id": "85c8e99cbec760c5",
-        "type": "knxUltimate",
-        "z": "54acd5f6d6fa0efe",
-        "g": "3c6f4baf6a32061c",
-        "server": "aec720b075cfc2b3",
-        "topic": "5/3/3",
-        "outputtopic": "",
-        "dpt": "9.001",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "Chambre 1[3 reelle]",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 490,
-        "y": 960,
-        "wires": [
-            [
                 "cf9af437505c536e"
             ]
         ]
@@ -21134,13 +19611,14 @@
         "z": "54acd5f6d6fa0efe",
         "g": "3c6f4baf6a32061c",
         "name": "Set default",
-        "func": "return { payload: { \"TargetTemperature\": msg.payload, \"TargetHeatingCoolingState\": 1, \"CurrentHeatingCoolingState\": 1 } }",
+        "func": "return { payload: { \"TargetHeatingCoolingState\": 1, \"CurrentHeatingCoolingState\": 1 } }",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 670,
+        "x": 490,
         "y": 960,
         "wires": [
             [
@@ -21170,38 +19648,6 @@
         "y": 1260,
         "wires": [
             [
-                "ff2acc35ed9bd36c"
-            ]
-        ]
-    },
-    {
-        "id": "ff2acc35ed9bd36c",
-        "type": "knxUltimate",
-        "z": "54acd5f6d6fa0efe",
-        "g": "0e244d4582ceede7",
-        "server": "aec720b075cfc2b3",
-        "topic": "5/3/4",
-        "outputtopic": "",
-        "dpt": "9.001",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "Chambre 2",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 450,
-        "y": 1260,
-        "wires": [
-            [
                 "33489ba8bc7ee4cd"
             ]
         ]
@@ -21212,13 +19658,14 @@
         "z": "54acd5f6d6fa0efe",
         "g": "0e244d4582ceede7",
         "name": "Set default",
-        "func": "return { payload: { \"TargetTemperature\": msg.payload, \"TargetHeatingCoolingState\": 1, \"CurrentHeatingCoolingState\": 1 } }",
+        "func": "return { payload: { \"TargetHeatingCoolingState\": 1, \"CurrentHeatingCoolingState\": 1 } }",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 610,
+        "x": 550,
         "y": 1260,
         "wires": [
             [
@@ -21248,38 +19695,6 @@
         "y": 1560,
         "wires": [
             [
-                "d0128576f192c3bb"
-            ]
-        ]
-    },
-    {
-        "id": "d0128576f192c3bb",
-        "type": "knxUltimate",
-        "z": "54acd5f6d6fa0efe",
-        "g": "08fed47a650d2c33",
-        "server": "aec720b075cfc2b3",
-        "topic": "5/3/5",
-        "outputtopic": "",
-        "dpt": "9.001",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "Chambre 3 parent",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 490,
-        "y": 1560,
-        "wires": [
-            [
                 "04130699804f4797"
             ]
         ]
@@ -21290,13 +19705,14 @@
         "z": "54acd5f6d6fa0efe",
         "g": "08fed47a650d2c33",
         "name": "Set default",
-        "func": "return { payload: { \"TargetTemperature\": msg.payload, \"TargetHeatingCoolingState\": 1, \"CurrentHeatingCoolingState\": 1 } }",
+        "func": "return { payload: { \"TargetHeatingCoolingState\": 1, \"CurrentHeatingCoolingState\": 1 } }",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 670,
+        "x": 510,
         "y": 1560,
         "wires": [
             [
@@ -21326,38 +19742,6 @@
         "y": 1860,
         "wires": [
             [
-                "715328890b34e82f"
-            ]
-        ]
-    },
-    {
-        "id": "715328890b34e82f",
-        "type": "knxUltimate",
-        "z": "54acd5f6d6fa0efe",
-        "g": "9de575f9926a6efd",
-        "server": "aec720b075cfc2b3",
-        "topic": "5/3/6",
-        "outputtopic": "",
-        "dpt": "9.001",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "SdB Parents",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 450,
-        "y": 1860,
-        "wires": [
-            [
                 "1114895a212bbfe3"
             ]
         ]
@@ -21368,13 +19752,14 @@
         "z": "54acd5f6d6fa0efe",
         "g": "9de575f9926a6efd",
         "name": "Set default",
-        "func": "return { payload: { \"TargetTemperature\": msg.payload, \"TargetHeatingCoolingState\": 1, \"CurrentHeatingCoolingState\": 1 } }",
+        "func": "return { payload: { \"TargetHeatingCoolingState\": 1, \"CurrentHeatingCoolingState\": 1 } }",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 610,
+        "x": 510,
         "y": 1860,
         "wires": [
             [
@@ -21404,38 +19789,6 @@
         "y": 2160,
         "wires": [
             [
-                "10a69c1925e5b431"
-            ]
-        ]
-    },
-    {
-        "id": "10a69c1925e5b431",
-        "type": "knxUltimate",
-        "z": "54acd5f6d6fa0efe",
-        "g": "f6e3a5d7f99e22fd",
-        "server": "aec720b075cfc2b3",
-        "topic": "5/3/8",
-        "outputtopic": "",
-        "dpt": "9.001",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "Salle de Gym",
-        "outputtype": "read",
-        "outputRBE": false,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 460,
-        "y": 2160,
-        "wires": [
-            [
                 "728dc1b315b5aec8"
             ]
         ]
@@ -21446,13 +19799,14 @@
         "z": "54acd5f6d6fa0efe",
         "g": "f6e3a5d7f99e22fd",
         "name": "Set default",
-        "func": "return { payload: { \"TargetTemperature\": msg.payload, \"TargetHeatingCoolingState\": 1, \"CurrentHeatingCoolingState\": 1 } }",
+        "func": "return { payload: { \"TargetHeatingCoolingState\": 1, \"CurrentHeatingCoolingState\": 1 } }",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 630,
+        "x": 510,
         "y": 2160,
         "wires": [
             [
@@ -21484,7 +19838,7 @@
         "formatdecimalsvalue": 999,
         "passthrough": "no",
         "listenallga": false,
-        "x": 690,
+        "x": 730,
         "y": 240,
         "wires": [
             [
@@ -21504,7 +19858,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 900,
+        "x": 940,
         "y": 240,
         "wires": [
             []
@@ -21872,7 +20226,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 370,
+        "x": 410,
         "y": 180,
         "wires": [
             []
@@ -22121,8 +20475,8 @@
         "formatdecimalsvalue": 999,
         "passthrough": "no",
         "listenallga": false,
-        "x": 1140,
-        "y": 860,
+        "x": 1120,
+        "y": 980,
         "wires": [
             []
         ]
@@ -22151,8 +20505,8 @@
         "formatdecimalsvalue": 999,
         "passthrough": "no",
         "listenallga": false,
-        "x": 1140,
-        "y": 940,
+        "x": 1120,
+        "y": 1060,
         "wires": [
             []
         ]
@@ -22228,11 +20582,13 @@
         "cameraConfigDebug": false,
         "cameraConfigSnapshotOutput": "disabled",
         "cameraConfigInterfaceName": "",
-        "characteristicProperties": "{\"SecuritySystemCurrentState\":{\"validValues\":[1,2,3,4]},\"SecuritySystemTargetState\":{\"validValues\":[1,2,3]}}",
+        "characteristicProperties": "{\"SecuritySystemCurrentState\":{\"validValues\":[0,1,2,3,4]},\"SecuritySystemTargetState\":{\"validValues\":[0,1,2,3]}}",
         "waitForSetupMsg": false,
         "outputs": 2,
-        "x": 660,
-        "y": 1020,
+        "adaptiveLightingOptionsEnable": false,
+        "adaptiveLightingOptionsCustomTemperatureAdjustment": "",
+        "x": 640,
+        "y": 1140,
         "wires": [
             [
                 "90ad5d0efcb442ab"
@@ -22262,8 +20618,8 @@
         "topic": "",
         "payload": "{\"SecuritySystemCurrentState\":1,\"SecuritySystemTargetState\":1}",
         "payloadType": "json",
-        "x": 270,
-        "y": 780,
+        "x": 250,
+        "y": 900,
         "wires": [
             [
                 "69be7ecac63a34e6"
@@ -22292,8 +20648,8 @@
         "topic": "",
         "payload": "{\"SecuritySystemCurrentState\":2,\"SecuritySystemTargetState\":2}",
         "payloadType": "json",
-        "x": 300,
-        "y": 900,
+        "x": 280,
+        "y": 1020,
         "wires": [
             [
                 "69be7ecac63a34e6"
@@ -22318,8 +20674,8 @@
         "topic": "",
         "payload": "{\"SecuritySystemCurrentState\":3,\"SecuritySystemTargetState\":3}",
         "payloadType": "json",
-        "x": 280,
-        "y": 1120,
+        "x": 260,
+        "y": 1240,
         "wires": [
             [
                 "69be7ecac63a34e6"
@@ -22348,8 +20704,8 @@
         "topic": "",
         "payload": "{\"SecuritySystemCurrentState\":4}",
         "payloadType": "json",
-        "x": 320,
-        "y": 1020,
+        "x": 300,
+        "y": 1140,
         "wires": [
             [
                 "69be7ecac63a34e6"
@@ -22368,8 +20724,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 840,
-        "y": 940,
+        "x": 820,
+        "y": 1060,
         "wires": [
             [
                 "add98a1681b4df24"
@@ -22392,27 +20748,30 @@
         "setTopicType": "str",
         "outputtopic": "",
         "dpt": "1.001",
-        "initialread": 0,
+        "initialread": "0",
         "notifyreadrequest": false,
         "notifyresponse": false,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "ALARME",
-        "outputtype": "write",
-        "outputRBE": "true",
+        "outputtype": "update",
+        "outputRBE": "false",
         "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
+        "gaSecure": "",
         "buttonEnabled": false,
         "buttonMode": "read",
         "buttonStaticValue": "",
         "buttonToggleInitial": "false",
-        "x": 200,
-        "y": 1060,
+        "x": 160,
+        "y": 1180,
         "wires": [
             [
                 "c214c8f9b87ce6e5"
@@ -22432,8 +20791,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 390,
-        "y": 1060,
+        "x": 370,
+        "y": 1180,
         "wires": [
             [
                 "69be7ecac63a34e6"
@@ -22452,8 +20811,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 370,
-        "y": 840,
+        "x": 350,
+        "y": 960,
         "wires": [
             [
                 "69be7ecac63a34e6"
@@ -22472,8 +20831,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 380,
-        "y": 940,
+        "x": 360,
+        "y": 1060,
         "wires": [
             [
                 "69be7ecac63a34e6"
@@ -22684,9 +21043,11 @@
         "cameraConfigDebug": false,
         "cameraConfigSnapshotOutput": "disabled",
         "cameraConfigInterfaceName": "",
-        "characteristicProperties": "{\"CurrentTemperature\":0,\"StatusActive\":true}",
+        "characteristicProperties": "",
         "waitForSetupMsg": false,
         "outputs": 2,
+        "adaptiveLightingOptionsEnable": false,
+        "adaptiveLightingOptionsCustomTemperatureAdjustment": "",
         "x": 720,
         "y": 340,
         "wires": [
@@ -22783,24 +21144,32 @@
         "g": "530798d256776331",
         "server": "aec720b075cfc2b3",
         "topic": "4/0/1",
+        "setTopicType": "str",
         "outputtopic": "",
         "dpt": "5.010",
-        "initialread": 0,
+        "initialread": "1",
         "notifyreadrequest": false,
-        "notifyresponse": false,
+        "notifyresponse": true,
         "notifywrite": true,
         "notifyreadrequestalsorespondtobus": false,
         "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
         "name": "Vitesse Status",
-        "outputtype": "write",
-        "outputRBE": true,
-        "inputRBE": false,
+        "outputtype": "update",
+        "outputRBE": "false",
+        "inputRBE": "false",
         "formatmultiplyvalue": 1,
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
-        "x": 190,
+        "gaSecure": "",
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 180,
         "y": 1480,
         "wires": [
             [
@@ -23186,8 +21555,8 @@
         "g": "7f2be162e27d008e",
         "name": "Alarme",
         "info": "",
-        "x": 170,
-        "y": 740,
+        "x": 150,
+        "y": 860,
         "wires": []
     },
     {
@@ -23293,97 +21662,20 @@
         ]
     },
     {
-        "id": "890bf078018458ab",
-        "type": "inject",
-        "z": "9a03a89a80288e0b",
-        "g": "530798d256776331",
-        "name": "ReadStatus",
-        "props": [
-            {
-                "p": "readstatus",
-                "v": "true",
-                "vt": "bool"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "6",
-        "topic": "",
-        "x": 190,
-        "y": 1420,
-        "wires": [
-            [
-                "c118f86fbc0d500a"
-            ]
-        ]
-    },
-    {
-        "id": "c118f86fbc0d500a",
-        "type": "knxUltimate",
-        "z": "9a03a89a80288e0b",
-        "g": "530798d256776331",
-        "server": "aec720b075cfc2b3",
-        "topic": "4/0/1",
-        "outputtopic": "",
-        "dpt": "5.010",
-        "initialread": 0,
-        "notifyreadrequest": false,
-        "notifyresponse": true,
-        "notifywrite": false,
-        "notifyreadrequestalsorespondtobus": false,
-        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
-        "name": "Vitesse Status",
-        "outputtype": "read",
-        "outputRBE": true,
-        "inputRBE": false,
-        "formatmultiplyvalue": 1,
-        "formatnegativevalue": "leave",
-        "formatdecimalsvalue": 999,
-        "passthrough": "no",
-        "listenallga": false,
-        "x": 370,
-        "y": 1420,
-        "wires": [
-            [
-                "a3747019694739fe"
-            ]
-        ]
-    },
-    {
-        "id": "a3747019694739fe",
-        "type": "function",
-        "z": "9a03a89a80288e0b",
-        "g": "530798d256776331",
-        "name": "KNX to HKT",
-        "func": "return {\n    payload: {\n        \"On\": 1,\n        \"RotationSpeed\": msg.payload\n    }};",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 570,
-        "y": 1420,
-        "wires": [
-            [
-                "fe73cae948fce73f"
-            ]
-        ]
-    },
-    {
         "id": "7a28efe4112a48a3",
         "type": "function",
         "z": "9a03a89a80288e0b",
         "g": "7f2be162e27d008e",
         "name": "Get alarm status",
-        "func": "var Pigpio = global.get(\"jsPigpio\");\nvar PinAbscent = null;\nvar PinNuit = null;\n\nconst HOST = 'localhost';\nconst PORT = 8888;\n\nconst PiGPIO = new Pigpio();\n\nPiGPIO.pi(HOST, PORT, (err) => {\n    if (err) node.error(err);\n\n    PiGPIO.read(13, (err, dataAbscent) => {\n        if (err) { \n            node.error(err);\n        } \n        else {\n            //node.warn(\"pin 13: \" + dataAbscent);\n            PinAbscent = dataAbscent;\n        }\n        PiGPIO.read(26, (err, dataNuit) => {\n            if (err) {\n                node.error(err);\n            }\n            else {\n                //node.warn(\"pin 26: \" + dataNuit);\n                PinNuit = dataNuit\n            }\n            if (PinAbscent == 0){\n                node.send({ payload: { \"SecuritySystemCurrentState\": 1, \"SecuritySystemTargetState\": 1 } })\n            } else if (PinNuit == 0){\n                node.send({ payload: { \"SecuritySystemCurrentState\": 2, \"SecuritySystemTargetState\": 2 } })\n            } else {\n                node.send({ payload: { \"SecuritySystemCurrentState\": 3, \"SecuritySystemTargetState\": 3 } })\n            }\n        });\n    });\n});\nreturn",
+        "func": "/*var Pigpio = global.get(\"jsPigpio\");\nvar PinAbscent = null;\nvar PinNuit = null;\n\nconst HOST = 'localhost';\nconst PORT = 8888;\n\nconst PiGPIO = new Pigpio();\n\nPiGPIO.pi(HOST, PORT, (err) => {\n    if (err) node.error(err);\n\n    PiGPIO.read(13, (err, dataAbscent) => {\n        if (err) { \n            node.error(err);\n        } \n        else {\n            //node.warn(\"pin 13: \" + dataAbscent);\n            PinAbscent = dataAbscent;\n        }\n        PiGPIO.read(26, (err, dataNuit) => {\n            if (err) {\n                node.error(err);\n            }\n            else {\n                //node.warn(\"pin 26: \" + dataNuit);\n                PinNuit = dataNuit\n            }\n            if (PinAbscent == 0){\n                node.send({ payload: { \"SecuritySystemCurrentState\": 1, \"SecuritySystemTargetState\": 1 } })\n            } else if (PinNuit == 0){\n                node.send({ payload: { \"SecuritySystemCurrentState\": 2, \"SecuritySystemTargetState\": 2 } })\n            } else {\n                node.send({ payload: { \"SecuritySystemCurrentState\": 3, \"SecuritySystemTargetState\": 3 } })\n            }\n        });\n    });\n});*/\nreturn",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 760,
-        "y": 1120,
+        "x": 740,
+        "y": 1240,
         "wires": [
             [
                 "69be7ecac63a34e6"
@@ -23408,8 +21700,8 @@
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 580,
-        "y": 1120,
+        "x": 560,
+        "y": 1240,
         "wires": [
             [
                 "7a28efe4112a48a3"
@@ -23422,8 +21714,9 @@
         "z": "9a03a89a80288e0b",
         "g": "3d58b23d95ff0a11",
         "name": "Get alarm status",
-        "func": "var Pigpio = global.get(\"jsPigpio\");\n\nconst HOST = 'localhost';\nconst PORT = 8888;\n\nconst PiGPIO = new Pigpio();\n\nPiGPIO.pi(HOST, PORT, (err) => {\n    if (err) node.error(err);\n\n    PiGPIO.read(6, (err, dataFerme) => {\n        if (err) { \n            node.error(err);\n        } \n        else {\n            //node.warn(\"pin 6: \" + dataFerme);\n            if (dataFerme == 1){\n                node.send({ payload: { \"TargetDoorState\": 1, \"CurrentDoorState\": 1 } });\n            } else {\n                node.send({ payload: { \"TargetDoorState\": 0, \"CurrentDoorState\": 0 } })\n            }\n        }\n    });\n});\nreturn",
+        "func": "/*var Pigpio = global.get(\"jsPigpio\");\n\nconst HOST = 'localhost';\nconst PORT = 8888;\n\nconst PiGPIO = new Pigpio();\n\nPiGPIO.pi(HOST, PORT, (err) => {\n    if (err) node.error(err);\n\n    PiGPIO.read(6, (err, dataFerme) => {\n        if (err) { \n            node.error(err);\n        } \n        else {\n            //node.warn(\"pin 6: \" + dataFerme);\n            if (dataFerme == 1){\n                node.send({ payload: { \"TargetDoorState\": 1, \"CurrentDoorState\": 1 } });\n            } else {\n                node.send({ payload: { \"TargetDoorState\": 0, \"CurrentDoorState\": 0 } })\n            }\n        }\n    });\n});*/\nreturn",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -23999,8 +22292,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 560,
-        "y": 800,
+        "x": 540,
+        "y": 920,
         "wires": [
             []
         ]
@@ -24078,8 +22371,8 @@
         "g": "7f2be162e27d008e",
         "name": "Alarme absent ",
         "info": "a connecter au set event",
-        "x": 210,
-        "y": 840,
+        "x": 190,
+        "y": 960,
         "wires": []
     },
     {
@@ -24089,8 +22382,8 @@
         "g": "7f2be162e27d008e",
         "name": "Alarme Nuit ",
         "info": "a contecter au set event",
-        "x": 230,
-        "y": 940,
+        "x": 210,
+        "y": 1060,
         "wires": []
     },
     {
