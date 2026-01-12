@@ -2516,6 +2516,32 @@
         "h": 142
     },
     {
+        "id": "35aa5388dbd9c4b8",
+        "type": "group",
+        "z": "99e2f986584161a1",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "4b6931fe2d7a5289",
+            "197d02f1df555f4f",
+            "e8ec7977a19c9cf6",
+            "a557ae14dcdb911f",
+            "8497b5245f18eb96",
+            "62d0e8977b6e8c44"
+        ],
+        "x": 14,
+        "y": 179,
+        "w": 832,
+        "h": 222
+    },
+    {
         "id": "aec720b075cfc2b3",
         "type": "knxUltimate-config",
         "host": "192.168.30.15",
@@ -17706,7 +17732,10 @@
         "formatnegativevalue": "leave",
         "formatdecimalsvalue": 999,
         "passthrough": "no",
+        "sendMsgToKNXCode": "",
+        "receiveMsgFromKNXCode": "",
         "listenallga": false,
+        "gaSecure": "",
         "buttonEnabled": false,
         "buttonMode": "read",
         "buttonStaticValue": "",
@@ -23311,5 +23340,155 @@
         "x": 150,
         "y": 60,
         "wires": []
+    },
+    {
+        "id": "4b6931fe2d7a5289",
+        "type": "comment",
+        "z": "99e2f986584161a1",
+        "g": "35aa5388dbd9c4b8",
+        "name": "Allumer le chauffage SDB",
+        "info": "",
+        "x": 150,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "197d02f1df555f4f",
+        "type": "inject",
+        "z": "99e2f986584161a1",
+        "g": "35aa5388dbd9c4b8",
+        "name": "Start 6h45",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "45 06 * * 1,2,3,4,5",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 130,
+        "y": 300,
+        "wires": [
+            [
+                "e8ec7977a19c9cf6",
+                "8497b5245f18eb96",
+                "62d0e8977b6e8c44"
+            ]
+        ]
+    },
+    {
+        "id": "e8ec7977a19c9cf6",
+        "type": "delay",
+        "z": "99e2f986584161a1",
+        "g": "35aa5388dbd9c4b8",
+        "name": "Délais de 15 minutes",
+        "pauseType": "delay",
+        "timeout": "15",
+        "timeoutUnits": "minutes",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 340,
+        "y": 360,
+        "wires": [
+            [
+                "a557ae14dcdb911f"
+            ]
+        ]
+    },
+    {
+        "id": "a557ae14dcdb911f",
+        "type": "change",
+        "z": "99e2f986584161a1",
+        "g": "35aa5388dbd9c4b8",
+        "name": "On to Off",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "true",
+                "fromt": "bool",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 520,
+        "y": 360,
+        "wires": [
+            [
+                "8497b5245f18eb96",
+                "62d0e8977b6e8c44"
+            ]
+        ]
+    },
+    {
+        "id": "8497b5245f18eb96",
+        "type": "knxUltimate",
+        "z": "99e2f986584161a1",
+        "g": "35aa5388dbd9c4b8",
+        "server": "aec720b075cfc2b3",
+        "topic": "0/0/30",
+        "setTopicType": "str",
+        "outputtopic": "",
+        "dpt": "1.006",
+        "initialread": 0,
+        "notifyreadrequest": false,
+        "notifyresponse": false,
+        "notifywrite": true,
+        "notifyreadrequestalsorespondtobus": false,
+        "notifyreadrequestalsorespondtobusdefaultvalueifnotinitialized": "0",
+        "name": "PRISE PARENTS",
+        "outputtype": "write",
+        "outputRBE": "false",
+        "inputRBE": "false",
+        "formatmultiplyvalue": 1,
+        "formatnegativevalue": "leave",
+        "formatdecimalsvalue": 999,
+        "passthrough": "no",
+        "listenallga": false,
+        "buttonEnabled": false,
+        "buttonMode": "read",
+        "buttonStaticValue": "",
+        "buttonToggleInitial": "false",
+        "x": 730,
+        "y": 320,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "62d0e8977b6e8c44",
+        "type": "function",
+        "z": "99e2f986584161a1",
+        "g": "35aa5388dbd9c4b8",
+        "name": "Set Event",
+        "func": "let status = null\nif (msg.payload == true) {\n    status = \"Chauffage SDB On\"\n}\nelse {\n    status = \"Chauffage SDB Off\"\n}\n\nlet GlobalData = global.get(\"Log\") || []\nGlobalData.push({ time: new Date().getTime(), data: status })\nglobal.set(\"Log\", GlobalData)",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 700,
+        "y": 280,
+        "wires": [
+            []
+        ]
     }
 ]
