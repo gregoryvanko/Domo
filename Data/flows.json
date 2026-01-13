@@ -23357,14 +23357,14 @@
         "type": "inject",
         "z": "99e2f986584161a1",
         "g": "35aa5388dbd9c4b8",
-        "name": "Start 6h45",
+        "name": "Start 6h40",
         "props": [
             {
                 "p": "payload"
             }
         ],
         "repeat": "",
-        "crontab": "45 06 * * 1,2,3,4,5",
+        "crontab": "40 06 * * 1,2,3,4,5",
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
@@ -23385,9 +23385,9 @@
         "type": "delay",
         "z": "99e2f986584161a1",
         "g": "35aa5388dbd9c4b8",
-        "name": "Délais de 15 minutes",
+        "name": "Délais de 20 minutes",
         "pauseType": "delay",
-        "timeout": "15",
+        "timeout": "20",
         "timeoutUnits": "minutes",
         "rate": "1",
         "nbRateUnits": "1",
