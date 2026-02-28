@@ -2542,6 +2542,30 @@
         "h": 222
     },
     {
+        "id": "4d28cfe772718c97",
+        "type": "group",
+        "z": "9a03a89a80288e0b",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "c58f4dc5e048b006",
+            "8607cc9bb396d45d",
+            "6b91527b206677c2",
+            "6eea9a09db8b350a"
+        ],
+        "x": 74,
+        "y": 3099,
+        "w": 592,
+        "h": 142
+    },
+    {
         "id": "aec720b075cfc2b3",
         "type": "knxUltimate-config",
         "host": "192.168.30.15",
@@ -2692,6 +2716,52 @@
         "mdnsLoopback": true,
         "mdnsReuseAddr": true,
         "allowMessagePassthrough": false
+    },
+    {
+        "id": "7e48addb24a8f5f6",
+        "type": "tls-config",
+        "name": "",
+        "cert": "",
+        "key": "",
+        "ca": "",
+        "certname": "",
+        "keyname": "",
+        "caname": "",
+        "servername": "",
+        "verifyservercert": true,
+        "alpnprotocol": ""
+    },
+    {
+        "id": "43d8f9a6025233ec",
+        "type": "mqtt-broker",
+        "name": "mqtt.vanko.be",
+        "broker": "wss://mqtt.vanko.be:443",
+        "port": 1883,
+        "tls": "7e48addb24a8f5f6",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": true,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
     },
     {
         "id": "ed2d8340.e1d5d8",
@@ -22416,6 +22486,83 @@
         "wires": []
     },
     {
+        "id": "c58f4dc5e048b006",
+        "type": "comment",
+        "z": "9a03a89a80288e0b",
+        "g": "4d28cfe772718c97",
+        "name": "Get DomoESP1 data on startup",
+        "info": "",
+        "x": 230,
+        "y": 3140,
+        "wires": []
+    },
+    {
+        "id": "8607cc9bb396d45d",
+        "type": "inject",
+        "z": "9a03a89a80288e0b",
+        "g": "4d28cfe772718c97",
+        "name": "Default",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "4",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 180,
+        "y": 3200,
+        "wires": [
+            [
+                "6eea9a09db8b350a"
+            ]
+        ]
+    },
+    {
+        "id": "6b91527b206677c2",
+        "type": "mqtt out",
+        "z": "9a03a89a80288e0b",
+        "g": "4d28cfe772718c97",
+        "name": "Domo1/Get",
+        "topic": "Domo1/Get",
+        "qos": "0",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "43d8f9a6025233ec",
+        "x": 570,
+        "y": 3200,
+        "wires": []
+    },
+    {
+        "id": "6eea9a09db8b350a",
+        "type": "function",
+        "z": "9a03a89a80288e0b",
+        "g": "4d28cfe772718c97",
+        "name": "Msg get all data",
+        "func": "msg.payload = \"All\"\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 360,
+        "y": 3200,
+        "wires": [
+            [
+                "6b91527b206677c2"
+            ]
+        ]
+    },
+    {
         "id": "a862e394fb0cb543",
         "type": "comment",
         "z": "52d9ba55e6ac079f",
@@ -23357,14 +23504,14 @@
         "type": "inject",
         "z": "99e2f986584161a1",
         "g": "35aa5388dbd9c4b8",
-        "name": "Start 6h40",
+        "name": "Start 6h50",
         "props": [
             {
                 "p": "payload"
             }
         ],
         "repeat": "",
-        "crontab": "40 06 * * 1,2,3,4,5",
+        "crontab": "50 06 * * 1,2,3,4,5",
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
