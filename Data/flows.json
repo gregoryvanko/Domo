@@ -1086,9 +1086,9 @@
             "e8f70778b42fbd18"
         ],
         "x": 54,
-        "y": 1339,
+        "y": 1379,
         "w": 992,
-        "h": 182
+        "h": 142
     },
     {
         "id": "7f2be162e27d008e",
@@ -1117,11 +1117,12 @@
             "f28abe05ecbc27f1",
             "aa62e5b361cbec0c",
             "8ded17bee9bcc1d7",
-            "8532906a888b76ce",
-            "7a28efe4112a48a3",
             "daec04544a361ede",
-            "61e8dfb2304fd18f",
-            "b876f429f9b951fd"
+            "a5ce95598eeaa655",
+            "4c590a5ad2c21cc0",
+            "f2561da773f70182",
+            "184e95e3f1d0f9c3",
+            "18cfbc93c4c69925"
         ],
         "x": 54,
         "y": 819,
@@ -1144,19 +1145,17 @@
         "nodes": [
             "5ce62a8b72327071",
             "517bdca552d750f9",
-            "9961497ab8861e65",
             "3de0e32ce8581a01",
             "17efc8f51e563f3f",
             "8f83823ab5c03408",
             "fc9ea0709ccc6ba4",
-            "6411bd7fc8733f0a",
             "844b40ddfd85d05e",
-            "12edfcca9a396eb2",
-            "09be191e0edfcc34"
+            "343cc3a7ab7df197",
+            "60e317b4031ca992"
         ],
-        "x": 34,
+        "x": 54,
         "y": 459,
-        "w": 1052,
+        "w": 1012,
         "h": 262
     },
     {
@@ -1436,7 +1435,7 @@
             "af27d3c6e8cdb22c",
             "e774c4fdd5ada606",
             "1ca7d64aad192489",
-            "5c5496885f24aafc"
+            "e25e9b53246916c0"
         ],
         "x": 74,
         "y": 2439,
@@ -2422,7 +2421,7 @@
         "nodes": [
             "185fe1a436a81412",
             "33489192df08f6ae",
-            "d08f34052f28b2fb"
+            "a125fc8c10d99086"
         ],
         "x": 14,
         "y": 2399,
@@ -2442,7 +2441,7 @@
             "3f25ae71af496ab0",
             "b7e6b130d4114a3b",
             "18e6cd08c523e8b9",
-            "5789e48bc1bc040c"
+            "3a65e137773d633c"
         ],
         "x": 74,
         "y": 2599,
@@ -2462,7 +2461,7 @@
             "1135fc87d6fe0d04",
             "47ae2d4e3f819f03",
             "8cfa920b438d8106",
-            "d47796dc5582f01d"
+            "e1644f92ba18f97b"
         ],
         "x": 74,
         "y": 2759,
@@ -2482,7 +2481,7 @@
             "f35eff9410f39c8e",
             "ceac8a8e5a91c544",
             "14fe888dd3e8a2ab",
-            "31636b3ff6f29a90"
+            "d06af7093493aac8"
         ],
         "x": 74,
         "y": 2919,
@@ -20487,15 +20486,26 @@
         ]
     },
     {
-        "id": "d08f34052f28b2fb",
-        "type": "comment",
+        "id": "a125fc8c10d99086",
+        "type": "mqtt in",
         "z": "54acd5f6d6fa0efe",
         "g": "f89ba36d8c1adb98",
-        "name": "Temp ballon",
-        "info": "Temperature du ballon en output",
-        "x": 150,
+        "name": "",
+        "topic": "Domo1/Temp1",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "43d8f9a6025233ec",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 120,
         "y": 2500,
-        "wires": []
+        "wires": [
+            [
+                "33489192df08f6ae"
+            ]
+        ]
     },
     {
         "id": "5ce62a8b72327071",
@@ -20541,7 +20551,7 @@
         "characteristicProperties": "{}",
         "waitForSetupMsg": false,
         "outputs": 2,
-        "x": 650,
+        "x": 630,
         "y": 580,
         "wires": [
             [
@@ -20634,7 +20644,7 @@
         "formatdecimalsvalue": 999,
         "passthrough": "no",
         "listenallga": false,
-        "x": 990,
+        "x": 970,
         "y": 580,
         "wires": [
             []
@@ -20873,7 +20883,8 @@
         "y": 1180,
         "wires": [
             [
-                "c214c8f9b87ce6e5"
+                "c214c8f9b87ce6e5",
+                "18cfbc93c4c69925"
             ]
         ]
     },
@@ -20903,9 +20914,10 @@
         "type": "function",
         "z": "9a03a89a80288e0b",
         "g": "7f2be162e27d008e",
-        "name": "Set Abscent",
+        "name": "Set Absent",
         "func": "if (msg.payload == 0) {\n    return { payload: { \"SecuritySystemCurrentState\": 1, \"SecuritySystemTargetState\": 1 } }\n}\nelse {\n    return { payload: { \"SecuritySystemCurrentState\": 3, \"SecuritySystemTargetState\": 3 } }\n}",
         "outputs": 1,
+        "timeout": "",
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -21406,8 +21418,8 @@
         "g": "530798d256776331",
         "name": "VMC Controle",
         "info": "",
-        "x": 190,
-        "y": 1380,
+        "x": 170,
+        "y": 1420,
         "wires": []
     },
     {
@@ -21571,32 +21583,6 @@
         ]
     },
     {
-        "id": "9961497ab8861e65",
-        "type": "inject",
-        "z": "9a03a89a80288e0b",
-        "g": "3d58b23d95ff0a11",
-        "name": "Default",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "6",
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 340,
-        "y": 520,
-        "wires": [
-            [
-                "6411bd7fc8733f0a"
-            ]
-        ]
-    },
-    {
         "id": "3de0e32ce8581a01",
         "type": "function",
         "z": "9a03a89a80288e0b",
@@ -21608,7 +21594,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 410,
+        "x": 390,
         "y": 580,
         "wires": [
             [
@@ -21628,7 +21614,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 410,
+        "x": 390,
         "y": 640,
         "wires": [
             [
@@ -21643,7 +21629,7 @@
         "g": "3d58b23d95ff0a11",
         "name": "Porte Garage",
         "info": "",
-        "x": 170,
+        "x": 150,
         "y": 500,
         "wires": []
     },
@@ -21752,79 +21738,11 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 830,
+        "x": 810,
         "y": 580,
         "wires": [
             [
                 "517bdca552d750f9"
-            ]
-        ]
-    },
-    {
-        "id": "7a28efe4112a48a3",
-        "type": "function",
-        "z": "9a03a89a80288e0b",
-        "g": "7f2be162e27d008e",
-        "name": "Get alarm status",
-        "func": "/*var Pigpio = global.get(\"jsPigpio\");\nvar PinAbscent = null;\nvar PinNuit = null;\n\nconst HOST = 'localhost';\nconst PORT = 8888;\n\nconst PiGPIO = new Pigpio();\n\nPiGPIO.pi(HOST, PORT, (err) => {\n    if (err) node.error(err);\n\n    PiGPIO.read(13, (err, dataAbscent) => {\n        if (err) { \n            node.error(err);\n        } \n        else {\n            //node.warn(\"pin 13: \" + dataAbscent);\n            PinAbscent = dataAbscent;\n        }\n        PiGPIO.read(26, (err, dataNuit) => {\n            if (err) {\n                node.error(err);\n            }\n            else {\n                //node.warn(\"pin 26: \" + dataNuit);\n                PinNuit = dataNuit\n            }\n            if (PinAbscent == 0){\n                node.send({ payload: { \"SecuritySystemCurrentState\": 1, \"SecuritySystemTargetState\": 1 } })\n            } else if (PinNuit == 0){\n                node.send({ payload: { \"SecuritySystemCurrentState\": 2, \"SecuritySystemTargetState\": 2 } })\n            } else {\n                node.send({ payload: { \"SecuritySystemCurrentState\": 3, \"SecuritySystemTargetState\": 3 } })\n            }\n        });\n    });\n});*/\nreturn",
-        "outputs": 1,
-        "timeout": "",
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 740,
-        "y": 1240,
-        "wires": [
-            [
-                "69be7ecac63a34e6"
-            ]
-        ]
-    },
-    {
-        "id": "8532906a888b76ce",
-        "type": "inject",
-        "z": "9a03a89a80288e0b",
-        "g": "7f2be162e27d008e",
-        "name": "Default",
-        "props": [
-            {
-                "p": "payload"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": "6",
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 560,
-        "y": 1240,
-        "wires": [
-            [
-                "7a28efe4112a48a3"
-            ]
-        ]
-    },
-    {
-        "id": "6411bd7fc8733f0a",
-        "type": "function",
-        "z": "9a03a89a80288e0b",
-        "g": "3d58b23d95ff0a11",
-        "name": "Get alarm status",
-        "func": "/*var Pigpio = global.get(\"jsPigpio\");\n\nconst HOST = 'localhost';\nconst PORT = 8888;\n\nconst PiGPIO = new Pigpio();\n\nPiGPIO.pi(HOST, PORT, (err) => {\n    if (err) node.error(err);\n\n    PiGPIO.read(6, (err, dataFerme) => {\n        if (err) { \n            node.error(err);\n        } \n        else {\n            //node.warn(\"pin 6: \" + dataFerme);\n            if (dataFerme == 1){\n                node.send({ payload: { \"TargetDoorState\": 1, \"CurrentDoorState\": 1 } });\n            } else {\n                node.send({ payload: { \"TargetDoorState\": 0, \"CurrentDoorState\": 0 } })\n            }\n        }\n    });\n});*/\nreturn",
-        "outputs": 1,
-        "timeout": "",
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 540,
-        "y": 520,
-        "wires": [
-            [
-                "5ce62a8b72327071"
             ]
         ]
     },
@@ -22373,7 +22291,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 400,
+        "x": 380,
         "y": 680,
         "wires": [
             []
@@ -22391,99 +22309,11 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 540,
+        "x": 560,
         "y": 920,
         "wires": [
             []
         ]
-    },
-    {
-        "id": "5c5496885f24aafc",
-        "type": "comment",
-        "z": "9a03a89a80288e0b",
-        "g": "60688dfc55b512e8",
-        "name": "Porte entree",
-        "info": "0 ou 1",
-        "x": 230,
-        "y": 2520,
-        "wires": []
-    },
-    {
-        "id": "5789e48bc1bc040c",
-        "type": "comment",
-        "z": "9a03a89a80288e0b",
-        "g": "3fd9d52d1a8103b9",
-        "name": "Porte Atelier",
-        "info": "0 ou 1",
-        "x": 230,
-        "y": 2680,
-        "wires": []
-    },
-    {
-        "id": "d47796dc5582f01d",
-        "type": "comment",
-        "z": "9a03a89a80288e0b",
-        "g": "7e2f81c6cf0e02ec",
-        "name": "Porte SAM",
-        "info": "0 ou 1",
-        "x": 260,
-        "y": 2840,
-        "wires": []
-    },
-    {
-        "id": "31636b3ff6f29a90",
-        "type": "comment",
-        "z": "9a03a89a80288e0b",
-        "g": "5695899964f379ab",
-        "name": "Porte Cuisine",
-        "info": "0 ou 1",
-        "x": 250,
-        "y": 3020,
-        "wires": []
-    },
-    {
-        "id": "12edfcca9a396eb2",
-        "type": "comment",
-        "z": "9a03a89a80288e0b",
-        "g": "3d58b23d95ff0a11",
-        "name": "Porte garage contacteur aimant",
-        "info": "",
-        "x": 190,
-        "y": 580,
-        "wires": []
-    },
-    {
-        "id": "09be191e0edfcc34",
-        "type": "comment",
-        "z": "9a03a89a80288e0b",
-        "g": "3d58b23d95ff0a11",
-        "name": "Porte garage alarme",
-        "info": "",
-        "x": 250,
-        "y": 660,
-        "wires": []
-    },
-    {
-        "id": "61e8dfb2304fd18f",
-        "type": "comment",
-        "z": "9a03a89a80288e0b",
-        "g": "7f2be162e27d008e",
-        "name": "Alarme absent ",
-        "info": "a connecter au set event",
-        "x": 190,
-        "y": 960,
-        "wires": []
-    },
-    {
-        "id": "b876f429f9b951fd",
-        "type": "comment",
-        "z": "9a03a89a80288e0b",
-        "g": "7f2be162e27d008e",
-        "name": "Alarme Nuit ",
-        "info": "a contecter au set event",
-        "x": 210,
-        "y": 1060,
-        "wires": []
     },
     {
         "id": "c58f4dc5e048b006",
@@ -22560,6 +22390,248 @@
             [
                 "6b91527b206677c2"
             ]
+        ]
+    },
+    {
+        "id": "d06af7093493aac8",
+        "type": "mqtt in",
+        "z": "9a03a89a80288e0b",
+        "g": "5695899964f379ab",
+        "name": "",
+        "topic": "Domo1/Pin4",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "43d8f9a6025233ec",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 190,
+        "y": 3020,
+        "wires": [
+            [
+                "14fe888dd3e8a2ab",
+                "f35eff9410f39c8e"
+            ]
+        ]
+    },
+    {
+        "id": "e1644f92ba18f97b",
+        "type": "mqtt in",
+        "z": "9a03a89a80288e0b",
+        "g": "7e2f81c6cf0e02ec",
+        "name": "",
+        "topic": "Domo1/Pin3",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "43d8f9a6025233ec",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 190,
+        "y": 2860,
+        "wires": [
+            [
+                "8cfa920b438d8106",
+                "1135fc87d6fe0d04"
+            ]
+        ]
+    },
+    {
+        "id": "3a65e137773d633c",
+        "type": "mqtt in",
+        "z": "9a03a89a80288e0b",
+        "g": "3fd9d52d1a8103b9",
+        "name": "",
+        "topic": "Domo1/Pin2",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "43d8f9a6025233ec",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 190,
+        "y": 2700,
+        "wires": [
+            [
+                "3f25ae71af496ab0",
+                "18e6cd08c523e8b9"
+            ]
+        ]
+    },
+    {
+        "id": "e25e9b53246916c0",
+        "type": "mqtt in",
+        "z": "9a03a89a80288e0b",
+        "g": "60688dfc55b512e8",
+        "name": "",
+        "topic": "Domo1/Pin8",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "43d8f9a6025233ec",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 190,
+        "y": 2540,
+        "wires": [
+            [
+                "af27d3c6e8cdb22c",
+                "1ca7d64aad192489"
+            ]
+        ]
+    },
+    {
+        "id": "343cc3a7ab7df197",
+        "type": "mqtt in",
+        "z": "9a03a89a80288e0b",
+        "g": "3d58b23d95ff0a11",
+        "name": "",
+        "topic": "Domo1/Pin1",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "43d8f9a6025233ec",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 190,
+        "y": 580,
+        "wires": [
+            [
+                "3de0e32ce8581a01"
+            ]
+        ]
+    },
+    {
+        "id": "60e317b4031ca992",
+        "type": "mqtt in",
+        "z": "9a03a89a80288e0b",
+        "g": "3d58b23d95ff0a11",
+        "name": "",
+        "topic": "Domo1/Pin5",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "43d8f9a6025233ec",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 190,
+        "y": 660,
+        "wires": [
+            [
+                "17efc8f51e563f3f",
+                "844b40ddfd85d05e"
+            ]
+        ]
+    },
+    {
+        "id": "a5ce95598eeaa655",
+        "type": "mqtt in",
+        "z": "9a03a89a80288e0b",
+        "g": "7f2be162e27d008e",
+        "name": "",
+        "topic": "Domo1/Pin6",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "43d8f9a6025233ec",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 170,
+        "y": 960,
+        "wires": [
+            [
+                "f28abe05ecbc27f1",
+                "daec04544a361ede",
+                "f2561da773f70182"
+            ]
+        ]
+    },
+    {
+        "id": "4c590a5ad2c21cc0",
+        "type": "mqtt in",
+        "z": "9a03a89a80288e0b",
+        "g": "7f2be162e27d008e",
+        "name": "",
+        "topic": "Domo1/Pin7",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "43d8f9a6025233ec",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 170,
+        "y": 1060,
+        "wires": [
+            [
+                "aa62e5b361cbec0c",
+                "daec04544a361ede",
+                "184e95e3f1d0f9c3"
+            ]
+        ]
+    },
+    {
+        "id": "f2561da773f70182",
+        "type": "function",
+        "z": "9a03a89a80288e0b",
+        "g": "7f2be162e27d008e",
+        "name": "Set Log",
+        "func": "let status = null\nif (msg.payload == 0) {\n    status = \"Alarme Absent activée\"\n}\nelse {\n    status = \"Alarme Absent désactivée\"\n}\n\nlet GlobalData = global.get(\"Log\") || []\nGlobalData.push({ time: new Date().getTime(), data: status })\nglobal.set(\"Log\", GlobalData)",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 560,
+        "y": 880,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "184e95e3f1d0f9c3",
+        "type": "function",
+        "z": "9a03a89a80288e0b",
+        "g": "7f2be162e27d008e",
+        "name": "Set Log",
+        "func": "let status = null\nif (msg.payload == 0) {\n    status = \"Alarme Nuit activée\"\n}\nelse {\n    status = \"Alarme Nuit désactivée\"\n}\n\nlet GlobalData = global.get(\"Log\") || []\nGlobalData.push({ time: new Date().getTime(), data: status })\nglobal.set(\"Log\", GlobalData)",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 560,
+        "y": 1000,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "18cfbc93c4c69925",
+        "type": "function",
+        "z": "9a03a89a80288e0b",
+        "g": "7f2be162e27d008e",
+        "name": "Set Log",
+        "func": "let status = null\nif (msg.payload == true) {\n    status = \"Alarme sonne\"\n}\nelse {\n    status = \"Alarme arrete de sonner\"\n}\n\nlet GlobalData = global.get(\"Log\") || []\nGlobalData.push({ time: new Date().getTime(), data: status })\nglobal.set(\"Log\", GlobalData)",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 560,
+        "y": 1220,
+        "wires": [
+            []
         ]
     },
     {
