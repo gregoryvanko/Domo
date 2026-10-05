@@ -1126,11 +1126,11 @@
             "aa62e5b361cbec0c",
             "8ded17bee9bcc1d7",
             "daec04544a361ede",
-            "a5ce95598eeaa655",
-            "4c590a5ad2c21cc0",
             "f2561da773f70182",
             "184e95e3f1d0f9c3",
-            "18cfbc93c4c69925"
+            "18cfbc93c4c69925",
+            "12c8cd261abf3155",
+            "d52c4854702dea8d"
         ],
         "x": 54,
         "y": 819,
@@ -1158,8 +1158,10 @@
             "8f83823ab5c03408",
             "fc9ea0709ccc6ba4",
             "844b40ddfd85d05e",
-            "343cc3a7ab7df197",
-            "60e317b4031ca992"
+            "0265be0b7e6e2532",
+            "2b286441dae479a1",
+            "4006fc923ae49874",
+            "0877c0918fd675d3"
         ],
         "x": 54,
         "y": 459,
@@ -1443,7 +1445,7 @@
             "af27d3c6e8cdb22c",
             "e774c4fdd5ada606",
             "1ca7d64aad192489",
-            "e25e9b53246916c0"
+            "af0d976cc8c87e31"
         ],
         "x": 74,
         "y": 2439,
@@ -2429,11 +2431,11 @@
         "nodes": [
             "185fe1a436a81412",
             "33489192df08f6ae",
-            "a125fc8c10d99086"
+            "bc227d41772a4cfb"
         ],
         "x": 14,
         "y": 2399,
-        "w": 492,
+        "w": 472,
         "h": 142
     },
     {
@@ -2449,7 +2451,7 @@
             "3f25ae71af496ab0",
             "b7e6b130d4114a3b",
             "18e6cd08c523e8b9",
-            "3a65e137773d633c"
+            "850665588ab85415"
         ],
         "x": 74,
         "y": 2599,
@@ -2469,7 +2471,7 @@
             "1135fc87d6fe0d04",
             "47ae2d4e3f819f03",
             "8cfa920b438d8106",
-            "e1644f92ba18f97b"
+            "77b29f5e1323eb7d"
         ],
         "x": 74,
         "y": 2759,
@@ -2489,7 +2491,7 @@
             "f35eff9410f39c8e",
             "ceac8a8e5a91c544",
             "14fe888dd3e8a2ab",
-            "d06af7093493aac8"
+            "c297801c82e98be3"
         ],
         "x": 74,
         "y": 2919,
@@ -2569,7 +2571,7 @@
         ],
         "x": 74,
         "y": 3099,
-        "w": 592,
+        "w": 632,
         "h": 142
     },
     {
@@ -20487,27 +20489,22 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 360,
+        "x": 340,
         "y": 2500,
         "wires": [
             []
         ]
     },
     {
-        "id": "a125fc8c10d99086",
-        "type": "mqtt in",
+        "id": "bc227d41772a4cfb",
+        "type": "link in",
         "z": "54acd5f6d6fa0efe",
         "g": "f89ba36d8c1adb98",
-        "name": "",
-        "topic": "Domo1/Temp1",
-        "qos": "2",
-        "datatype": "auto-detect",
-        "broker": "43d8f9a6025233ec",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 120,
+        "name": "TEMP1",
+        "links": [
+            "5636cd4f826c8ee7"
+        ],
+        "x": 165,
         "y": 2500,
         "wires": [
             [
@@ -22365,8 +22362,8 @@
         "type": "mqtt out",
         "z": "9a03a89a80288e0b",
         "g": "4d28cfe772718c97",
-        "name": "Domo1/Get",
-        "topic": "Domo1/Get",
+        "name": "Domogarage/Get",
+        "topic": "Domogarage/Get",
         "qos": "0",
         "retain": "",
         "respTopic": "",
@@ -22375,7 +22372,7 @@
         "correl": "",
         "expiry": "",
         "broker": "43d8f9a6025233ec",
-        "x": 570,
+        "x": 590,
         "y": 3200,
         "wires": []
     },
@@ -22397,191 +22394,6 @@
         "wires": [
             [
                 "6b91527b206677c2"
-            ]
-        ]
-    },
-    {
-        "id": "d06af7093493aac8",
-        "type": "mqtt in",
-        "z": "9a03a89a80288e0b",
-        "g": "5695899964f379ab",
-        "name": "",
-        "topic": "Domo1/Pin4",
-        "qos": "2",
-        "datatype": "auto-detect",
-        "broker": "43d8f9a6025233ec",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 190,
-        "y": 3020,
-        "wires": [
-            [
-                "14fe888dd3e8a2ab",
-                "f35eff9410f39c8e"
-            ]
-        ]
-    },
-    {
-        "id": "e1644f92ba18f97b",
-        "type": "mqtt in",
-        "z": "9a03a89a80288e0b",
-        "g": "7e2f81c6cf0e02ec",
-        "name": "",
-        "topic": "Domo1/Pin3",
-        "qos": "2",
-        "datatype": "auto-detect",
-        "broker": "43d8f9a6025233ec",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 190,
-        "y": 2860,
-        "wires": [
-            [
-                "8cfa920b438d8106",
-                "1135fc87d6fe0d04"
-            ]
-        ]
-    },
-    {
-        "id": "3a65e137773d633c",
-        "type": "mqtt in",
-        "z": "9a03a89a80288e0b",
-        "g": "3fd9d52d1a8103b9",
-        "name": "",
-        "topic": "Domo1/Pin2",
-        "qos": "2",
-        "datatype": "auto-detect",
-        "broker": "43d8f9a6025233ec",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 190,
-        "y": 2700,
-        "wires": [
-            [
-                "3f25ae71af496ab0",
-                "18e6cd08c523e8b9"
-            ]
-        ]
-    },
-    {
-        "id": "e25e9b53246916c0",
-        "type": "mqtt in",
-        "z": "9a03a89a80288e0b",
-        "g": "60688dfc55b512e8",
-        "name": "",
-        "topic": "Domo1/Pin8",
-        "qos": "2",
-        "datatype": "auto-detect",
-        "broker": "43d8f9a6025233ec",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 190,
-        "y": 2540,
-        "wires": [
-            [
-                "af27d3c6e8cdb22c",
-                "1ca7d64aad192489"
-            ]
-        ]
-    },
-    {
-        "id": "343cc3a7ab7df197",
-        "type": "mqtt in",
-        "z": "9a03a89a80288e0b",
-        "g": "3d58b23d95ff0a11",
-        "name": "",
-        "topic": "Domo1/Pin1",
-        "qos": "2",
-        "datatype": "auto-detect",
-        "broker": "43d8f9a6025233ec",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 190,
-        "y": 580,
-        "wires": [
-            [
-                "3de0e32ce8581a01"
-            ]
-        ]
-    },
-    {
-        "id": "60e317b4031ca992",
-        "type": "mqtt in",
-        "z": "9a03a89a80288e0b",
-        "g": "3d58b23d95ff0a11",
-        "name": "",
-        "topic": "Domo1/Pin5",
-        "qos": "2",
-        "datatype": "auto-detect",
-        "broker": "43d8f9a6025233ec",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 190,
-        "y": 660,
-        "wires": [
-            [
-                "17efc8f51e563f3f",
-                "844b40ddfd85d05e"
-            ]
-        ]
-    },
-    {
-        "id": "a5ce95598eeaa655",
-        "type": "mqtt in",
-        "z": "9a03a89a80288e0b",
-        "g": "7f2be162e27d008e",
-        "name": "",
-        "topic": "Domo1/Pin6",
-        "qos": "2",
-        "datatype": "auto-detect",
-        "broker": "43d8f9a6025233ec",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 170,
-        "y": 960,
-        "wires": [
-            [
-                "f28abe05ecbc27f1",
-                "daec04544a361ede",
-                "f2561da773f70182"
-            ]
-        ]
-    },
-    {
-        "id": "4c590a5ad2c21cc0",
-        "type": "mqtt in",
-        "z": "9a03a89a80288e0b",
-        "g": "7f2be162e27d008e",
-        "name": "",
-        "topic": "Domo1/Pin7",
-        "qos": "2",
-        "datatype": "auto-detect",
-        "broker": "43d8f9a6025233ec",
-        "nl": false,
-        "rap": true,
-        "rh": 0,
-        "inputs": 0,
-        "x": 170,
-        "y": 1060,
-        "wires": [
-            [
-                "aa62e5b361cbec0c",
-                "daec04544a361ede",
-                "184e95e3f1d0f9c3"
             ]
         ]
     },
@@ -22641,6 +22453,186 @@
         "wires": [
             []
         ]
+    },
+    {
+        "id": "0265be0b7e6e2532",
+        "type": "link in",
+        "z": "9a03a89a80288e0b",
+        "g": "3d58b23d95ff0a11",
+        "name": "PIN1",
+        "links": [
+            "e7e608060ee7b095"
+        ],
+        "x": 215,
+        "y": 580,
+        "wires": [
+            [
+                "3de0e32ce8581a01",
+                "4006fc923ae49874"
+            ]
+        ]
+    },
+    {
+        "id": "2b286441dae479a1",
+        "type": "link in",
+        "z": "9a03a89a80288e0b",
+        "g": "3d58b23d95ff0a11",
+        "name": "PIN5",
+        "links": [
+            "b0fbfd3b87fded39"
+        ],
+        "x": 215,
+        "y": 660,
+        "wires": [
+            [
+                "17efc8f51e563f3f",
+                "844b40ddfd85d05e",
+                "0877c0918fd675d3"
+            ]
+        ]
+    },
+    {
+        "id": "12c8cd261abf3155",
+        "type": "link in",
+        "z": "9a03a89a80288e0b",
+        "g": "7f2be162e27d008e",
+        "name": "PIN6",
+        "links": [
+            "49d9a8084e44ae0b"
+        ],
+        "x": 185,
+        "y": 960,
+        "wires": [
+            [
+                "f28abe05ecbc27f1",
+                "f2561da773f70182"
+            ]
+        ]
+    },
+    {
+        "id": "d52c4854702dea8d",
+        "type": "link in",
+        "z": "9a03a89a80288e0b",
+        "g": "7f2be162e27d008e",
+        "name": "PIN7",
+        "links": [
+            "358fe029b5f63166"
+        ],
+        "x": 195,
+        "y": 1060,
+        "wires": [
+            [
+                "aa62e5b361cbec0c",
+                "184e95e3f1d0f9c3",
+                "daec04544a361ede"
+            ]
+        ]
+    },
+    {
+        "id": "af0d976cc8c87e31",
+        "type": "link in",
+        "z": "9a03a89a80288e0b",
+        "g": "60688dfc55b512e8",
+        "name": "PIN8",
+        "links": [
+            "4deb97adc5f25bc1"
+        ],
+        "x": 215,
+        "y": 2540,
+        "wires": [
+            [
+                "af27d3c6e8cdb22c",
+                "1ca7d64aad192489"
+            ]
+        ]
+    },
+    {
+        "id": "850665588ab85415",
+        "type": "link in",
+        "z": "9a03a89a80288e0b",
+        "g": "3fd9d52d1a8103b9",
+        "name": "PIN2",
+        "links": [
+            "3b4e372f5cf1a84f"
+        ],
+        "x": 225,
+        "y": 2700,
+        "wires": [
+            [
+                "3f25ae71af496ab0",
+                "18e6cd08c523e8b9"
+            ]
+        ]
+    },
+    {
+        "id": "77b29f5e1323eb7d",
+        "type": "link in",
+        "z": "9a03a89a80288e0b",
+        "g": "7e2f81c6cf0e02ec",
+        "name": "PIN3",
+        "links": [
+            "7848130df38badc9"
+        ],
+        "x": 245,
+        "y": 2860,
+        "wires": [
+            [
+                "1135fc87d6fe0d04",
+                "8cfa920b438d8106"
+            ]
+        ]
+    },
+    {
+        "id": "c297801c82e98be3",
+        "type": "link in",
+        "z": "9a03a89a80288e0b",
+        "g": "5695899964f379ab",
+        "name": "PIN4",
+        "links": [
+            "8f4efb61ea671b31"
+        ],
+        "x": 245,
+        "y": 3020,
+        "wires": [
+            [
+                "f35eff9410f39c8e",
+                "14fe888dd3e8a2ab"
+            ]
+        ]
+    },
+    {
+        "id": "4006fc923ae49874",
+        "type": "debug",
+        "z": "9a03a89a80288e0b",
+        "g": "3d58b23d95ff0a11",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 360,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "0877c0918fd675d3",
+        "type": "debug",
+        "z": "9a03a89a80288e0b",
+        "g": "3d58b23d95ff0a11",
+        "name": "debug 2",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 140,
+        "y": 620,
+        "wires": []
     },
     {
         "id": "a862e394fb0cb543",
@@ -23846,7 +23838,7 @@
         "type": "mqtt in",
         "z": "6ea73aaa86fa7f6c",
         "name": "Domogarage",
-        "topic": "Domo/#",
+        "topic": "Domogarage/#",
         "qos": "2",
         "datatype": "auto-detect",
         "broker": "43d8f9a6025233ec",
@@ -23902,7 +23894,9 @@
         "z": "6ea73aaa86fa7f6c",
         "name": "PIN1",
         "mode": "link",
-        "links": [],
+        "links": [
+            "0265be0b7e6e2532"
+        ],
         "x": 855,
         "y": 20,
         "wires": []
@@ -23913,7 +23907,9 @@
         "z": "6ea73aaa86fa7f6c",
         "name": "PIN2",
         "mode": "link",
-        "links": [],
+        "links": [
+            "850665588ab85415"
+        ],
         "x": 855,
         "y": 60,
         "wires": []
@@ -23924,7 +23920,9 @@
         "z": "6ea73aaa86fa7f6c",
         "name": "PIN3",
         "mode": "link",
-        "links": [],
+        "links": [
+            "77b29f5e1323eb7d"
+        ],
         "x": 855,
         "y": 100,
         "wires": []
@@ -23935,7 +23933,9 @@
         "z": "6ea73aaa86fa7f6c",
         "name": "PIN4",
         "mode": "link",
-        "links": [],
+        "links": [
+            "c297801c82e98be3"
+        ],
         "x": 855,
         "y": 140,
         "wires": []
@@ -23946,7 +23946,9 @@
         "z": "6ea73aaa86fa7f6c",
         "name": "PIN5",
         "mode": "link",
-        "links": [],
+        "links": [
+            "2b286441dae479a1"
+        ],
         "x": 855,
         "y": 180,
         "wires": []
@@ -23957,7 +23959,9 @@
         "z": "6ea73aaa86fa7f6c",
         "name": "PIN6",
         "mode": "link",
-        "links": [],
+        "links": [
+            "12c8cd261abf3155"
+        ],
         "x": 855,
         "y": 220,
         "wires": []
@@ -23968,7 +23972,9 @@
         "z": "6ea73aaa86fa7f6c",
         "name": "PIN7",
         "mode": "link",
-        "links": [],
+        "links": [
+            "d52c4854702dea8d"
+        ],
         "x": 855,
         "y": 260,
         "wires": []
@@ -23979,7 +23985,9 @@
         "z": "6ea73aaa86fa7f6c",
         "name": "PIN8",
         "mode": "link",
-        "links": [],
+        "links": [
+            "af0d976cc8c87e31"
+        ],
         "x": 855,
         "y": 300,
         "wires": []
@@ -23990,7 +23998,9 @@
         "z": "6ea73aaa86fa7f6c",
         "name": "TEMP1",
         "mode": "link",
-        "links": [],
+        "links": [
+            "bc227d41772a4cfb"
+        ],
         "x": 855,
         "y": 340,
         "wires": []
